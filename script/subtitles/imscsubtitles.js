@@ -68,7 +68,7 @@ define('bigscreenplayer/subtitles/imscsubtitles',
             try {
               var xml = IMSC.fromXML(responseText.split(/<\?xml version=\"1.0\" encoding=\"UTF-8\"\?>/i)[1] || responseText);
               var times = xml.getMediaTimeEvents();
-
+/////changes goes here
               segments.push({
                 xml: modifyStyling(xml),
                 times: times || [0],
@@ -139,10 +139,29 @@ define('bigscreenplayer/subtitles/imscsubtitles',
         if (opts === undefined) return;
 
         var customStyles = {};
+        //  //if (opts === undefined) return;
+        //  opts = {};
+        //  //var customStyles = {};
+        //  var customStyles = {
+        //    hdr:true
+        //  };
 
         if (opts.backgroundColour) {
           customStyles.spanBackgroundColorAdjust = {transparent: opts.backgroundColour};
         }
+
+        //console.debug('REACHED HERE');
+        //////set HDR to true
+        if (opts.hdr) {
+          //customStyles.hdr = true;
+          //console.debug('set hdr to:', opts.hdr);
+          customStyles.hdr = opts.hdr;
+          //customStyles.
+        }
+        else{
+          //console.debug('Set hdr to false');
+          customStyles.hdr = false;
+          }
 
         if (opts.fontFamily) {
           customStyles.fontFamily = opts.fontFamily;
@@ -207,6 +226,7 @@ define('bigscreenplayer/subtitles/imscsubtitles',
         currentSubtitlesElement.style.position = 'absolute';
         parentElement.appendChild(currentSubtitlesElement);
 
+        /////changes goes here
         renderHTML(xml, currentTime, currentSubtitlesElement, imscRenderOpts, parentElement.clientHeight, parentElement.clientWidth);
       }
 
