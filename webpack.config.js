@@ -23,6 +23,11 @@
         bigscreenplayer: path.resolve(__dirname, 'script')
       }
     },
+    devServer: {
+	disableHostCheck: true, // fix "Invalid host header" response
+	host: "0.0.0.0",
+	port: 8080
+    },
     module: {
       rules: [
         {
