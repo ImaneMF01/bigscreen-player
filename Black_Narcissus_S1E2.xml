@@ -1,0 +1,2623 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ebuttm="urn:ebu:tt:metadata" xmlns:ebutts="urn:ebu:tt:style" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ittp:activeArea="12% 5% 76% 90%" ttp:cellResolution="40 24" ttp:timeBase="media" xml:lang="en-GB" xml:space="default">
+<head>
+<ttm:copyright>BBC</ttm:copyright>
+<metadata>
+<ebuttm:documentMetadata>
+<ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+<ebuttm:conformsToStandard>urn:ebu:tt:distribution:2018-04</ebuttm:conformsToStandard>
+<ebuttm:documentOriginatingSystem>ebu-tt-live.3.0.0.EBUTT3EBUTTDConverter/Distiller(f5fae11)</ebuttm:documentOriginatingSystem>
+</ebuttm:documentMetadata>
+</metadata>
+<styling>
+<style ebutts:linePadding="0.5c" tts:textAlign="start" xml:id="S1"/>
+<style tts:textAlign="center" xml:id="S2"/>
+<style tts:backgroundColor="#000000ff" tts:color="#ffffffff" xml:id="S3"/>
+<style xml:id="S4"/>
+<style tts:backgroundColor="#000000ff" tts:color="#00ffffff" xml:id="S5"/>
+<style tts:backgroundColor="#000000ff" tts:color="#ffff00ff" xml:id="S6"/>
+<style tts:backgroundColor="#000000ff" tts:color="#00ff00ff" xml:id="S7"/>
+<style tts:textAlign="center" xml:id="S8"/>
+<style itts:fillLineGap="true" xml:id="StyleFillLineGapTrue"/>
+<style tts:fontFamily="ReithSans, Arial, Roboto, proportionalSansSerif, default" xml:id="fontFamilyStyle"/>
+<style tts:fontSize="150%" tts:lineHeight="120%" xml:id="autogenFontStyle_n_150_120"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="76% 7.826%" tts:origin="12% 87.174%" tts:overflow="visible" xml:id="R7"/>
+<region tts:displayAlign="after" tts:extent="76% 15.652%" tts:origin="12% 5%" tts:overflow="visible" xml:id="R33"/>
+<region tts:displayAlign="after" tts:extent="76% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="R37"/>
+<region tts:displayAlign="after" tts:extent="76% 7.826%" tts:origin="12% 67.609%" tts:overflow="visible" xml:id="R44"/>
+<region tts:displayAlign="after" tts:extent="70.375% 23.478%" tts:origin="17.625% 71.522%" tts:overflow="visible" xml:id="agr_3_18_37_6_after"/>
+<region tts:displayAlign="after" tts:extent="74.125% 7.826%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_39_2_after"/>
+<region tts:displayAlign="after" tts:extent="70.375% 7.826%" tts:origin="17.625% 87.174%" tts:overflow="visible" xml:id="agr_3_22_37_2_after"/>
+<region tts:displayAlign="after" tts:extent="74.125% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_39_4_after"/>
+<region tts:displayAlign="after" tts:extent="31% 7.826%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_16_2_after"/>
+<region tts:displayAlign="after" tts:extent="74.125% 15.652%" tts:origin="13.875% 79.348%" tts:overflow="visible" xml:id="agr_1_20_39_4_after"/>
+<region tts:displayAlign="after" tts:extent="72.25% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_38_4_after"/>
+<region tts:displayAlign="after" tts:extent="70.375% 15.652%" tts:origin="17.625% 79.348%" tts:overflow="visible" xml:id="agr_3_20_37_4_after"/>
+<region tts:displayAlign="after" tts:extent="74.125% 7.826%" tts:origin="12% 87.174%" tts:overflow="visible" xml:id="agr_0_22_39_2_after"/>
+<region tts:displayAlign="after" tts:extent="68.5% 15.652%" tts:origin="19.5% 79.348%" tts:overflow="visible" xml:id="agr_4_20_36_4_after"/>
+<region tts:displayAlign="after" tts:extent="72.25% 15.652%" tts:origin="15.75% 79.348%" tts:overflow="visible" xml:id="agr_2_20_38_4_after"/>
+<region tts:displayAlign="after" tts:extent="34.75% 7.826%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_18_2_after"/>
+<region tts:displayAlign="after" tts:extent="55.375% 7.826%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_29_2_after"/>
+<region tts:displayAlign="after" tts:extent="76% 7.826%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_40_2_after"/>
+<region tts:displayAlign="after" tts:extent="38.5% 7.826%" tts:origin="12% 87.174%" tts:overflow="visible" xml:id="agr_0_22_20_2_after"/>
+<region tts:displayAlign="after" tts:extent="34.75% 7.826%" tts:origin="12% 87.174%" tts:overflow="visible" xml:id="agr_0_22_18_2_after"/>
+<region tts:displayAlign="after" tts:extent="61% 7.826%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_32_2_after"/>
+</layout>
+</head>
+<body ttm:role="caption">
+<div style="autogenFontStyle_n_150_120 S1 StyleFillLineGapTrue fontFamilyStyle">
+<p begin="00:00:02" end="00:00:05" region="agr_3_18_37_6_after" style="S2" xml:id="C2_1">
+<span style="S3">This programme contains some scenes</span>
+<br/>
+<span style="S3">which some viewers may find</span>
+<br/>
+<span style="S3">upsetting</span>
+</p>
+<p begin="00:00:05" end="00:00:06.360" region="R7" style="S4" xml:id="C3">
+<span style="S3">and some scenes of a sexual nature</span>
+</p>
+<p begin="00:00:06.360" end="00:00:08.560" region="agr_0_20_39_2_after" style="S2" xml:id="C4_1">
+<span style="S5">Mopu is a wild place.</span>
+</p>
+<p begin="00:00:06.360" end="00:00:08.560" region="agr_3_22_37_2_after" style="S2" xml:id="C4_2">
+<span style="S5">There isn't even a policeman there.</span>
+</p>
+<p begin="00:00:08.560" end="00:00:10.160" region="agr_0_20_39_4_after" style="S2" xml:id="C5_1">
+<span style="S5">Just the General's agent.</span>
+<br/>
+<span style="S6">How do you do?</span>
+</p>
+<p begin="00:00:10.160" end="00:00:11.640" region="R7" style="S2" xml:id="C6">
+<span style="S5">A Mr Dean.</span>
+</p>
+<p begin="00:00:11.640" end="00:00:13.440" region="agr_0_20_39_4_after" style="S2" xml:id="C7_1">
+<span style="S6">Do you know what the locals</span>
+<br/>
+<span style="S6">call this place?</span>
+</p>
+<p begin="00:00:13.440" end="00:00:15.360" region="R7" style="S2" xml:id="C8">
+<span style="S6">The House Of Women.</span>
+</p>
+<p begin="00:00:15.360" end="00:00:17.480" region="R37" style="S2" xml:id="C9_1">
+<span style="S7">What if this house doesn't</span>
+<br/>
+<span style="S7">want us here, Sister?</span>
+</p>
+<p begin="00:00:17.480" end="00:00:19.760" region="agr_0_20_39_4_after" style="S2" xml:id="C10_1">
+<span style="S5">Did you priest not tell</span>
+<br/>
+<span style="S5">you about Srimati Devi?</span>
+</p>
+<p begin="00:00:19.760" end="00:00:22.120" region="R7" style="S2" xml:id="C11">
+<span style="S3">Sister Briony! A needle, now! Go!</span>
+</p>
+<p begin="00:00:22.120" end="00:00:24.280" region="R37" style="S2" xml:id="C12_1">
+<span style="S6">For God's sake, woman!</span>
+<br/>
+<span style="S3">We don't need your help.</span>
+</p>
+<p begin="00:00:24.280" end="00:00:27.360" region="agr_0_20_16_2_after" style="S2" ttm:role="sound" xml:id="C13_1">
+<span style="S3">SHOUTING</span>
+</p>
+<p begin="00:00:24.280" end="00:00:27.360" region="R7" style="S2" ttm:role="sound" xml:id="C13_2">
+<span style="S3">Now stop it!</span>
+</p>
+<p begin="00:00:29.720" end="00:00:32.520" region="agr_0_20_39_4_after" style="S2" xml:id="C14_1">
+<span style="S7">..as we forgive those</span>
+<br/>
+<span style="S7">who trespass against us.</span>
+</p>
+<p begin="00:00:36.120" end="00:00:37.640" region="R7" style="S2" xml:id="C15">
+<span style="S7">Our Father who art in Heaven,</span>
+</p>
+<p begin="00:00:37.640" end="00:00:40.360" region="agr_1_20_39_4_after" style="S2" xml:id="C16_1">
+<span style="S7">hallowed be thy name. Thy kingdom</span>
+<br/>
+<span style="S7">come, thy will be done...</span>
+</p>
+<p begin="00:00:40.360" end="00:00:43.280" region="R37" style="S2" xml:id="C17_1">
+<span style="S6">Sister Clodagh, I'm asking you</span>
+<br/>
+<span style="S6">not to do this.</span>
+</p>
+<p begin="00:00:43.280" end="00:00:45.320" region="agr_0_20_38_4_after" style="S2" xml:id="C18_1">
+<span style="S6">The women in the</span>
+<br/>
+<span style="S6">village can care for him.</span>
+</p>
+<p begin="00:00:45.320" end="00:00:47.520" region="R7" style="S2" xml:id="C19">
+<span style="S3">Excuse me.</span>
+</p>
+<p begin="00:00:47.520" end="00:00:50.120" region="R7" style="S2" xml:id="C20">
+<span style="S3">Do you need me to...?</span>
+<span style="S5"> Yes.</span>
+</p>
+<p begin="00:00:50.120" end="00:00:53" region="agr_3_20_37_4_after" style="S2" xml:id="C21_1">
+<span style="S6">If anything happens to him...</span>
+<span style="S3"> Would</span>
+<br/>
+<span style="S3">you have the boy bleed to death?</span>
+</p>
+<p begin="00:00:53" end="00:00:54.360" region="R7" style="S2" xml:id="C22">
+<span style="S6">I've told you, I can't answer for</span>
+</p>
+<p begin="00:00:54.360" end="00:00:56.040" region="R37" style="S2" xml:id="C23_1">
+<span style="S6">the consequences</span>
+<br/>
+<span style="S6">of you treating him.</span>
+</p>
+<p begin="00:00:56.040" end="00:00:58.280" region="R37" style="S2" xml:id="C24_1">
+<span style="S3">Well, go, then. Mr Dean.</span>
+<br/>
+<span style="S3">We don't need your help.</span>
+</p>
+<p begin="00:00:58.280" end="00:01:02.040" region="R33" style="S2" xml:id="C25">
+<span style="S3">We can manage without you.</span>
+<span style="S6"> All</span>
+<br/>
+<span style="S6">right. If that's what you want.</span>
+</p>
+<p begin="00:01:02.040" end="00:01:05.200" region="R7" style="S2" xml:id="C26">
+<span style="S6">You're on your own.</span>
+<span style="S3"> We are with God.</span>
+</p>
+<p begin="00:01:05.200" end="00:01:07.320" region="R33" ttm:role="sound" xml:id="C27">
+<span style="S3">THEY CONTINUE TO RECITE</span>
+<br/>
+<span style="S3">THE LORD'S PRAYER</span>
+</p>
+<p begin="00:01:09.800" end="00:01:11.680" region="R7" style="S8" xml:id="C28">
+<span style="S5">Bye, Mr Dean.</span>
+</p>
+<p begin="00:01:13.080" end="00:01:15" region="R7" style="S8" xml:id="C29">
+<span style="S7">Namaste, Mr Dean.</span>
+</p>
+<p begin="00:01:15" end="00:01:17.120" region="agr_0_20_39_4_after" style="S2" xml:id="C30_1">
+<span style="S6">Thy kingdom come,</span>
+<br/>
+<span style="S6">thy will be done...</span>
+<span style="S3"> Yes.</span>
+</p>
+<p begin="00:01:17.120" end="00:01:18.520" region="R7" style="S4" ttm:role="sound" xml:id="C31">
+<span style="S3">HE CRIES OUT IN PAIN</span>
+</p>
+<p begin="00:01:18.520" end="00:01:21.600" region="agr_3_20_37_4_after" style="S2" xml:id="C32_1">
+<span style="S6">...Give us this day our daily bread</span>
+<br/>
+<span style="S6">and forgive us our trespasses,</span>
+</p>
+<p begin="00:01:21.600" end="00:01:24.200" region="agr_0_20_39_4_after" style="S2" xml:id="C33_1">
+<span style="S6">as we forgive those</span>
+<br/>
+<span style="S6">who trespass against us</span>
+</p>
+<p begin="00:01:24.200" end="00:01:25.920" region="R7" style="S2" xml:id="C34">
+<span style="S3">Amen.</span>
+</p>
+<p begin="00:01:25.920" end="00:01:30" region="R37" ttm:role="sound" xml:id="C35">
+<span style="S3">VOICES AND PRAYING TALK</span>
+<br/>
+<span style="S3">OVER ONE ANOTHER</span>
+</p>
+<p begin="00:01:30" end="00:01:33.320" region="agr_0_20_16_2_after" style="S2" ttm:role="sound" xml:id="C36_1">
+<span style="S3">HE MOANS</span>
+</p>
+<p begin="00:01:30" end="00:01:33.320" region="agr_0_22_39_2_after" style="S2" ttm:role="sound" xml:id="C36_2">
+<span style="S3">Sh, sh, sh, sh.</span>
+</p>
+<p begin="00:01:33.320" end="00:01:35.200" region="R7" style="S4" xml:id="C37">
+<span style="S7">..and forgive us our trespasses</span>
+</p>
+<p begin="00:01:35.200" end="00:01:37.840" region="agr_0_20_39_4_after" style="S2" xml:id="C38_1">
+<span style="S7">..as we forgive those</span>
+<br/>
+<span style="S7">who trespass against us.</span>
+</p>
+<p begin="00:01:37.840" end="00:01:39.200" region="R7" style="S2" xml:id="C39">
+<span style="S7">Hallowed be thy name.</span>
+</p>
+<p begin="00:01:39.200" end="00:01:42.640" region="agr_1_20_39_4_after" style="S2" xml:id="C40_1">
+<span style="S7">Thy kingdom come, thy will be</span>
+<br/>
+<span style="S7">done on Earth as it is in Heaven.</span>
+</p>
+<p begin="00:01:42.640" end="00:01:44.480" region="R7" style="S2" xml:id="C41">
+<span style="S7">Lead us not into temptation.</span>
+</p>
+<p begin="00:01:45.800" end="00:01:47.360" region="R7" style="S2" xml:id="C42">
+<span style="S7">Forgive us our trespasses.</span>
+</p>
+<p begin="00:01:47.360" end="00:01:49.800" region="agr_0_20_39_4_after" style="S2" xml:id="C43_1">
+<span style="S3">Sisters, can you tend</span>
+<br/>
+<span style="S3">to Sister Ruth, please.</span>
+</p>
+<p begin="00:01:49.800" end="00:01:52.760" region="R37" style="S2" xml:id="C44_1">
+<span style="S3">Perhaps the chapel would</span>
+<br/>
+<span style="S3">be more suitable.</span>
+</p>
+<p begin="00:01:57.280" end="00:01:59.120" region="R7" style="S2" xml:id="C45">
+<span style="S5">It's all right, Sister,</span>
+</p>
+<p begin="00:01:59.120" end="00:02:01.560" region="R7" style="S2" xml:id="C46">
+<span style="S5">Lean on me.</span>
+</p>
+<p begin="00:02:14.360" end="00:02:16.600" region="R7" style="S2" xml:id="C47">
+<span style="S7">No!</span>
+</p>
+<p begin="00:02:24.040" end="00:02:27.280" region="R7" style="S2" xml:id="C48">
+<span style="S3">Thank you.</span>
+</p>
+<p begin="00:02:27.280" end="00:02:29.840" region="agr_1_20_39_4_after" style="S2" xml:id="C49_1">
+<span style="S3">I thank God for your steady hand,</span>
+<br/>
+<span style="S3">Sister Briony.</span>
+</p>
+<p begin="00:02:29.840" end="00:02:33.320" region="agr_0_20_39_4_after" style="S2" xml:id="C50_1">
+<span style="S5">I can't say it's my</span>
+<br/>
+<span style="S5">fanciest embroidery...</span>
+</p>
+<p begin="00:02:33.320" end="00:02:36.160" region="R7" style="S2" xml:id="C51">
+<span style="S5">..but it'll do.</span>
+</p>
+<p begin="00:03:06.400" end="00:03:09.560" region="R7" style="S2" xml:id="C52">
+<span style="S3">We did the right thing.</span>
+</p>
+<p begin="00:03:09.560" end="00:03:11.840" region="R7" style="S2" xml:id="C53">
+<span style="S3">The danger is passed, Sisters.</span>
+</p>
+<p begin="00:03:15.400" end="00:03:18.800" region="R7" style="S2" xml:id="C54">
+<span style="S3">Sister Ruth...</span>
+</p>
+<p begin="00:03:18.800" end="00:03:21.600" region="R7" style="S2" xml:id="C55">
+<span style="S3">..we should get you to bed.</span>
+</p>
+<p begin="00:03:21.600" end="00:03:25.960" region="agr_0_20_39_4_after" style="S2" xml:id="C56_1">
+<span style="S3">It's all been too</span>
+<br/>
+<span style="S3">much for you.</span>
+<span style="S6"> Don't touch me.</span>
+</p>
+<p begin="00:03:25.960" end="00:03:28.400" region="R7" style="S2" xml:id="C57">
+<span style="S6">You're not allowed to touch me.</span>
+</p>
+<p begin="00:04:03.160" end="00:04:05.840" region="R7" style="S4" ttm:role="sound" xml:id="C58">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:04:17.760" end="00:04:19.280" region="R7" style="S4" ttm:role="sound" xml:id="C59">
+<span style="S3">GOAT BLEATS</span>
+</p>
+<p begin="00:04:19.280" end="00:04:22.640" region="R7" style="S2" xml:id="C60">
+<span style="S5">Oh! The hill post...</span>
+</p>
+<p begin="00:04:22.640" end="00:04:24.880" region="R7" style="S2" xml:id="C61">
+<span style="S5">..and my harmonium.</span>
+</p>
+<p begin="00:04:37.720" end="00:04:38.920" region="R7" style="S2" xml:id="C62">
+<span style="S5">Morning, Sister Clodagh.</span>
+</p>
+<p begin="00:04:38.920" end="00:04:40.480" region="R44" style="S2" xml:id="C63">
+<span style="S5">They're coming.</span>
+</p>
+<p begin="00:04:40.480" end="00:04:42.920" region="R44" style="S2" xml:id="C64">
+<span style="S3">Good morning, Sister Briony.</span>
+</p>
+<p begin="00:04:48.840" end="00:04:51.200" region="R7" style="S2" xml:id="C65">
+<span style="S7">Keep going.</span>
+</p>
+<p begin="00:04:59.280" end="00:05:00.920" region="R7" style="S2" xml:id="C66">
+<span style="S3">Namaste.</span>
+<span style="S7"> Namaste.</span>
+</p>
+<p begin="00:05:00.920" end="00:05:03.040" region="agr_0_20_38_4_after" style="S2" xml:id="C67_1">
+<span style="S3">Would you put the crates</span>
+<br/>
+<span style="S3">over by the door, please?</span>
+</p>
+<p begin="00:05:03.040" end="00:05:05.240" region="R7" style="S2" xml:id="C68">
+<span style="S3">Thank you.</span>
+</p>
+<p begin="00:05:05.240" end="00:05:08.400" region="R7" style="S2" xml:id="C69">
+<span style="S3">Ah!</span>
+</p>
+<p begin="00:05:08.400" end="00:05:11.040" region="R7" style="S2" xml:id="C70">
+<span style="S5">We must keep ticking over...</span>
+</p>
+<p begin="00:05:16.720" end="00:05:18.880" region="R37" style="S2" xml:id="C71_1">
+<span style="S3">MOTHER DOROTHEA'S VOICE:</span>
+<br/>
+<span style="S5">Dear Sister Clodagh,</span>
+</p>
+<p begin="00:05:18.880" end="00:05:22.920" region="agr_0_20_39_4_after" style="S2" xml:id="C72_1">
+<span style="S5">may the Lord bless and keep</span>
+<br/>
+<span style="S5">all at the convent of St Faith.</span>
+</p>
+<p begin="00:05:22.920" end="00:05:25.240" region="R37" style="S2" xml:id="C73_1">
+<span style="S5">I'm glad to hear the</span>
+<br/>
+<span style="S5">of coming of winter</span>
+</p>
+<p begin="00:05:25.240" end="00:05:28.760" region="R37" style="S2" xml:id="C74_1">
+<span style="S5">has made little impact</span>
+<br/>
+<span style="S5">on your work at Mopu.</span>
+</p>
+<p begin="00:05:28.760" end="00:05:32.400" region="R37" style="S2" xml:id="C75_1">
+<span style="S5">While every member fulfils</span>
+<br/>
+<span style="S5">her purpose,</span>
+</p>
+<p begin="00:05:32.400" end="00:05:34.320" region="R7" style="S2" xml:id="C76">
+<span style="S5">the community of St Faith</span>
+</p>
+<p begin="00:05:34.320" end="00:05:37.320" region="R37" style="S2" xml:id="C77_1">
+<span style="S5">will surely succeed to</span>
+<br/>
+<span style="S5">the glory of the Lord.</span>
+</p>
+<p begin="00:05:39" end="00:05:40.680" region="R7" style="S2" xml:id="C78">
+<span style="S5">Only time will tell</span>
+</p>
+<p begin="00:05:40.680" end="00:05:45.240" region="agr_1_20_39_4_after" style="S2" xml:id="C79_1">
+<span style="S5">if Sister Ruth is truly</span>
+<br/>
+<span style="S5">suited to the conditions in Mopu.</span>
+</p>
+<p begin="00:05:45.240" end="00:05:48.800" region="R37" style="S2" xml:id="C80_1">
+<span style="S5">I have discussed your suggestion</span>
+<br/>
+<span style="S5">with Father Roberts.</span>
+</p>
+<p begin="00:05:48.800" end="00:05:53" region="agr_1_20_39_4_after" style="S2" xml:id="C81_1">
+<span style="S5">We are agreed when the dear</span>
+<br/>
+<span style="S5">Father makes his Christmas visit,</span>
+</p>
+<p begin="00:05:53" end="00:05:55.960" region="agr_0_20_39_4_after" style="S2" xml:id="C82_1">
+<span style="S5">he alone will</span>
+<br/>
+<span style="S5">determine if it is best</span>
+</p>
+<p begin="00:05:55.960" end="00:06:00.320" region="agr_0_20_39_4_after" style="S2" xml:id="C83_1">
+<span style="S5">for Sister Ruth to be</span>
+<br/>
+<span style="S5">brought back to Darjeeling.</span>
+</p>
+<p begin="00:06:00.320" end="00:06:02.520" region="R7" style="S2" xml:id="C84">
+<span style="S5">Remember, Clodagh,</span>
+</p>
+<p begin="00:06:02.520" end="00:06:04.440" region="R7" style="S2" xml:id="C85">
+<span style="S5">the superior of all</span>
+</p>
+<p begin="00:06:04.440" end="00:06:07.080" region="R7" style="S2" xml:id="C86">
+<span style="S5">is the servant of all.</span>
+</p>
+<p begin="00:06:13.920" end="00:06:17.360" region="R7" style="S2" xml:id="C87">
+<span style="S7">St Faith, Sister Clodagh.</span>
+</p>
+<p begin="00:06:17.360" end="00:06:20.080" region="agr_0_20_39_4_after" style="S2" xml:id="C88_1">
+<span style="S7">Isn't it good to see her?</span>
+<br/>
+<span style="S3">Indeed, it is, Sister.</span>
+</p>
+<p begin="00:06:23" end="00:06:24.400" region="R7" style="S2" xml:id="C89">
+<span style="S5">Can I have a hand with Our Lord?</span>
+</p>
+<p begin="00:06:24.400" end="00:06:28.280" region="agr_4_20_36_4_after" style="S2" xml:id="C90_1">
+<span style="S5">Oh, well, it would be so nice to</span>
+<br/>
+<span style="S5">have a proper place to put St Faith,</span>
+</p>
+<p begin="00:06:28.280" end="00:06:30.440" region="agr_0_20_39_4_after" style="S2" xml:id="C91_1">
+<span style="S5">Sister Clodagh,</span>
+<br/>
+<span style="S5">not to mention Our Lord.</span>
+</p>
+<p begin="00:06:30.440" end="00:06:32.160" region="R7" style="S2" xml:id="C92">
+<span style="S5">A plinth. Is that what it's called?</span>
+</p>
+<p begin="00:06:32.160" end="00:06:34.120" region="agr_0_20_39_4_after" style="S2" xml:id="C93_1">
+<span style="S3">Can't you ask the gardeners</span>
+<br/>
+<span style="S3">to make something?</span>
+</p>
+<p begin="00:06:34.120" end="00:06:37.040" region="agr_0_20_39_4_after" style="S2" xml:id="C94_1">
+<span style="S3">They seem handy enough.</span>
+<br/>
+<span style="S5">No, not with carpentry.</span>
+</p>
+<p begin="00:06:37.040" end="00:06:39.160" region="R7" style="S4" ttm:role="sound" xml:id="C95">
+<span style="S3">HE SPEAKS LOCAL DIALECT</span>
+</p>
+<p begin="00:06:42.320" end="00:06:45.560" region="R7" style="S2" xml:id="C96">
+<span style="S5">Good day to you.</span>
+</p>
+<p begin="00:06:45.560" end="00:06:48" region="R7" style="S2" xml:id="C97">
+<span style="S5">How many will we need?</span>
+</p>
+<p begin="00:06:49.400" end="00:06:52.840" region="R7" style="S2" xml:id="C98">
+<span style="S3">Ah, yes. Blankets.</span>
+<span style="S5"> Very good.</span>
+</p>
+<p begin="00:06:52.840" end="00:06:54.680" region="R7" style="S2" xml:id="C99">
+<span style="S3">Sister Ruth, what do you think?</span>
+</p>
+<p begin="00:06:54.680" end="00:06:57.240" region="R37" style="S2" xml:id="C100_1">
+<span style="S3">They look like they'd help</span>
+<br/>
+<span style="S3">to keep out the draughts.</span>
+</p>
+<p begin="00:06:57.240" end="00:06:59.240" region="agr_0_20_39_4_after" style="S2" xml:id="C101_1">
+<span style="S5">Ooh, they're a decent</span>
+<br/>
+<span style="S5">weight at least.</span>
+</p>
+<p begin="00:06:59.240" end="00:07:01.400" region="R7" style="S2" xml:id="C102">
+<span style="S5">Oh, is that Mr Dean?</span>
+</p>
+<p begin="00:07:01.400" end="00:07:03.400" region="R7" style="S2" xml:id="C103">
+<span style="S5">Yes, it is.</span>
+</p>
+<p begin="00:07:03.400" end="00:07:06.920" region="R7" style="S2" xml:id="C104">
+<span style="S5">Mr Dean? Good day to you.</span>
+</p>
+<p begin="00:07:06.920" end="00:07:09.120" region="R7" style="S2" xml:id="C105">
+<span style="S6">Good day to you, Sister Briony.</span>
+</p>
+<p begin="00:07:09.120" end="00:07:12.160" region="R7" style="S2" xml:id="C106">
+<span style="S6">Sisters.</span>
+<span style="S3"> Mr Dean.</span>
+</p>
+<p begin="00:07:12.160" end="00:07:13.880" region="R7" style="S2" xml:id="C107">
+<span style="S3">Oh, look. Isn't that Om's mother?</span>
+</p>
+<p begin="00:07:13.880" end="00:07:15.640" region="R37" style="S2" xml:id="C108_1">
+<span style="S5">Perhaps you should</span>
+<br/>
+<span style="S5">speak to Mr Dean</span>
+</p>
+<p begin="00:07:15.640" end="00:07:17.520" region="R7" style="S2" xml:id="C109">
+<span style="S5">about the statues, Sister Clodagh,</span>
+</p>
+<p begin="00:07:17.520" end="00:07:20.200" region="agr_2_20_38_4_after" style="S2" xml:id="C110_1">
+<span style="S5">and actually there are quite a few</span>
+<br/>
+<span style="S5">jobs that need looking at.</span>
+</p>
+<p begin="00:07:20.200" end="00:07:22.640" region="agr_0_20_39_4_after" style="S2" xml:id="C111_1">
+<span style="S3">We can't keep running</span>
+<br/>
+<span style="S3">to Mr Dean, Sister.</span>
+</p>
+<p begin="00:07:22.640" end="00:07:25.320" region="R7" style="S2" xml:id="C112">
+<span style="S3">He has his own work to do.</span>
+</p>
+<p begin="00:07:25.320" end="00:07:27.840" region="R37" style="S2" xml:id="C113_1">
+<span style="S3">Sister Blanche said Om expects</span>
+<br/>
+<span style="S3">the baby to be there at home</span>
+</p>
+<p begin="00:07:27.840" end="00:07:31.640" region="agr_1_20_39_4_after" style="S2" xml:id="C114_1">
+<span style="S3">every day when he comes</span>
+<br/>
+<span style="S3">home from school.</span>
+<span style="S5"> Bless his soul.</span>
+</p>
+<p begin="00:07:31.640" end="00:07:34.680" region="R7" style="S2" xml:id="C115">
+<span style="S5">I wonder how many we actually need.</span>
+</p>
+<p begin="00:07:36.200" end="00:07:40.720" region="agr_0_20_39_4_after" style="S2" xml:id="C116_1">
+<span style="S6">How are you, Sister Ruth?</span>
+<br/>
+<span style="S7">Very well, thank you, Mr Dean.</span>
+</p>
+<p begin="00:07:41.720" end="00:07:44.880" region="agr_0_20_39_4_after" style="S2" xml:id="C117_1">
+<span style="S7">Actually, I was quite</span>
+<br/>
+<span style="S7">unwell for a time.</span>
+</p>
+<p begin="00:07:44.880" end="00:07:46.320" region="R7" style="S2" xml:id="C118">
+<span style="S6">Sorry to hear it.</span>
+</p>
+<p begin="00:07:46.320" end="00:07:48.600" region="R7" style="S2" xml:id="C119">
+<span style="S7">I'm feeling much stronger now.</span>
+</p>
+<p begin="00:07:48.600" end="00:07:52.520" region="R37" style="S2" xml:id="C120_1">
+<span style="S3">Sister Ruth, can</span>
+<br/>
+<span style="S3">you help me, please?</span>
+</p>
+<p begin="00:07:55.480" end="00:07:59.720" region="R37" style="S2" xml:id="C121">
+<span style="S3">Can you say for me 24 annas is the</span>
+<br/>
+<span style="S3">most we'll pay for eight blankets?</span>
+</p>
+<p begin="00:07:59.720" end="00:08:02.200" region="R7" style="S2" xml:id="C122">
+<span style="S7">But there are five of us.</span>
+<span style="S3"> Yes.</span>
+</p>
+<p begin="00:08:02.200" end="00:08:05.440" region="agr_0_20_39_4_after" style="S2" xml:id="C123_1">
+<span style="S3">One for Joseph Anthony,</span>
+<br/>
+<span style="S3">one for Kanchi and one for Angu.</span>
+</p>
+<p begin="00:08:12.840" end="00:08:15.360" region="R7" style="S4" ttm:role="sound" xml:id="C124">
+<span style="S3">SHE ASKS IN LOCAL DIALECT</span>
+</p>
+<p begin="00:08:18.400" end="00:08:20.200" region="R7" style="S2" xml:id="C125">
+<span style="S3">What am I - a donkey now, eh?</span>
+</p>
+<p begin="00:08:20.200" end="00:08:23" region="R37" style="S2" xml:id="C126_1">
+<span style="S5">Here's your milk, Sister Ruth.</span>
+<br/>
+<span style="S5">Drink up. That's it.</span>
+</p>
+<p begin="00:08:23" end="00:08:26.080" region="agr_0_20_38_4_after" style="S2" xml:id="C127_1">
+<span style="S5">Now, Angu, the</span>
+<br/>
+<span style="S5">bathhouse needs cleaning.</span>
+</p>
+<p begin="00:08:26.080" end="00:08:28.040" region="R7" style="S2" xml:id="C128">
+<span style="S5">Sister Ruth will help you.</span>
+</p>
+<p begin="00:08:51.280" end="00:08:53.640" region="R7" style="S2" xml:id="C129">
+<span style="S3">When Srimati Devi was ill,</span>
+</p>
+<p begin="00:08:53.640" end="00:08:56" region="R7" style="S2" xml:id="C130">
+<span style="S3">sometimes...</span>
+</p>
+<p begin="00:08:56" end="00:08:58.600" region="R37" style="S2" xml:id="C131_1">
+<span style="S3">..sometimes we had</span>
+<br/>
+<span style="S3">to lock her in here,</span>
+</p>
+<p begin="00:08:58.600" end="00:09:01.320" region="R7" style="S2" xml:id="C132">
+<span style="S3">for keeping her safe.</span>
+</p>
+<p begin="00:09:01.320" end="00:09:03.680" region="R7" style="S2" xml:id="C133">
+<span style="S7">What was wrong with her?</span>
+</p>
+<p begin="00:09:09.120" end="00:09:11.160" region="R7" style="S2" xml:id="C134">
+<span style="S3">She will not harm you, Sister.</span>
+</p>
+<p begin="00:09:12.840" end="00:09:16.760" region="R7" style="S2" xml:id="C135">
+<span style="S3">Srimati Devi is sad.</span>
+</p>
+<p begin="00:09:16.760" end="00:09:18.880" region="R7" style="S2" xml:id="C136">
+<span style="S7">I thought you said she was hungry?</span>
+</p>
+<p begin="00:09:18.880" end="00:09:21.360" region="R7" style="S2" xml:id="C137">
+<span style="S3">Yeah. Hungry for happiness...</span>
+</p>
+<p begin="00:09:22.760" end="00:09:24.640" region="R7" style="S2" xml:id="C138">
+<span style="S3">..or maybe to be reborn.</span>
+</p>
+<p begin="00:09:26.520" end="00:09:29.640" region="R7" style="S2" xml:id="C139">
+<span style="S3">Oh, maybe just for some milk.</span>
+</p>
+<p begin="00:09:38.520" end="00:09:40.960" region="R7" style="S4" ttm:role="sound" xml:id="C140">
+<span style="S3">VOICE ECHOES</span>
+</p>
+<p begin="00:09:46.880" end="00:09:48.760" region="R7" style="S4" ttm:role="sound" xml:id="C141">
+<span style="S3">DOOR SLAMS VIOLENTLY</span>
+</p>
+<p begin="00:09:48.760" end="00:09:51.720" region="R7" style="S4" ttm:role="sound" xml:id="C142">
+<span style="S3">VOICE CRIES OUT</span>
+</p>
+<p begin="00:10:30.440" end="00:10:31.800" region="R7" style="S2" xml:id="C143">
+<span style="S6">Lameni!</span>
+</p>
+<p begin="00:10:31.800" end="00:10:34.480" region="agr_0_20_39_4_after" style="S2" xml:id="C144_1">
+<span style="S3">It's all right, Kanchi.</span>
+<br/>
+<span style="S3">I didn't mean to make you jump.</span>
+</p>
+<p begin="00:10:34.480" end="00:10:36.360" region="R7" style="S2" xml:id="C145">
+<span style="S3">Maaf kare.</span>
+</p>
+<p begin="00:10:41.480" end="00:10:45.120" region="R7" style="S2" xml:id="C146">
+<span style="S3">Have you ever seen a moving picture?</span>
+</p>
+<p begin="00:10:45.120" end="00:10:47.120" region="R7" style="S2" xml:id="C147">
+<span style="S6">It is from Angu.</span>
+</p>
+<p begin="00:10:47.120" end="00:10:48.920" region="R7" style="S2" xml:id="C148">
+<span style="S6">For read.</span>
+</p>
+<p begin="00:10:48.920" end="00:10:50.600" region="R7" style="S2" xml:id="C149">
+<span style="S3">Can you read English?</span>
+</p>
+<p begin="00:10:50.600" end="00:10:53.960" region="R7" style="S2" xml:id="C150">
+<span style="S6">This, to try. I try.</span>
+</p>
+<p begin="00:10:53.960" end="00:10:56.040" region="R7" style="S2" xml:id="C151">
+<span style="S6">Gary...Cooper.</span>
+</p>
+<p begin="00:10:58.040" end="00:11:00.440" region="R7" style="S2" xml:id="C152">
+<span style="S3">Thank you, Kanchi.</span>
+</p>
+<p begin="00:11:41" end="00:11:44" region="R7" style="S2" xml:id="C153">
+<span style="S3">Dilip Rai, you do us a great honour,</span>
+</p>
+<p begin="00:11:44" end="00:11:45.320" region="R7" style="S2" xml:id="C154">
+<span style="S3">but we're quite unprepared.</span>
+</p>
+<p begin="00:11:45.320" end="00:11:48.160" region="agr_4_20_36_4_after" style="S2" xml:id="C155_1">
+<span style="S6">Dear Sister Clodagh, there's no need</span>
+<br/>
+<span style="S6">for that now my uncle isn't here.</span>
+</p>
+<p begin="00:11:48.160" end="00:11:50.120" region="R37" style="S2" xml:id="C156_1">
+<span style="S6">I've come to see</span>
+<br/>
+<span style="S6">you on a practical matter.</span>
+</p>
+<p begin="00:11:50.120" end="00:11:53.320" region="R7" style="S2" xml:id="C157">
+<span style="S6">I wish to attend your school.</span>
+</p>
+<p begin="00:11:53.320" end="00:11:56.840" region="R37" style="S2" xml:id="C158_1">
+<span style="S6">5am to 7am, algebra,</span>
+<br/>
+<span style="S6">geometry, arithmetic.</span>
+<span style="S3"> I see.</span>
+</p>
+<p begin="00:11:56.840" end="00:11:58.840" region="agr_0_20_39_4_after" style="S2" xml:id="C159_1">
+<span style="S6">But the timetable is only</span>
+<br/>
+<span style="S6">a suggestion, Sister.</span>
+</p>
+<p begin="00:11:58.840" end="00:12:00.800" region="R37" style="S2" xml:id="C160_1">
+<span style="S6">Of course, the lessons</span>
+<br/>
+<span style="S6">can be decided by you.</span>
+</p>
+<p begin="00:12:00.800" end="00:12:03.280" region="agr_0_20_39_4_after" style="S2" xml:id="C161_1">
+<span style="S3">I'm very sorry, Highness,</span>
+<br/>
+<span style="S3">but it isn't possible.</span>
+</p>
+<p begin="00:12:03.280" end="00:12:05.720" region="agr_3_20_37_4_after" style="S2" xml:id="C162_1">
+<span style="S3">A convent doesn't teach men pupils,</span>
+<br/>
+<span style="S3">you see.</span>
+</p>
+<p begin="00:12:06.960" end="00:12:08.400" region="R7" style="S2" xml:id="C163">
+<span style="S6">Ah.</span>
+</p>
+<p begin="00:12:08.400" end="00:12:09.960" region="R7" style="S2" xml:id="C164">
+<span style="S6">Jesus Christ was a man, though.</span>
+</p>
+<p begin="00:12:09.960" end="00:12:11.560" region="R7" style="S2" xml:id="C165">
+<span style="S6">Wasn't he, Sister Clodagh?</span>
+</p>
+<p begin="00:12:11.560" end="00:12:13.360" region="R7" style="S2" xml:id="C166">
+<span style="S3">He took the shape of a man.</span>
+</p>
+<p begin="00:12:13.360" end="00:12:15.560" region="R37" style="S2" xml:id="C167_1">
+<span style="S6">You must understand,</span>
+<br/>
+<span style="S6">I want so much to learn,</span>
+</p>
+<p begin="00:12:15.560" end="00:12:17.520" region="R7" style="S2" xml:id="C168">
+<span style="S6">I am only the shape of a man.</span>
+</p>
+<p begin="00:12:17.520" end="00:12:20.120" region="R37" style="S2" xml:id="C169_1">
+<span style="S6">My uncle was going to send me to</span>
+<br/>
+<span style="S6">the University of Cambridge,</span>
+</p>
+<p begin="00:12:20.120" end="00:12:23.040" region="R37" style="S2" xml:id="C170_1">
+<span style="S6">but after my brother died,</span>
+<br/>
+<span style="S6">Uncle said I couldn't go.</span>
+</p>
+<p begin="00:12:23.040" end="00:12:25.400" region="agr_0_20_39_4_after" style="S2" xml:id="C171_1">
+<span style="S6">I thought if I show him</span>
+<br/>
+<span style="S6">how quick I am to study,</span>
+</p>
+<p begin="00:12:25.400" end="00:12:26.960" region="R7" style="S2" xml:id="C172">
+<span style="S6">and to learn,</span>
+</p>
+<p begin="00:12:26.960" end="00:12:28.440" region="R7" style="S2" xml:id="C173">
+<span style="S6">he might change his mind.</span>
+</p>
+<p begin="00:12:28.440" end="00:12:30.720" region="agr_0_20_39_4_after" style="S2" xml:id="C174_1">
+<span style="S3">We can't go against the</span>
+<br/>
+<span style="S3">General's wishes, Excellency.</span>
+</p>
+<p begin="00:12:30.720" end="00:12:33.920" region="agr_4_20_36_4_after" style="S2" xml:id="C175_1">
+<span style="S3">You must see that.</span>
+<span style="S6"> Oh, Toda Rai is</span>
+<br/>
+<span style="S6">happy for me to come to school here.</span>
+</p>
+<p begin="00:12:33.920" end="00:12:36.240" region="agr_0_20_39_4_after" style="S2" xml:id="C176_1">
+<span style="S6">He very much wants me</span>
+<br/>
+<span style="S6">to improve my English.</span>
+</p>
+<p begin="00:12:36.240" end="00:12:39.360" region="agr_0_20_39_4_after" style="S2" xml:id="C177_1">
+<span style="S6">It's just the plans for</span>
+<br/>
+<span style="S6">Cambridge he disapproves of.</span>
+</p>
+<p begin="00:12:39.360" end="00:12:41.160" region="R7" style="S2" xml:id="C178">
+<span style="S3">Well, then...</span>
+</p>
+<p begin="00:12:41.160" end="00:12:43.440" region="R7" style="S2" xml:id="C179">
+<span style="S3">..I shall certainly consider it.</span>
+</p>
+<p begin="00:12:43.440" end="00:12:45.760" region="agr_0_20_39_4_after" style="S2" xml:id="C180_1">
+<span style="S6">Thank you, Superior Sister.</span>
+<br/>
+<span style="S6">Good day.</span>
+</p>
+<p begin="00:13:24.840" end="00:13:27.320" region="R7" style="S2" xml:id="C181">
+<span style="S5">Are you quite well, Sister Clodagh?</span>
+</p>
+<p begin="00:13:27.320" end="00:13:28.800" region="R7" style="S2" xml:id="C182">
+<span style="S3">Yes.</span>
+</p>
+<p begin="00:13:30.880" end="00:13:34.160" region="R7" style="S2" xml:id="C183">
+<span style="S3">It's this business with Dilip Rai.</span>
+</p>
+<p begin="00:13:34.160" end="00:13:36.400" region="R37" style="S2" xml:id="C184_1">
+<span style="S5">I know this is an unusual place,</span>
+<br/>
+<span style="S5">Sister Clodagh,</span>
+</p>
+<p begin="00:13:36.400" end="00:13:38.320" region="R7" style="S2" xml:id="C185">
+<span style="S5">and we should expect unusual things,</span>
+</p>
+<p begin="00:13:38.320" end="00:13:41.720" region="agr_1_20_39_4_after" style="S2" xml:id="C186_1">
+<span style="S5">but surely it isn't right for a</span>
+<br/>
+<span style="S5">boy the young general's age to...</span>
+</p>
+<p begin="00:13:41.720" end="00:13:44.400" region="R7" style="S2" xml:id="C187">
+<span style="S3">He's more of a man than a boy.</span>
+</p>
+<p begin="00:13:44.400" end="00:13:47.680" region="R7" style="S2" xml:id="C188">
+<span style="S3">What are we to do?</span>
+</p>
+<p begin="00:13:47.680" end="00:13:50.320" region="agr_0_20_39_4_after" style="S2" xml:id="C189_1">
+<span style="S3">I could write to Toda Rai</span>
+<br/>
+<span style="S3">explaining our objections but...</span>
+</p>
+<p begin="00:13:50.320" end="00:13:53" region="R7" style="S2" xml:id="C190">
+<span style="S3">..the post is so slow now.</span>
+</p>
+<p begin="00:13:53" end="00:13:56.880" region="agr_0_20_39_4_after" style="S2" xml:id="C191_1">
+<span style="S5">Mightn't it be a help</span>
+<br/>
+<span style="S5">to talk to Mr Dean?</span>
+</p>
+<p begin="00:13:56.880" end="00:13:59" region="agr_0_20_39_4_after" style="S2" xml:id="C192_1">
+<span style="S5">He's worked for</span>
+<br/>
+<span style="S5">the General for so long</span>
+</p>
+<p begin="00:13:59" end="00:14:03" region="agr_0_20_38_4_after" style="S2" xml:id="C193_1">
+<span style="S5">and if there's really no way</span>
+<br/>
+<span style="S5">round Dilip Rai coming, then...</span>
+</p>
+<p begin="00:14:03" end="00:14:06.920" region="agr_0_20_39_4_after" style="S2" xml:id="C194_1">
+<span style="S5">..he might be able to</span>
+<br/>
+<span style="S5">speak to him about how to...</span>
+</p>
+<p begin="00:14:06.920" end="00:14:09.200" region="R7" style="S2" xml:id="C195">
+<span style="S5">..conduct himself.</span>
+<span style="S3"> Man to man?</span>
+</p>
+<p begin="00:14:09.200" end="00:14:10.840" region="R7" style="S2" xml:id="C196">
+<span style="S5">Is that what they say?</span>
+</p>
+<p begin="00:14:10.840" end="00:14:13.640" region="agr_3_20_37_4_after" style="S2" xml:id="C197_1">
+<span style="S3">I'm sorry, Sister Briony, it's just</span>
+<br/>
+<span style="S3">the thought of Mr Dean giving</span>
+</p>
+<p begin="00:14:13.640" end="00:14:16.480" region="R37" style="S2" xml:id="C198_1">
+<span style="S3">anyone a lesson on how</span>
+<br/>
+<span style="S3">to conduct themselves!</span>
+</p>
+<p begin="00:14:20.240" end="00:14:23.280" region="agr_0_20_39_4_after" style="S2" xml:id="C199_1">
+<span style="S3">You'd think the young general</span>
+<br/>
+<span style="S3">would find it strange,</span>
+</p>
+<p begin="00:14:23.280" end="00:14:26.080" region="R37" style="S2" xml:id="C200_1">
+<span style="S3">the thought of coming here</span>
+<br/>
+<span style="S3">every day.</span>
+</p>
+<p begin="00:14:26.080" end="00:14:28.040" region="agr_0_20_38_4_after" style="S2" xml:id="C201_1">
+<span style="S3">I suppose he doesn't</span>
+<br/>
+<span style="S3">remember his mother at all.</span>
+</p>
+<p begin="00:14:28.040" end="00:14:30.440" region="R37" style="S2" xml:id="C202_1">
+<span style="S5">It's not just the young general,</span>
+<br/>
+<span style="S5">Sister Clodagh,</span>
+</p>
+<p begin="00:14:30.440" end="00:14:35.200" region="agr_2_20_38_4_after" style="S2" xml:id="C203_1">
+<span style="S5">we really can't do without Mr Dean</span>
+<br/>
+<span style="S5">for all the work that's needed.</span>
+</p>
+<p begin="00:14:35.200" end="00:14:38.120" region="agr_0_20_39_4_after" style="S2" xml:id="C204_1">
+<span style="S5">And since your falling-out,</span>
+<br/>
+<span style="S5">he's been steering clear of us.</span>
+</p>
+<p begin="00:14:38.120" end="00:14:40.160" region="agr_0_20_39_4_after" style="S2" xml:id="C205_1">
+<span style="S3">Yes, you're right. You're quite</span>
+<br/>
+<span style="S3">right...</span>
+</p>
+<p begin="00:14:40.160" end="00:14:41.720" region="R7" style="S2" xml:id="C206">
+<span style="S3">..Sister Briony.</span>
+</p>
+<p begin="00:14:41.720" end="00:14:45.600" region="R7" style="S2" xml:id="C207">
+<span style="S3">Good sense, as always.</span>
+</p>
+<p begin="00:14:45.600" end="00:14:50.280" region="agr_4_20_36_4_after" style="S2" xml:id="C208_1">
+<span style="S3">This is an unusual place</span>
+<br/>
+<span style="S3">and we should expect unusual things.</span>
+</p>
+<p begin="00:16:29.520" end="00:16:32.240" region="R7" style="S4" ttm:role="sound" xml:id="C209">
+<span style="S3">YAK GRUNTS</span>
+</p>
+<p begin="00:16:56.760" end="00:17:00.280" region="R7" style="S2" xml:id="C210">
+<span style="S6">Sister Clodagh, it's been a while.</span>
+</p>
+<p begin="00:17:02.080" end="00:17:05.120" region="agr_0_20_39_4_after" style="S2" xml:id="C211_1">
+<span style="S6">I'm afraid that I'm not</span>
+<br/>
+<span style="S6">fit for receiving visitors.</span>
+</p>
+<p begin="00:17:05.120" end="00:17:07.280" region="R7" style="S2" xml:id="C212">
+<span style="S3">I should have sent a note, Mr Dean.</span>
+</p>
+<p begin="00:17:09.240" end="00:17:11.840" region="agr_0_20_38_4_after" style="S2" xml:id="C213_1">
+<span style="S3">But there's a matter</span>
+<br/>
+<span style="S3">I need to discuss with you.</span>
+</p>
+<p begin="00:17:11.840" end="00:17:13.400" region="R7" style="S2" xml:id="C214">
+<span style="S3">In person.</span>
+</p>
+<p begin="00:17:13.400" end="00:17:15.080" region="R7" style="S2" xml:id="C215">
+<span style="S6">By all means.</span>
+</p>
+<p begin="00:17:15.080" end="00:17:18.160" region="R37" style="S2" xml:id="C216_1">
+<span style="S6">As long as you take me</span>
+<br/>
+<span style="S6">as you find me.</span>
+</p>
+<p begin="00:17:39.960" end="00:17:42.560" region="R7" style="S2" xml:id="C217">
+<span style="S6">Would you like to have a seat?</span>
+</p>
+<p begin="00:17:49.200" end="00:17:51.920" region="R7" style="S2" xml:id="C218">
+<span style="S6">Water, I presume?</span>
+</p>
+<p begin="00:17:53" end="00:17:56.280" region="R7" style="S2" xml:id="C219">
+<span style="S3">Dilip Rai, the young general...</span>
+</p>
+<p begin="00:17:56.280" end="00:17:59.600" region="R37" style="S2" xml:id="C220_1">
+<span style="S3">He wishes to study with us</span>
+<br/>
+<span style="S3">at St Faith's.</span>
+</p>
+<p begin="00:17:59.600" end="00:18:03.400" region="R37" style="S2" xml:id="C221_1">
+<span style="S3">I know I can rely on</span>
+<br/>
+<span style="S3">you to be direct.</span>
+</p>
+<p begin="00:18:03.400" end="00:18:06.080" region="R7" style="S2" xml:id="C222">
+<span style="S3">Is it safe?</span>
+</p>
+<p begin="00:18:06.080" end="00:18:09.160" region="agr_0_20_39_4_after" style="S2" xml:id="C223_1">
+<span style="S6">A beastly savage, you mean?</span>
+<br/>
+<span style="S3">Clearly, that's...</span>
+</p>
+<p begin="00:18:09.160" end="00:18:11.080" region="R7" style="S2" xml:id="C224">
+<span style="S3">That's not what I meant at all.</span>
+</p>
+<p begin="00:18:11.080" end="00:18:12.800" region="R7" style="S2" xml:id="C225">
+<span style="S3">The boy seems charm itself.</span>
+</p>
+<p begin="00:18:12.800" end="00:18:16.280" region="R37" style="S2" xml:id="C226_1">
+<span style="S3">It's just...I'm not sure</span>
+<br/>
+<span style="S3">what his...</span>
+</p>
+<p begin="00:18:16.280" end="00:18:18.800" region="R7" style="S2" xml:id="C227">
+<span style="S3">..expectations are...</span>
+</p>
+<p begin="00:18:18.800" end="00:18:20.840" region="R7" style="S2" xml:id="C228">
+<span style="S3">..about women, Mr Dean.</span>
+</p>
+<p begin="00:18:20.840" end="00:18:22.880" region="agr_0_20_39_4_after" style="S2" xml:id="C229_1">
+<span style="S3">If we are to accede</span>
+<br/>
+<span style="S3">to his uncle's wishes</span>
+</p>
+<p begin="00:18:22.880" end="00:18:25.600" region="agr_0_20_39_4_after" style="S2" xml:id="C230_1">
+<span style="S3">and accept Dilip as</span>
+<br/>
+<span style="S3">our pupil...</span>
+</p>
+<p begin="00:18:25.600" end="00:18:29.280" region="R7" style="S2" xml:id="C231">
+<span style="S3">Well, you can see my dilemma.</span>
+</p>
+<p begin="00:18:29.280" end="00:18:33.080" region="R7" style="S2" xml:id="C232">
+<span style="S3">He comes from another world.</span>
+</p>
+<p begin="00:18:33.080" end="00:18:35.480" region="agr_0_20_39_4_after" style="S2" xml:id="C233_1">
+<span style="S6">Dilip Rai will be</span>
+<br/>
+<span style="S6">a cuckoo in your nest.</span>
+</p>
+<p begin="00:18:35.480" end="00:18:37.600" region="R7" style="S2" xml:id="C234">
+<span style="S6">No doubt about it.</span>
+</p>
+<p begin="00:18:37.600" end="00:18:40.280" region="R7" style="S2" xml:id="C235">
+<span style="S6">He's been spoiled rotten.</span>
+</p>
+<p begin="00:18:40.280" end="00:18:43.040" region="agr_2_20_38_4_after" style="S2" xml:id="C236_1">
+<span style="S6">But there's no harm in the lad</span>
+<br/>
+<span style="S6">and his manners put mine to shame.</span>
+</p>
+<p begin="00:18:43.040" end="00:18:45.440" region="R7" style="S2" xml:id="C237">
+<span style="S6">He'll respect your...</span>
+</p>
+<p begin="00:18:45.440" end="00:18:47.040" region="R7" style="S2" xml:id="C238">
+<span style="S6">..discipline.</span>
+</p>
+<p begin="00:18:47.040" end="00:18:49.280" region="agr_0_20_39_4_after" style="S2" xml:id="C239_1">
+<span style="S6">Particularly if he thinks</span>
+<br/>
+<span style="S6">any bad behaviour</span>
+</p>
+<p begin="00:18:49.280" end="00:18:51.200" region="R7" style="S2" xml:id="C240">
+<span style="S6">will get back to his uncle.</span>
+</p>
+<p begin="00:18:52.440" end="00:18:54.320" region="R37" style="S2" xml:id="C241_1">
+<span style="S6">I could a word</span>
+<br/>
+<span style="S6">with him, if you like,</span>
+</p>
+<p begin="00:18:54.320" end="00:18:55.920" region="R7" style="S2" xml:id="C242">
+<span style="S6">but I doubt he'll pay me much mind.</span>
+</p>
+<p begin="00:18:55.920" end="00:18:57.720" region="R7" style="S2" xml:id="C243">
+<span style="S3">Would you?</span>
+</p>
+<p begin="00:18:57.720" end="00:19:00.400" region="R7" style="S2" xml:id="C244">
+<span style="S3">That would be a great comfort.</span>
+</p>
+<p begin="00:19:03.080" end="00:19:04.560" region="R7" style="S2" xml:id="C245">
+<span style="S3">Thank you.</span>
+</p>
+<p begin="00:19:04.560" end="00:19:06.640" region="R7" style="S2" xml:id="C246">
+<span style="S3">I'll leave you to your supper.</span>
+</p>
+<p begin="00:19:08.880" end="00:19:11.960" region="R7" style="S2" xml:id="C247">
+<span style="S3">I owe you an apology, Mr Dean,</span>
+</p>
+<p begin="00:19:11.960" end="00:19:15.720" region="R37" style="S2" xml:id="C248_1">
+<span style="S3">for the way I've</span>
+<br/>
+<span style="S3">spoken to you in the past.</span>
+</p>
+<p begin="00:19:15.720" end="00:19:18.680" region="R7" style="S2" xml:id="C249">
+<span style="S3">It was uncalled for.</span>
+</p>
+<p begin="00:19:18.680" end="00:19:21.720" region="R7" style="S2" xml:id="C250">
+<span style="S6">Well...</span>
+</p>
+<p begin="00:19:21.720" end="00:19:23.720" region="R7" style="S2" xml:id="C251">
+<span style="S6">..you're only human.</span>
+</p>
+<p begin="00:19:23.720" end="00:19:26.160" region="R7" style="S2" xml:id="C252">
+<span style="S3">So I'm discovering.</span>
+</p>
+<p begin="00:19:41.120" end="00:19:45.080" region="R7" style="S2" xml:id="C253">
+<span style="S3">I'm not much of a cook.</span>
+</p>
+<p begin="00:19:45.080" end="00:19:48.400" region="agr_0_20_39_4_after" style="S2" xml:id="C254_1">
+<span style="S6">The factory women</span>
+<br/>
+<span style="S6">keep me from starving.</span>
+</p>
+<p begin="00:19:54.440" end="00:19:56.920" region="R7" style="S2" xml:id="C255">
+<span style="S3">I...</span>
+</p>
+<p begin="00:19:56.920" end="00:19:59.760" region="agr_0_20_38_4_after" style="S2" xml:id="C256_1">
+<span style="S3">We hope to see you</span>
+<br/>
+<span style="S3">at the palace soon.</span>
+</p>
+<p begin="00:20:26.320" end="00:20:28.960" region="R7" style="S4" ttm:role="sound" xml:id="C257">
+<span style="S3">SHE GIGGLES</span>
+</p>
+<p begin="00:20:28.960" end="00:20:31.640" region="R7" style="S4" ttm:role="sound" xml:id="C258">
+<span style="S3">HER LAUGHTER ECHOES</span>
+</p>
+<p begin="00:20:41.080" end="00:20:43.800" region="R7" style="S4" ttm:role="sound" xml:id="C259">
+<span style="S3">ICE SMASHES</span>
+</p>
+<p begin="00:20:49.200" end="00:20:51.760" region="R7" style="S2" xml:id="C260">
+<span style="S3">Dear Mother Dorothea,</span>
+</p>
+<p begin="00:20:51.760" end="00:20:53.360" region="R7" style="S2" xml:id="C261">
+<span style="S3">it has been strange indeed to go</span>
+</p>
+<p begin="00:20:53.360" end="00:20:56.360" region="agr_0_20_39_4_after" style="S2" xml:id="C262_1">
+<span style="S3">so long without communion</span>
+<br/>
+<span style="S3">or making confession.</span>
+</p>
+<p begin="00:20:58.440" end="00:21:00.400" region="R7" style="S2" xml:id="C263">
+<span style="S3">At the General's request,</span>
+</p>
+<p begin="00:21:00.400" end="00:21:03.360" region="agr_0_20_39_4_after" style="S2" xml:id="C264_1">
+<span style="S3">Dilip Rai is taking</span>
+<br/>
+<span style="S3">daily lessons at the school.</span>
+</p>
+<p begin="00:21:03.360" end="00:21:05.560" region="R7" style="S2" xml:id="C265">
+<span style="S3">He is a dedicated pupil</span>
+</p>
+<p begin="00:21:05.560" end="00:21:08.200" region="agr_0_20_39_4_after" style="S2" xml:id="C266_1">
+<span style="S3">and his manners</span>
+<br/>
+<span style="S3">respectful of our discipline.</span>
+</p>
+<p begin="00:21:08.200" end="00:21:10.560" region="R7" style="S2" xml:id="C267">
+<span style="S3">Work proceeds at the palace</span>
+</p>
+<p begin="00:21:10.560" end="00:21:12.240" region="R7" style="S2" xml:id="C268">
+<span style="S3">and you will be pleased to hear</span>
+</p>
+<p begin="00:21:12.240" end="00:21:14.480" region="R37" style="S2" xml:id="C269_1">
+<span style="S3">Sister Ruth's health</span>
+<br/>
+<span style="S3">is much restored.</span>
+</p>
+<p begin="00:21:14.480" end="00:21:16.600" region="agr_0_20_39_4_after" style="S2" xml:id="C270_1">
+<span style="S3">I look forward to showing</span>
+<br/>
+<span style="S3">Father Roberts</span>
+</p>
+<p begin="00:21:16.600" end="00:21:19.440" region="agr_0_20_38_4_after" style="S2" xml:id="C271_1">
+<span style="S3">everything we've</span>
+<br/>
+<span style="S3">achieved at St Faith's.</span>
+</p>
+<p begin="00:21:21.600" end="00:21:24.160" region="R7" style="S4" ttm:role="sound" xml:id="C272">
+<span style="S3">COUGHING</span>
+</p>
+<p begin="00:21:32.920" end="00:21:35.360" region="R7" style="S2" xml:id="C273">
+<span style="S6">Bonjour, Sister Ruth.</span>
+<span style="S3"> Bonjour.</span>
+</p>
+<p begin="00:21:41.680" end="00:21:43.520" region="R7" style="S2" xml:id="C274">
+<span style="S6">Bonjour, Sister Clodagh!</span>
+</p>
+<p begin="00:21:43.520" end="00:21:45.200" region="R7" style="S2" xml:id="C275">
+<span style="S6">Comment allez-vous?</span>
+</p>
+<p begin="00:21:45.200" end="00:21:46.920" region="R7" style="S2" xml:id="C276">
+<span style="S3">Good day, Excellency.</span>
+</p>
+<p begin="00:21:46.920" end="00:21:48.080" region="R7" style="S2" xml:id="C277">
+<span style="S3">Tres bien, merci.</span>
+</p>
+<p begin="00:21:48.080" end="00:21:49.800" region="R7" style="S2" xml:id="C278">
+<span style="S6">Il fait froid, n'est pas?</span>
+</p>
+<p begin="00:21:49.800" end="00:21:51.440" region="R7" style="S2" xml:id="C279">
+<span style="S6">Mais c'est tres bon.</span>
+</p>
+<p begin="00:21:51.440" end="00:21:52.880" region="R7" style="S2" xml:id="C280">
+<span style="S6">Non...</span>
+</p>
+<p begin="00:21:52.880" end="00:21:55.440" region="R7" style="S2" xml:id="C281">
+<span style="S6">Beau. Tres, tres beau!</span>
+</p>
+<p begin="00:21:55.440" end="00:21:58.280" region="R7" style="S2" xml:id="C282">
+<span style="S3">Oui, vraiment beau.</span>
+</p>
+<p begin="00:22:05.920" end="00:22:08.560" region="R7" style="S4" ttm:role="sound" xml:id="C283">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:22:27.920" end="00:22:32.480" region="agr_3_20_37_4_after" style="S2" xml:id="C284_1">
+<span style="S3">So, there won't be any vegetables</span>
+<br/>
+<span style="S3">at all on the terraces come spring?</span>
+</p>
+<p begin="00:22:32.480" end="00:22:35.560" region="agr_1_20_39_4_after" style="S2" xml:id="C285_1">
+<span style="S6">It seems a shame to waste</span>
+<br/>
+<span style="S6">such a glorious aspect on onions.</span>
+</p>
+<p begin="00:22:37.320" end="00:22:39.920" region="R7" style="S2" xml:id="C286">
+<span style="S6">When I thought...</span>
+</p>
+<p begin="00:22:41.960" end="00:22:44.160" region="R7" style="S2" xml:id="C287">
+<span style="S6">Sister...</span>
+</p>
+<p begin="00:22:44.160" end="00:22:48.080" region="agr_0_20_38_4_after" style="S2" xml:id="C288_1">
+<span style="S6">Lady Hillingdon.</span>
+<br/>
+<span style="S6">It's a repeat flowerer.</span>
+</p>
+<p begin="00:22:48.080" end="00:22:52.280" region="R37" style="S2" xml:id="C289_1">
+<span style="S6">I was going to underplant it</span>
+<br/>
+<span style="S6">with jonquils and daffodils.</span>
+</p>
+<p begin="00:22:52.280" end="00:22:55.760" region="R37" style="S2" xml:id="C290_1">
+<span style="S6">You see, you could</span>
+<br/>
+<span style="S6">start them off indoors</span>
+</p>
+<p begin="00:22:55.760" end="00:22:57.920" region="R37" style="S2" xml:id="C291_1">
+<span style="S6">and plant them</span>
+<br/>
+<span style="S6">as soon as the ground...</span>
+</p>
+<p begin="00:22:57.920" end="00:23:01.200" region="R37" style="S2" xml:id="C292_1">
+<span style="S3">Sister Philippa, the order has</span>
+<br/>
+<span style="S3">already spent a great deal</span>
+</p>
+<p begin="00:23:01.200" end="00:23:05.280" region="agr_3_20_37_4_after" style="S2" xml:id="C293_1">
+<span style="S3">on equipping the classroom,</span>
+<br/>
+<span style="S3">not to mention all the other works.</span>
+</p>
+<p begin="00:23:05.280" end="00:23:08" region="R37" style="S2" xml:id="C294_1">
+<span style="S6">But the terraces will be</span>
+<br/>
+<span style="S6">so glorious in spring.</span>
+</p>
+<p begin="00:23:09.440" end="00:23:14.320" region="R37" style="S2" xml:id="C295_1">
+<span style="S6">The lupins and sweet peas,</span>
+<br/>
+<span style="S6">with a border of petunias.</span>
+</p>
+<p begin="00:23:14.320" end="00:23:17.600" region="R37" style="S2" xml:id="C296_1">
+<span style="S6">And if we could consider the</span>
+<br/>
+<span style="S6">Japanese peonies for next year...</span>
+</p>
+<p begin="00:23:18.800" end="00:23:21.760" region="agr_0_20_39_4_after" style="S2" xml:id="C297_1">
+<span style="S6">I know the red ones</span>
+<br/>
+<span style="S6">are expensive but...</span>
+</p>
+<p begin="00:23:22.880" end="00:23:24.280" region="R7" style="S2" xml:id="C298">
+<span style="S6">..the colour...</span>
+</p>
+<p begin="00:23:25.680" end="00:23:27.560" region="R7" style="S2" xml:id="C299">
+<span style="S6">..is...</span>
+</p>
+<p begin="00:23:30.200" end="00:23:32.120" region="R7" style="S2" xml:id="C300">
+<span style="S6">..magnificent.</span>
+</p>
+<p begin="00:23:53.160" end="00:23:55.400" region="R7" style="S4" ttm:role="sound" xml:id="C301">
+<span style="S3">FLOOR CREAKS</span>
+</p>
+<p begin="00:23:55.400" end="00:23:57.880" region="R7" style="S4" ttm:role="sound" xml:id="C302">
+<span style="S3">FOOTSTEPS</span>
+</p>
+<p begin="00:24:00.640" end="00:24:03.040" region="agr_0_20_39_4_after" style="S2" xml:id="C303_1">
+<span style="S3">I'm not inclined to trouble</span>
+<br/>
+<span style="S3">Mother Dorothea</span>
+</p>
+<p begin="00:24:03.040" end="00:24:04.960" region="R7" style="S2" xml:id="C304">
+<span style="S3">with pure extravagance.</span>
+</p>
+<p begin="00:24:14.720" end="00:24:16.440" region="R7" style="S2" xml:id="C305">
+<span style="S6">Yes, Sister Clodagh.</span>
+</p>
+<p begin="00:24:18.960" end="00:24:21.840" region="R7" style="S2" xml:id="C306">
+<span style="S6">It is not extravagance, though,</span>
+</p>
+<p begin="00:24:21.840" end="00:24:24.520" region="R7" style="S2" xml:id="C307">
+<span style="S6">if it is for the glory of God.</span>
+</p>
+<p begin="00:24:30.080" end="00:24:32.520" region="R7" style="S4" ttm:role="sound" xml:id="C308">
+<span style="S3">DOOR CLOSES</span>
+</p>
+<p begin="00:24:34.560" end="00:24:37.440" region="R7" style="S2" xml:id="C309">
+<span style="S3">CHILD:</span>
+<span style="S5"> Four sevens are 28.</span>
+</p>
+<p begin="00:24:37.440" end="00:24:40.560" region="R7" style="S2" xml:id="C310">
+<span style="S3">CLASS:</span>
+<span style="S7"> Four sevens are 28.</span>
+</p>
+<p begin="00:24:42.360" end="00:24:45.400" region="R7" style="S2" xml:id="C311">
+<span style="S5">Four eights are 32.</span>
+</p>
+<p begin="00:24:45.400" end="00:24:49.120" region="R7" style="S2" xml:id="C312">
+<span style="S7">Four eights are 32.</span>
+</p>
+<p begin="00:24:50.160" end="00:24:53.720" region="R7" style="S4" ttm:role="sound" xml:id="C313">
+<span style="S3">THUNDER RUMBLES</span>
+</p>
+<p begin="00:24:53.720" end="00:24:56.320" region="R7" style="S2" xml:id="C314">
+<span style="S5">Four nines are 36.</span>
+</p>
+<p begin="00:24:56.320" end="00:25:00.040" region="R7" style="S2" xml:id="C315">
+<span style="S7">Four nines are 36.</span>
+</p>
+<p begin="00:25:00.040" end="00:25:02.960" region="R7" style="S2" xml:id="C316">
+<span style="S5">Four tens are 40.</span>
+</p>
+<p begin="00:25:02.960" end="00:25:06" region="R7" style="S2" xml:id="C317">
+<span style="S7">Four tens are 40.</span>
+</p>
+<p begin="00:25:12.520" end="00:25:15.040" region="R7" style="S2" xml:id="C318">
+<span style="S3">Kanchi.</span>
+</p>
+<p begin="00:25:15.040" end="00:25:16.840" region="R7" style="S2" xml:id="C319">
+<span style="S3">Excuse me, sisters.</span>
+</p>
+<p begin="00:25:16.840" end="00:25:19.440" region="R7" style="S2" xml:id="C320">
+<span style="S3">This is the passage in English.</span>
+</p>
+<p begin="00:25:19.440" end="00:25:20.960" region="R7" style="S2" xml:id="C321">
+<span style="S3">You can read it in Nepali.</span>
+</p>
+<p begin="00:25:22.200" end="00:25:26.440" region="R7" style="S2" xml:id="C322">
+<span style="S3">HALTINGLY:</span>
+<span style="S7"> "Where is God?</span>
+</p>
+<p begin="00:25:26.440" end="00:25:29.760" region="R7" style="S2" xml:id="C323">
+<span style="S7">"God is...</span>
+</p>
+<p begin="00:25:29.760" end="00:25:34.480" region="R7" style="S2" xml:id="C324">
+<span style="S3">BOTH:</span>
+<span style="S6"> "..everywhere."</span>
+<span style="S3"> Very good.</span>
+</p>
+<p begin="00:25:34.480" end="00:25:37.040" region="agr_0_20_39_4_after" style="S2" xml:id="C325_1">
+<span style="S5">Sister Clodagh, Mr Dean has</span>
+<br/>
+<span style="S5">finished. He's in your office.</span>
+</p>
+<p begin="00:25:37.040" end="00:25:38.600" region="R7" style="S2" xml:id="C326">
+<span style="S5">I'm just making his coffee now.</span>
+</p>
+<p begin="00:25:38.600" end="00:25:40.120" region="R7" style="S2" xml:id="C327">
+<span style="S3">Thank you, Sister Briony.</span>
+</p>
+<p begin="00:25:47" end="00:25:50.360" region="R7" style="S2" xml:id="C328">
+<span style="S7">"Where is God?"</span>
+</p>
+<p begin="00:25:54.880" end="00:25:56.520" region="R7" style="S2" xml:id="C329">
+<span style="S3">Mr Dean.</span>
+</p>
+<p begin="00:26:00.080" end="00:26:02.840" region="agr_0_20_38_4_after" style="S2" xml:id="C330_1">
+<span style="S6">Glad to hear the young</span>
+<br/>
+<span style="S6">general's behaving himself.</span>
+</p>
+<p begin="00:26:02.840" end="00:26:06.240" region="agr_2_20_38_4_after" style="S2" xml:id="C331_1">
+<span style="S3">Like a lamb. Though I can't help</span>
+<br/>
+<span style="S3">thinking he's finding our standard</span>
+</p>
+<p begin="00:26:06.240" end="00:26:08.160" region="R7" style="S2" xml:id="C332">
+<span style="S3">of scholarship rather disappointing.</span>
+</p>
+<p begin="00:26:08.160" end="00:26:10.640" region="R7" style="S2" xml:id="C333">
+<span style="S6">Christianity isn't taking, I hope.</span>
+</p>
+<p begin="00:26:10.640" end="00:26:12.560" region="agr_2_20_38_4_after" style="S2" xml:id="C334_1">
+<span style="S6">I needn't tell you what a disaster</span>
+<br/>
+<span style="S6">it would be</span>
+</p>
+<p begin="00:26:12.560" end="00:26:14.240" region="R7" style="S2" xml:id="C335">
+<span style="S6">if you tried to convert him.</span>
+</p>
+<p begin="00:26:14.240" end="00:26:18.520" region="agr_0_20_39_4_after" style="S2" xml:id="C336_1">
+<span style="S3">Dilip Rai is about as spiritual</span>
+<br/>
+<span style="S3">as you, Mr Dean.</span>
+</p>
+<p begin="00:26:18.520" end="00:26:20.920" region="agr_0_20_39_4_after" style="S2" xml:id="C337_1">
+<span style="S6">You're confusing spirituality</span>
+<br/>
+<span style="S6">with religion, Sister.</span>
+</p>
+<p begin="00:26:20.920" end="00:26:24.200" region="agr_1_20_39_4_after" style="S2" xml:id="C338_1">
+<span style="S6">It's not the same thing at all.</span>
+<br/>
+<span style="S6">In fact, from what I've observed,</span>
+</p>
+<p begin="00:26:24.200" end="00:26:27.040" region="agr_0_20_39_4_after" style="S2" xml:id="C339_1">
+<span style="S6">that two are rather</span>
+<br/>
+<span style="S6">mutually exclusive.</span>
+</p>
+<p begin="00:26:27.040" end="00:26:28.480" region="R7" style="S2" xml:id="C340">
+<span style="S5">Coffee, Mr Dean?</span>
+</p>
+<p begin="00:26:28.480" end="00:26:30.720" region="R7" style="S2" xml:id="C341">
+<span style="S6">You spoil me, Sister.</span>
+<span style="S5"> Oh!</span>
+</p>
+<p begin="00:26:33.200" end="00:26:36.800" region="agr_0_20_39_4_after" style="S2" xml:id="C342_1">
+<span style="S3">Thank you.</span>
+<span style="S6"> Are you forgoing</span>
+<br/>
+<span style="S6">Sister Briony's special coffee?</span>
+</p>
+<p begin="00:26:37.840" end="00:26:40.480" region="R7" style="S2" xml:id="C343">
+<span style="S3">Friday is our fast day, till three.</span>
+</p>
+<p begin="00:26:41.880" end="00:26:45.160" region="agr_0_20_38_4_after" style="S2" xml:id="C344_1">
+<span style="S6">Thank you, Sister.</span>
+<br/>
+<span style="S5">Always a pleasure, Mr Dean.</span>
+</p>
+<p begin="00:26:48.240" end="00:26:49.480" region="R7" style="S2" xml:id="C345">
+<span style="S6">You look ill.</span>
+</p>
+<p begin="00:26:51.920" end="00:26:53.440" region="R7" style="S2" xml:id="C346">
+<span style="S3">I'm just tired, that's all.</span>
+</p>
+<p begin="00:26:54.960" end="00:26:56.960" region="R7" style="S2" xml:id="C347">
+<span style="S3">The wind seems to keep me awake.</span>
+</p>
+<p begin="00:26:58.440" end="00:27:00.600" region="R7" style="S2" xml:id="C348">
+<span style="S3">I've been using the time for this.</span>
+</p>
+<p begin="00:27:00.600" end="00:27:03.080" region="R7" style="S2" xml:id="C349">
+<span style="S3">It's for Kanchi.</span>
+</p>
+<p begin="00:27:03.080" end="00:27:06.360" region="agr_0_20_38_4_after" style="S2" xml:id="C350_1">
+<span style="S3">My Nepali is so poor</span>
+<br/>
+<span style="S3">it'll probably take me years.</span>
+</p>
+<p begin="00:27:08.880" end="00:27:12" region="R37" style="S2" xml:id="C351_1">
+<span style="S6">I could try my hand at it,</span>
+<br/>
+<span style="S6">if you like.</span>
+</p>
+<p begin="00:27:12" end="00:27:13.360" region="R7" style="S2" xml:id="C352">
+<span style="S6">At this point, I know more Nepali</span>
+</p>
+<p begin="00:27:13.360" end="00:27:15.360" region="agr_0_20_39_4_after" style="S2" xml:id="C353_1">
+<span style="S6">than I've forgotten</span>
+<br/>
+<span style="S6">of the King's English.</span>
+</p>
+<p begin="00:27:15.360" end="00:27:16.960" region="R7" style="S2" xml:id="C354">
+<span style="S6">Or the Catechism, for that matter.</span>
+</p>
+<p begin="00:27:18.080" end="00:27:20.760" region="R7" style="S2" xml:id="C355">
+<span style="S3">That's kind. Thank you.</span>
+</p>
+<p begin="00:27:22" end="00:27:24.760" region="R7" style="S2" xml:id="C356">
+<span style="S3">Kanchi so wants to learn.</span>
+</p>
+<p begin="00:27:24.760" end="00:27:27.360" region="R7" style="S2" xml:id="C357">
+<span style="S3">She's a special soul, I think.</span>
+</p>
+<p begin="00:27:27.360" end="00:27:31.400" region="R37" style="S2" xml:id="C358_1">
+<span style="S6">Surely you're obliged to think</span>
+<br/>
+<span style="S6">every soul is special.</span>
+</p>
+<p begin="00:27:31.400" end="00:27:34.080" region="R7" style="S2" xml:id="C359">
+<span style="S3">Well, we do.</span>
+</p>
+<p begin="00:27:34.080" end="00:27:35.520" region="R7" style="S2" xml:id="C360">
+<span style="S3">We do.</span>
+</p>
+<p begin="00:27:36.880" end="00:27:38.960" region="agr_0_20_39_4_after" style="S2" xml:id="C361_1">
+<span style="S6">But some are more special</span>
+<br/>
+<span style="S6">than others.</span>
+</p>
+<p begin="00:27:50.640" end="00:27:54.120" region="R7" style="S2" xml:id="C362">
+<span style="S3">What you said about spirituality...</span>
+</p>
+<p begin="00:27:54.120" end="00:27:57.840" region="agr_2_20_38_4_after" style="S2" xml:id="C363_1">
+<span style="S3">..do you think that's true of what</span>
+<br/>
+<span style="S3">you've seen here at St Faith's?</span>
+</p>
+<p begin="00:27:57.840" end="00:28:00.080" region="R7" style="S2" xml:id="C364">
+<span style="S6">What do you care what I think?</span>
+</p>
+<p begin="00:28:19.760" end="00:28:22.240" region="R7" style="S2" xml:id="C365">
+<span style="S6">You've changed these last few weeks.</span>
+</p>
+<p begin="00:28:22.240" end="00:28:24.280" region="R7" style="S2" xml:id="C366">
+<span style="S3">Have I?</span>
+</p>
+<p begin="00:28:24.280" end="00:28:26.160" region="R7" style="S2" xml:id="C367">
+<span style="S6">You're nicer.</span>
+</p>
+<p begin="00:28:38.200" end="00:28:40.480" region="R7" style="S4" ttm:role="sound" xml:id="C368">
+<span style="S3">DOOR CREAKS CLOSED</span>
+</p>
+<p begin="00:28:46.680" end="00:28:49.480" region="R7" style="S4" ttm:role="sound" xml:id="C369">
+<span style="S3">LAUGHTER</span>
+</p>
+<p begin="00:28:51.760" end="00:28:53.600" region="R7" style="S2" xml:id="C370">
+<span style="S3">..in my thoughts and in my words...</span>
+</p>
+<p begin="00:28:53.600" end="00:28:56" region="R7" style="S4" ttm:role="sound" xml:id="C371">
+<span style="S3">WHIP SNAPS</span>
+</p>
+<p begin="00:28:56" end="00:28:58.120" region="R37" style="S2" xml:id="C372_1">
+<span style="S3">..what I have done</span>
+<br/>
+<span style="S3">and for what I have failed to do.</span>
+</p>
+<p begin="00:28:58.120" end="00:29:00.720" region="R7" style="S4" ttm:role="sound" xml:id="C373">
+<span style="S3">WHIP SNAPS</span>
+</p>
+<p begin="00:29:00.720" end="00:29:02.480" region="R7" style="S2" xml:id="C374">
+<span style="S3">..my most grievous fault.</span>
+</p>
+<p begin="00:29:02.480" end="00:29:04.440" region="R7" style="S4" ttm:role="sound" xml:id="C375">
+<span style="S3">WHIP SNAPS</span>
+</p>
+<p begin="00:29:07.200" end="00:29:09.280" region="R7" style="S4" ttm:role="sound" xml:id="C376">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:29:28.320" end="00:29:32.120" region="R7" style="S4" ttm:role="music" xml:id="C377">
+<span style="S3">OMINOUS MUSIC</span>
+</p>
+<p begin="00:29:36.440" end="00:29:39.800" region="R7" style="S4" ttm:role="music" xml:id="C378">
+<span style="S3">INSTRUMENTS SOUND</span>
+</p>
+<p begin="00:29:44.160" end="00:29:46.480" region="R7" style="S4" ttm:role="sound" xml:id="C379">
+<span style="S3">CHILDREN CHATTER EXCITEDLY</span>
+</p>
+<p begin="00:29:49.200" end="00:29:50.640" region="R7" style="S2" xml:id="C380">
+<span style="S5">Stop it.</span>
+</p>
+<p begin="00:29:50.640" end="00:29:52.720" region="R7" style="S4" ttm:role="sound" xml:id="C381">
+<span style="S3">SHE SPEAKS NEPALI</span>
+</p>
+<p begin="00:29:52.720" end="00:29:54.840" region="R7" style="S4" ttm:role="sound" xml:id="C382">
+<span style="S3">CHILDREN LAUGH</span>
+</p>
+<p begin="00:29:59.040" end="00:30:02.080" region="R7" style="S4" ttm:role="sound" xml:id="C383">
+<span style="S3">SOUNDS SWIRL</span>
+</p>
+<p begin="00:30:19.400" end="00:30:21.080" region="R7" style="S2" xml:id="C384">
+<span style="S5">God be with you, Sister.</span>
+</p>
+<p begin="00:30:21.080" end="00:30:22.680" region="R7" style="S2" xml:id="C385">
+<span style="S7">And with you, Sister Briony.</span>
+</p>
+<p begin="00:30:22.680" end="00:30:23.920" region="R7" style="S4" ttm:role="sound" xml:id="C386">
+<span style="S3">BELL RINGS</span>
+</p>
+<p begin="00:30:23.920" end="00:30:25.520" region="R37" style="S2" xml:id="C387_1">
+<span style="S5">God be with you, Sister.</span>
+<br/>
+<span style="S6">And with you.</span>
+</p>
+<p begin="00:30:25.520" end="00:30:28.600" region="agr_0_20_18_2_after" style="S2" ttm:role="sound" xml:id="C388_1">
+<span style="S3">BELL RINGS</span>
+</p>
+<p begin="00:30:25.520" end="00:30:28.600" region="R7" style="S2" ttm:role="sound" xml:id="C388_2">
+<span style="S5">God be with you, Sister.</span>
+</p>
+<p begin="00:30:28.600" end="00:30:30.600" region="R7" style="S2" xml:id="C389">
+<span style="S3">And with you.</span>
+</p>
+<p begin="00:30:32.640" end="00:30:34.760" region="R37" style="S2" xml:id="C390_1">
+<span style="S5">God be with you, Sister.</span>
+<br/>
+<span style="S7">And with you.</span>
+</p>
+<p begin="00:30:34.760" end="00:30:37.320" region="R7" style="S4" ttm:role="sound" xml:id="C391">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:30:54.760" end="00:30:57.600" region="R37" style="S2" xml:id="C392_1">
+<span style="S3">Sister Philippa,</span>
+<br/>
+<span style="S3">I wish to speak with you</span>
+</p>
+<p begin="00:30:57.600" end="00:31:00.640" region="R7" style="S2" xml:id="C393">
+<span style="S3">about your plans for the garden.</span>
+</p>
+<p begin="00:31:00.640" end="00:31:03.040" region="agr_0_20_39_4_after" style="S2" xml:id="C394_1">
+<span style="S3">I suppose it could wait</span>
+<br/>
+<span style="S3">until recreation,</span>
+</p>
+<p begin="00:31:03.040" end="00:31:06.240" region="R37" style="S2" xml:id="C395_1">
+<span style="S3">but I've been thinking</span>
+<br/>
+<span style="S3">about the flowers.</span>
+</p>
+<p begin="00:31:06.240" end="00:31:07.960" region="R7" style="S2" xml:id="C396">
+<span style="S3">You're right.</span>
+</p>
+<p begin="00:31:07.960" end="00:31:10.520" region="R7" style="S2" xml:id="C397">
+<span style="S3">Mopu demands its tribute.</span>
+</p>
+<p begin="00:31:10.520" end="00:31:13.640" region="R7" style="S2" xml:id="C398">
+<span style="S3">Beauty for the glory of God.</span>
+</p>
+<p begin="00:31:13.640" end="00:31:17.480" region="agr_4_20_36_4_after" style="S2" xml:id="C399_1">
+<span style="S3">Now, I would suggest half a dozen of</span>
+<br/>
+<span style="S3">the peonies rather than the dozen,</span>
+</p>
+<p begin="00:31:17.480" end="00:31:19.920" region="agr_0_20_39_4_after" style="S2" xml:id="C400_1">
+<span style="S3">and Pin says he can get</span>
+<br/>
+<span style="S3">hill crocuses for free</span>
+</p>
+<p begin="00:31:19.920" end="00:31:22.360" region="R7" style="S2" xml:id="C401">
+<span style="S3">rather than the daffodils, but...</span>
+</p>
+<p begin="00:31:27.560" end="00:31:28.920" region="R7" style="S2" xml:id="C402">
+<span style="S3">I thought you'd be pleased.</span>
+</p>
+<p begin="00:31:31.720" end="00:31:33.280" region="R7" style="S2" xml:id="C403">
+<span style="S3">Sister...</span>
+</p>
+<p begin="00:31:39.480" end="00:31:41.440" region="R7" style="S2" xml:id="C404">
+<span style="S3">Sister, what is it?</span>
+</p>
+<p begin="00:31:41.440" end="00:31:45.680" region="agr_0_20_39_4_after" style="S2" xml:id="C405_1">
+<span style="S6">I have written a letter</span>
+<br/>
+<span style="S6">to Mother Dorothea.</span>
+</p>
+<p begin="00:31:45.680" end="00:31:48.320" region="agr_0_20_39_4_after" style="S2" xml:id="C406_1">
+<span style="S6">I wish to return to</span>
+<br/>
+<span style="S6">the community at Darjeeling.</span>
+</p>
+<p begin="00:31:50.520" end="00:31:52.560" region="R7" style="S2" xml:id="C407">
+<span style="S3">But...</span>
+</p>
+<p begin="00:31:52.560" end="00:31:54.760" region="R7" style="S2" xml:id="C408">
+<span style="S3">..you love it here.</span>
+</p>
+<p begin="00:31:54.760" end="00:31:57.520" region="R7" style="S2" xml:id="C409">
+<span style="S3">The gardens...</span>
+<span style="S6"> That's the trouble.</span>
+</p>
+<p begin="00:31:58.520" end="00:32:01.720" region="R7" style="S2" xml:id="C410">
+<span style="S6">You made me see...</span>
+</p>
+<p begin="00:32:01.720" end="00:32:05.080" region="agr_0_20_38_4_after" style="S2" xml:id="C411_1">
+<span style="S6">..if I stay,</span>
+<br/>
+<span style="S6">I will forget my purpose.</span>
+</p>
+<p begin="00:32:08.160" end="00:32:11" region="R7" style="S2" xml:id="C412">
+<span style="S6">Since we came here,</span>
+</p>
+<p begin="00:32:11" end="00:32:14.720" region="agr_0_20_38_4_after" style="S2" xml:id="C413_1">
+<span style="S6">all I can think about is</span>
+<br/>
+<span style="S6">the beauty of everything.</span>
+</p>
+<p begin="00:32:16.480" end="00:32:18.520" region="R7" style="S2" xml:id="C414">
+<span style="S6">It is too much.</span>
+</p>
+<p begin="00:32:20.320" end="00:32:22.800" region="R7" style="S2" xml:id="C415">
+<span style="S6">The air is too clear.</span>
+</p>
+<p begin="00:32:24.400" end="00:32:26.120" region="R7" style="S2" xml:id="C416">
+<span style="S6">We can see too far.</span>
+</p>
+<p begin="00:32:28.080" end="00:32:30.960" region="R37" style="S2" xml:id="C417_1">
+<span style="S6">It's as though the mountains</span>
+<br/>
+<span style="S6">are watching us.</span>
+</p>
+<p begin="00:32:33.200" end="00:32:34.800" region="R7" style="S2" xml:id="C418">
+<span style="S6">Not God.</span>
+</p>
+<p begin="00:32:37.720" end="00:32:40.320" region="R7" style="S2" xml:id="C419">
+<span style="S6">Take great care.</span>
+</p>
+<p begin="00:32:44.160" end="00:32:49.280" region="R37" style="S2" xml:id="C420_1">
+<span style="S6">I think this place is too much</span>
+<br/>
+<span style="S6">for all of us, Sister Clodagh.</span>
+</p>
+<p begin="00:33:16" end="00:33:19.680" region="R7" style="S4" ttm:role="sound" xml:id="C421">
+<span style="S3">SHE HUMS AND CHILDREN CHATTER</span>
+</p>
+<p begin="00:33:23.960" end="00:33:26.560" region="R7" style="S2" xml:id="C422">
+<span style="S6">Had God any body?</span>
+</p>
+<p begin="00:33:26.560" end="00:33:28.520" region="R7" style="S2" xml:id="C423">
+<span style="S6">God has no body.</span>
+</p>
+<p begin="00:33:31.320" end="00:33:33.720" region="R7" style="S2" xml:id="C424">
+<span style="S6">Had God any body?</span>
+</p>
+<p begin="00:33:33.720" end="00:33:36.520" region="R7" style="S2" xml:id="C425">
+<span style="S6">God has no body.</span>
+</p>
+<p begin="00:33:36.520" end="00:33:37.680" region="R7" style="S2" xml:id="C426">
+<span style="S6">He is...</span>
+</p>
+<p begin="00:33:37.680" end="00:33:39.800" region="R7" style="S4" ttm:role="sound" xml:id="C427">
+<span style="S3">SHE GASPS</span>
+</p>
+<p begin="00:33:39.800" end="00:33:41.520" region="R7" style="S2" xml:id="C428">
+<span style="S5">You careless creature.</span>
+</p>
+<p begin="00:33:43.160" end="00:33:45.520" region="agr_0_20_39_4_after" style="S2" xml:id="C429_1">
+<span style="S5">Angu will give you a whipping</span>
+<br/>
+<span style="S5">for this.</span>
+</p>
+<p begin="00:33:45.520" end="00:33:48.240" region="R7" style="S2" xml:id="C430">
+<span style="S6">No, please.</span>
+<span style="S5"> Stop. Stop, Kanchi.</span>
+</p>
+<p begin="00:33:48.240" end="00:33:50.680" region="agr_0_20_39_4_after" style="S2" xml:id="C431_1">
+<span style="S5">Kanchi, don't touch me.</span>
+<br/>
+<span style="S5">Kanchi, stop it!</span>
+</p>
+<p begin="00:33:50.680" end="00:33:52.240" region="R7" style="S2" xml:id="C432">
+<span style="S3">Sister?</span>
+</p>
+<p begin="00:33:52.240" end="00:33:54.080" region="R7" style="S2" xml:id="C433">
+<span style="S3">This is not the girl's fault at all.</span>
+</p>
+<p begin="00:33:54.080" end="00:33:57.240" region="R37" style="S2" xml:id="C434_1">
+<span style="S3">In fact, I think it is a blast</span>
+<br/>
+<span style="S3">of freezing and thawing.</span>
+</p>
+<p begin="00:33:57.240" end="00:33:59.240" region="R7" style="S2" xml:id="C435">
+<span style="S3">This is science.</span>
+</p>
+<p begin="00:33:59.240" end="00:34:01.160" region="R7" style="S2" xml:id="C436">
+<span style="S5">Get up.</span>
+</p>
+<p begin="00:34:01.160" end="00:34:02.760" region="R7" style="S4" ttm:role="sound" xml:id="C437">
+<span style="S3">KANCHI SPEAKS NEPALI</span>
+</p>
+<p begin="00:34:02.760" end="00:34:06.840" region="agr_3_20_37_4_after" style="S2" xml:id="C438_1">
+<span style="S3">Oh, no, you mustn't. You must speak</span>
+<br/>
+<span style="S3">in English. We are modern people.</span>
+</p>
+<p begin="00:34:09.560" end="00:34:11.800" region="R7" style="S2" xml:id="C439">
+<span style="S3">Thank you, Dilip Rai.</span>
+</p>
+<p begin="00:34:15" end="00:34:16.400" region="R7" style="S2" xml:id="C440">
+<span style="S5">That's enough.</span>
+</p>
+<p begin="00:34:18.280" end="00:34:20.720" region="agr_2_20_38_4_after" style="S2" xml:id="C441_1">
+<span style="S5">Off you go. Angu will be wondering</span>
+<br/>
+<span style="S5">where you are.</span>
+</p>
+<p begin="00:34:22.680" end="00:34:25.800" region="R37" style="S2" xml:id="C442_1">
+<span style="S5">Where on earth did that girl</span>
+<br/>
+<span style="S5">get hold of scent?</span>
+</p>
+<p begin="00:34:25.800" end="00:34:28.320" region="R7" style="S2" xml:id="C443">
+<span style="S3">That's me, Sister Ruth, not Kanchi.</span>
+</p>
+<p begin="00:34:28.320" end="00:34:31.120" region="agr_2_20_38_4_after" style="S2" xml:id="C444_1">
+<span style="S3">I sent for it from</span>
+<br/>
+<span style="S3">the Army and Navy stores in London.</span>
+</p>
+<p begin="00:34:31.120" end="00:34:34.480" region="agr_0_20_39_4_after" style="S2" xml:id="C445_1">
+<span style="S3">Do you like it? It's called</span>
+<br/>
+<span style="S3">Black Narcissus.</span>
+</p>
+<p begin="00:34:34.480" end="00:34:36.320" region="R7" style="S2" xml:id="C446">
+<span style="S5">I certainly do not.</span>
+</p>
+<p begin="00:34:37.360" end="00:34:39.080" region="R7" style="S2" xml:id="C447">
+<span style="S3">Good day.</span>
+</p>
+<p begin="00:35:53.600" end="00:35:55.240" region="R7" style="S4" ttm:role="sound" xml:id="C448">
+<span style="S3">SCREAMING</span>
+</p>
+<p begin="00:36:08.440" end="00:36:10.480" region="R7" style="S4" ttm:role="sound" xml:id="C449">
+<span style="S3">SHE SCREAMS</span>
+</p>
+<p begin="00:36:10.480" end="00:36:13.640" region="R7" style="S2" xml:id="C450">
+<span style="S3">Sister Ruth? Whatever are you doing?</span>
+</p>
+<p begin="00:36:19.800" end="00:36:21.680" region="R7" style="S2" xml:id="C451">
+<span style="S3">Careful.</span>
+</p>
+<p begin="00:36:24.120" end="00:36:26.800" region="R7" style="S2" xml:id="C452">
+<span style="S5">It's not my fault.</span>
+</p>
+<p begin="00:36:26.800" end="00:36:28.640" region="R7" style="S2" xml:id="C453">
+<span style="S5">It was Kanchi.</span>
+</p>
+<p begin="00:36:31.120" end="00:36:33" region="R7" style="S2" xml:id="C454">
+<span style="S5">It's broken.</span>
+</p>
+<p begin="00:36:34.120" end="00:36:36.560" region="R7" style="S2" xml:id="C455">
+<span style="S3">Goodness.</span>
+</p>
+<p begin="00:36:36.560" end="00:36:40.640" region="agr_3_20_37_4_after" style="S2" xml:id="C456_1">
+<span style="S3">Still, Sister Briony's been boiling</span>
+<br/>
+<span style="S3">bones for glue</span>
+</p>
+<p begin="00:36:40.640" end="00:36:42.520" region="R7" style="S2" xml:id="C457">
+<span style="S3">ever since we arrived.</span>
+</p>
+<p begin="00:36:42.520" end="00:36:45.360" region="R37" style="S2" xml:id="C458_1">
+<span style="S3">I'm sure she will be delighted</span>
+<br/>
+<span style="S3">that she can use some of it.</span>
+</p>
+<p begin="00:36:45.360" end="00:36:47.280" region="R7" style="S2" xml:id="C459">
+<span style="S3">Shall we go and ask her?</span>
+</p>
+<p begin="00:36:51.320" end="00:36:52.920" region="R7" style="S2" xml:id="C460">
+<span style="S3">Oh, Sister...</span>
+</p>
+<p begin="00:36:54.480" end="00:36:56.120" region="R7" style="S2" xml:id="C461">
+<span style="S3">You're not yourself.</span>
+</p>
+<p begin="00:36:59.480" end="00:37:01.080" region="R7" style="S2" xml:id="C462">
+<span style="S3">When Father Roberts arrives,</span>
+</p>
+<p begin="00:37:01.080" end="00:37:04.480" region="R37" style="S2" xml:id="C463_1">
+<span style="S3">I'm going to ask him to take you</span>
+<br/>
+<span style="S3">back with him to Darjeeling.</span>
+</p>
+<p begin="00:37:04.480" end="00:37:06.400" region="R7" style="S2" xml:id="C464">
+<span style="S3">You'll see a doctor.</span>
+</p>
+<p begin="00:37:08.840" end="00:37:10.960" region="R7" style="S2" xml:id="C465">
+<span style="S3">I so wish...</span>
+</p>
+<p begin="00:37:10.960" end="00:37:14.840" region="agr_4_20_36_4_after" style="S2" xml:id="C466_1">
+<span style="S3">I wish you could see how much I want</span>
+<br/>
+<span style="S3">to help you, Sister Ruth.</span>
+</p>
+<p begin="00:37:14.840" end="00:37:16.760" region="R7" style="S2" xml:id="C467">
+<span style="S3">We all do.</span>
+</p>
+<p begin="00:37:52.360" end="00:37:54.960" region="agr_0_20_39_4_after" style="S2" xml:id="C468_1">
+<span style="S6">"A true witness</span>
+<br/>
+<span style="S6">delivereth souls,</span>
+</p>
+<p begin="00:37:54.960" end="00:37:58.080" region="R37" style="S2" xml:id="C469_1">
+<span style="S6">"but a deceitful witness</span>
+<br/>
+<span style="S6">speaketh lies.</span>
+</p>
+<p begin="00:37:58.080" end="00:38:00.680" region="R37" style="S2" xml:id="C470_1">
+<span style="S6">"In the fear of the Lord</span>
+<br/>
+<span style="S6">is strong confidence,</span>
+</p>
+<p begin="00:38:00.680" end="00:38:04.320" region="R37" style="S2" xml:id="C471_1">
+<span style="S6">"and his children shall have</span>
+<br/>
+<span style="S6">a place of refuge.</span>
+</p>
+<p begin="00:38:04.320" end="00:38:07.200" region="agr_0_20_39_4_after" style="S2" xml:id="C472_1">
+<span style="S6">"The fear of the Lord</span>
+<br/>
+<span style="S6">is a fountain of life</span>
+</p>
+<p begin="00:38:07.200" end="00:38:10.320" region="R7" style="S2" xml:id="C473">
+<span style="S6">"to depart from the snares of death.</span>
+</p>
+<p begin="00:38:10.320" end="00:38:13.320" region="agr_0_20_39_4_after" style="S2" xml:id="C474_1">
+<span style="S6">"In the multitude of people</span>
+<br/>
+<span style="S6">is the king's honour,</span>
+</p>
+<p begin="00:38:13.320" end="00:38:17.400" region="R37" style="S2" xml:id="C475_1">
+<span style="S6">"but in the want of people</span>
+<br/>
+<span style="S6">is the destruction of the prince.</span>
+</p>
+<p begin="00:38:17.400" end="00:38:19.080" region="R7" style="S2" xml:id="C476">
+<span style="S6">"He that is slow...</span>
+</p>
+<p begin="00:38:19.080" end="00:38:21.520" region="R7" style="S4" ttm:role="sound" xml:id="C477">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:38:21.520" end="00:38:23.480" region="R7" style="S4" ttm:role="sound" xml:id="C478">
+<span style="S3">BELLS JANGLE</span>
+</p>
+<p begin="00:38:26.040" end="00:38:29.440" region="R37" ttm:role="music" xml:id="C479">
+<span style="S3">"O COME, ALL YE FAITHFUL"</span>
+<br/>
+<span style="S3">PLAYS ON HARMONIUM</span>
+</p>
+<p begin="00:38:39.880" end="00:38:42.280" region="agr_0_20_29_2_after" style="S2" ttm:role="music" xml:id="C480_1">
+<span style="S3">SHE PLAYS WRONG CHORD</span>
+</p>
+<p begin="00:38:39.880" end="00:38:42.280" region="agr_0_22_39_2_after" style="S2" ttm:role="music" xml:id="C480_2">
+<span style="S7">Oh, no, that's wrong.</span>
+</p>
+<p begin="00:38:42.280" end="00:38:44.760" region="R7" style="S4" ttm:role="music" xml:id="C481">
+<span style="S3">MUSIC CONTINUES</span>
+</p>
+<p begin="00:38:46.920" end="00:38:50.400" region="R37" style="S2" xml:id="C482">
+<span style="S3">Joseph Anthony, would you fetch</span>
+<br/>
+<span style="S3">the cooked mince pies, please?</span>
+</p>
+<p begin="00:38:50.400" end="00:38:52.720" region="R7" style="S2" xml:id="C483">
+<span style="S7">Where is the meat in this mincemeat?</span>
+</p>
+<p begin="00:38:52.720" end="00:38:54.280" region="R7" style="S2" xml:id="C484">
+<span style="S6">There is none.</span>
+</p>
+<p begin="00:38:54.280" end="00:38:57.320" region="agr_2_20_38_4_after" style="S2" xml:id="C485_1">
+<span style="S6">It's traditional, you see, as part</span>
+<br/>
+<span style="S6">of the celebrations tomorrow.</span>
+</p>
+<p begin="00:38:57.320" end="00:39:01.200" region="agr_0_20_39_4_after" style="S2" xml:id="C486_1">
+<span style="S7">When Shrimati Devi was alive,</span>
+<br/>
+<span style="S7">we had so many parties.</span>
+</p>
+<p begin="00:39:01.200" end="00:39:04.520" region="agr_4_20_36_4_after" style="S2" xml:id="C487_1">
+<span style="S6">What was it that happened to</span>
+<br/>
+<span style="S6">the princess? You're always hinting.</span>
+</p>
+<p begin="00:39:04.520" end="00:39:07.080" region="agr_0_20_40_2_after" style="S2" ttm:role="sound" xml:id="C488_1">
+<span style="S7">Can't you guess, Sister?</span>
+</p>
+<p begin="00:39:04.520" end="00:39:07.080" region="agr_0_22_20_2_after" style="S2" ttm:role="sound" xml:id="C488_2">
+<span style="S3">SHE CHUCKLES</span>
+</p>
+<p begin="00:39:07.080" end="00:39:10.920" region="R37" style="S2" xml:id="C489_1">
+<span style="S7">Same story, always - another man</span>
+<br/>
+<span style="S7">who told Shrimati Devi</span>
+</p>
+<p begin="00:39:10.920" end="00:39:15.920" region="agr_0_20_39_4_after" style="S2" xml:id="C490_1">
+<span style="S7">he loved only her...till a baby</span>
+<br/>
+<span style="S7">was made. And then...</span>
+</p>
+<p begin="00:39:15.920" end="00:39:17.720" region="R7" style="S2" xml:id="C491">
+<span style="S6">Happy Christmas, sisters!</span>
+</p>
+<p begin="00:39:17.720" end="00:39:19.240" region="R7" style="S2" xml:id="C492">
+<span style="S3">ALL:</span>
+<span style="S5"> Happy Christmas!</span>
+</p>
+<p begin="00:39:19.240" end="00:39:22" region="agr_2_20_38_4_after" style="S2" xml:id="C493_1">
+<span style="S6">I so want to shake Father Roberts'</span>
+<br/>
+<span style="S6">hand. And the new sister.</span>
+</p>
+<p begin="00:39:22" end="00:39:25.160" region="R37" style="S2" xml:id="C494_1">
+<span style="S6">Are they here?</span>
+<span style="S3"> Sister Adela?</span>
+<br/>
+<span style="S3">Unfortunately not, Highness.</span>
+</p>
+<p begin="00:39:25.160" end="00:39:27.480" region="agr_1_20_39_4_after" style="S2" xml:id="C495_1">
+<span style="S3">This weather's bound to have held</span>
+<br/>
+<span style="S3">them up at Goontu.</span>
+</p>
+<p begin="00:39:27.480" end="00:39:29.640" region="R37" style="S2" xml:id="C496_1">
+<span style="S6">Well, look what I have for</span>
+<br/>
+<span style="S6">you, sisters.</span>
+</p>
+<p begin="00:39:29.640" end="00:39:31.280" region="R7" style="S2" xml:id="C497">
+<span style="S6">Dean caught me on the way up.</span>
+</p>
+<p begin="00:39:31.280" end="00:39:33.240" region="agr_1_20_39_4_after" style="S2" xml:id="C498_1">
+<span style="S3">AS DEAN:</span>
+<span style="S6"> "Dilip Rai, you can save</span>
+<br/>
+<span style="S6">me a job."</span>
+</p>
+<p begin="00:39:33.240" end="00:39:35.200" region="R7" style="S4" ttm:role="sound" xml:id="C499">
+<span style="S3">LAUGHTER</span>
+</p>
+<p begin="00:39:35.200" end="00:39:37.560" region="agr_0_20_39_4_after" style="S2" xml:id="C500_1">
+<span style="S6">I do love him, don't you?</span>
+<br/>
+<span style="S6">He's a democrat!</span>
+</p>
+<p begin="00:39:40" end="00:39:42.480" region="agr_0_20_39_4_after" style="S2" xml:id="C501_1">
+<span style="S7">Thank you.</span>
+<span style="S5"> Thank you.</span>
+<br/>
+<span style="S6">Joseph Anthony, Sister Briony.</span>
+</p>
+<p begin="00:39:42.480" end="00:39:44.680" region="R7" style="S2" xml:id="C502">
+<span style="S5">Oh, my word.</span>
+<span style="S3"> Oh, dear.</span>
+</p>
+<p begin="00:39:44.680" end="00:39:47.800" region="agr_4_20_36_4_after" style="S2" xml:id="C503_1">
+<span style="S3">He can't have known that we're not</span>
+<br/>
+<span style="S3">allowed to accept personal presents.</span>
+</p>
+<p begin="00:39:47.800" end="00:39:49.560" region="R7" style="S2" xml:id="C504">
+<span style="S5">Open it, Sister, huh?</span>
+</p>
+<p begin="00:39:49.560" end="00:39:52.840" region="agr_0_20_39_4_after" style="S2" xml:id="C505_1">
+<span style="S5">At least you should see</span>
+<br/>
+<span style="S5">what it is you can't have.</span>
+</p>
+<p begin="00:39:52.840" end="00:39:55.480" region="R37" style="S2" xml:id="C506_1">
+<span style="S6">Shall we really not be allowed</span>
+<br/>
+<span style="S6">to keep them, Sister Clodagh?</span>
+</p>
+<p begin="00:39:55.480" end="00:39:59.040" region="R37" style="S2" xml:id="C507_1">
+<span style="S3">Well...</span>
+<span style="S7"> Sister Ruth...</span>
+<br/>
+<span style="S3">..they are exceedingly practical.</span>
+</p>
+<p begin="00:39:59.040" end="00:40:01.640" region="R37" style="S2" xml:id="C508_1">
+<span style="S3">I suppose we could consider them</span>
+<br/>
+<span style="S3">a donation to the order.</span>
+</p>
+<p begin="00:40:01.640" end="00:40:03.800" region="R7" style="S2" xml:id="C509">
+<span style="S7">Oh, I could dance a jig!</span>
+</p>
+<p begin="00:40:03.800" end="00:40:05.960" region="R37" style="S2" xml:id="C510_1">
+<span style="S7">Night after night I've been up</span>
+<br/>
+<span style="S7">with my chilblains,</span>
+</p>
+<p begin="00:40:05.960" end="00:40:08.640" region="agr_1_20_39_4_after" style="S2" xml:id="C511_1">
+<span style="S7">and now my poor old trotters will</span>
+<br/>
+<span style="S7">be warm and dry!</span>
+</p>
+<p begin="00:40:08.640" end="00:40:11.080" region="agr_1_20_39_4_after" style="S2" xml:id="C512_1">
+<span style="S7">I know the man's a rogue,</span>
+<br/>
+<span style="S7">and they say he drinks and worse,</span>
+</p>
+<p begin="00:40:11.080" end="00:40:13.040" region="R7" style="S2" xml:id="C513">
+<span style="S7">but I won't hear a word against him.</span>
+</p>
+<p begin="00:40:13.040" end="00:40:15.440" region="agr_1_20_39_4_after" style="S2" xml:id="C514_1">
+<span style="S3">Aren't you going to try yours on,</span>
+<br/>
+<span style="S3">Sister Ruth?</span>
+</p>
+<p begin="00:40:15.440" end="00:40:17.560" region="R7" style="S2" xml:id="C515">
+<span style="S3">Look...</span>
+</p>
+<p begin="00:40:17.560" end="00:40:19.800" region="R7" style="S2" xml:id="C516">
+<span style="S3">Look, there are knots in the string.</span>
+</p>
+<p begin="00:40:24.520" end="00:40:26.680" region="R7" style="S2" xml:id="C517">
+<span style="S6">Leave her, Sister Clodagh.</span>
+</p>
+<p begin="00:40:26.680" end="00:40:29.040" region="agr_0_20_39_4_after" style="S2" xml:id="C518_1">
+<span style="S6">There's no point in</span>
+<br/>
+<span style="S6">spoiling Christmas Eve.</span>
+</p>
+<p begin="00:40:30.520" end="00:40:32.840" region="agr_0_20_39_4_after" style="S2" xml:id="C519_1">
+<span style="S3">JOSEPH ANTHONY:</span>
+<span style="S7"> Angu, this is</span>
+<br/>
+<span style="S7">for you.</span>
+</p>
+<p begin="00:40:32.840" end="00:40:35" region="R7" style="S2" xml:id="C520">
+<span style="S5">Ohh!</span>
+</p>
+<p begin="00:40:35" end="00:40:38.200" region="agr_0_20_39_2_after" style="S2" ttm:role="sound" xml:id="C521_1">
+<span style="S6">Your favourite.</span>
+</p>
+<p begin="00:40:35" end="00:40:38.200" region="agr_0_22_18_2_after" style="S2" ttm:role="sound" xml:id="C521_2">
+<span style="S3">THEY LAUGH</span>
+</p>
+<p begin="00:40:38.200" end="00:40:40.560" region="R7" style="S2" xml:id="C522">
+<span style="S5">Exciting.</span>
+<span style="S7"> A knife!</span>
+</p>
+<p begin="00:40:40.560" end="00:40:42.800" region="R7" style="S2" xml:id="C523">
+<span style="S3">It's definitely for a big boy.</span>
+</p>
+<p begin="00:40:42.800" end="00:40:44.480" region="R7" style="S4" ttm:role="sound" xml:id="C524">
+<span style="S3">LAUGHTER</span>
+</p>
+<p begin="00:40:44.480" end="00:40:48.840" region="R7" style="S2" ttm:role="music" xml:id="C525">
+<span style="S3"># O come all ye faithful</span>
+</p>
+<p begin="00:40:48.840" end="00:40:52.760" region="R7" style="S2" xml:id="C526">
+<span style="S3"># Joyful and triumphant</span>
+</p>
+<p begin="00:40:52.760" end="00:40:57.640" region="agr_0_20_39_4_after" style="S2" xml:id="C527_1">
+<span style="S3"># O come ye</span>
+<br/>
+<span style="S3">O come ye</span>
+</p>
+<p begin="00:40:57.640" end="00:41:02.760" region="R7" style="S2" xml:id="C528">
+<span style="S3"># To Bethlehem</span>
+</p>
+<p begin="00:41:02.760" end="00:41:07.640" region="R7" style="S2" xml:id="C529">
+<span style="S3"># Come and behold him</span>
+</p>
+<p begin="00:41:07.640" end="00:41:11.800" region="R7" style="S2" xml:id="C530">
+<span style="S3"># Born the king of angels</span>
+</p>
+<p begin="00:41:11.800" end="00:41:16.480" region="R7" style="S2" xml:id="C531">
+<span style="S3"># O come let us adore him</span>
+</p>
+<p begin="00:41:16.480" end="00:41:19.840" region="R7" style="S2" xml:id="C532">
+<span style="S3"># O come let us adore him</span>
+</p>
+<p begin="00:41:19.840" end="00:41:21.320" region="R7" style="S4" ttm:role="sound" xml:id="C533">
+<span style="S3">LANTERN CLATTERS</span>
+</p>
+<p begin="00:41:21.320" end="00:41:26.520" region="agr_0_20_32_2_after" style="S2" ttm:role="music" xml:id="C534_1">
+<span style="S3">MR DEAN SINGS IN HARMONY</span>
+</p>
+<p begin="00:41:21.320" end="00:41:26.520" region="agr_0_22_39_2_after" style="S2" ttm:role="music" xml:id="C534_2">
+<span style="S3"># O come let us adore him</span>
+</p>
+<p begin="00:41:26.520" end="00:41:31.200" region="R7" style="S2" xml:id="C535">
+<span style="S3"># Christ, the Lord</span>
+</p>
+<p begin="00:41:31.200" end="00:41:35.800" region="R7" style="S2" xml:id="C536">
+<span style="S3"># God of god</span>
+</p>
+<p begin="00:41:35.800" end="00:41:40.680" region="R7" style="S2" xml:id="C537">
+<span style="S3"># Light of light</span>
+</p>
+<p begin="00:41:40.680" end="00:41:48.680" region="agr_0_20_39_4_after" style="S2" xml:id="C538_1">
+<span style="S3"># Lo, he abhors not</span>
+<br/>
+<span style="S3">the Virgin's womb</span>
+</p>
+<p begin="00:41:49.960" end="00:41:53.680" region="R7" style="S2" xml:id="C539">
+<span style="S3"># Very God</span>
+</p>
+<p begin="00:41:53.680" end="00:41:58.760" region="R7" style="S2" xml:id="C540">
+<span style="S3"># Begotten not created</span>
+</p>
+<p begin="00:41:58.760" end="00:42:03.440" region="R7" style="S2" xml:id="C541">
+<span style="S3"># O come let us adore him</span>
+</p>
+<p begin="00:42:03.440" end="00:42:08.080" region="R7" style="S2" xml:id="C542">
+<span style="S3"># O come let us adore him</span>
+</p>
+<p begin="00:42:08.080" end="00:42:11.320" region="R7" style="S2" xml:id="C543">
+<span style="S3"># O come let us... #</span>
+</p>
+<p begin="00:42:11.320" end="00:42:13.320" region="agr_0_20_39_4_after" style="S2" xml:id="C544_1">
+<span style="S7">They're very festive.</span>
+<br/>
+<span style="S7">They've beautiful.</span>
+</p>
+<p begin="00:42:13.320" end="00:42:15.800" region="R37" style="S2" xml:id="C545_1">
+<span style="S6">They're better than those little</span>
+<br/>
+<span style="S6">things that you had,</span>
+</p>
+<p begin="00:42:15.800" end="00:42:18.680" region="R7" style="S2" xml:id="C546">
+<span style="S6">with your toes...</span>
+<span style="S5"> Certainly warmer.</span>
+</p>
+<p begin="00:42:21.520" end="00:42:23.160" region="R7" style="S2" xml:id="C547">
+<span style="S5">Thank you so much, Mr Dean.</span>
+</p>
+<p begin="00:42:23.160" end="00:42:25.760" region="R37" style="S2" xml:id="C548_1">
+<span style="S7">Thank you.</span>
+<span style="S5"> They're lovely.</span>
+<br/>
+<span style="S7">So kind.</span>
+</p>
+<p begin="00:42:25.760" end="00:42:28.360" region="R7" style="S2" xml:id="C549">
+<span style="S6">The least I could do.</span>
+</p>
+<p begin="00:42:28.360" end="00:42:31.320" region="R37" style="S2" xml:id="C550_1">
+<span style="S5">Sister Clodagh, allow me</span>
+<br/>
+<span style="S5">to congratulate you</span>
+</p>
+<p begin="00:42:31.320" end="00:42:33.560" region="R7" style="S2" xml:id="C551">
+<span style="S5">on the birth of Jesus Christ.</span>
+</p>
+<p begin="00:42:33.560" end="00:42:35.560" region="R7" style="S2" xml:id="C552">
+<span style="S3">Thank you, Excellency.</span>
+</p>
+<p begin="00:42:35.560" end="00:42:37.280" region="R7" style="S4" ttm:role="sound" xml:id="C553">
+<span style="S3">MR DEAN BURPS AND SISTER LAUGH</span>
+</p>
+<p begin="00:42:37.280" end="00:42:39.280" region="R7" style="S2" xml:id="C554">
+<span style="S6">Forgive me my trespasses.</span>
+</p>
+<p begin="00:42:39.280" end="00:42:42.520" region="R37" style="S2" xml:id="C555">
+<span style="S5">You couldn't carry Joseph Anthony to</span>
+<br/>
+<span style="S5">his bed for me, could you, Mr Dean?</span>
+</p>
+<p begin="00:42:42.520" end="00:42:45.320" region="R37" style="S2" xml:id="C556">
+<span style="S5">We can't leave him in the chapel</span>
+<br/>
+<span style="S5">all night. He'll catch his death.</span>
+</p>
+<p begin="00:42:45.320" end="00:42:47.320" region="agr_0_20_39_4_after" style="S2" xml:id="C557_1">
+<span style="S6">Your wish, Sister Briony,</span>
+<br/>
+<span style="S6">is my command.</span>
+</p>
+<p begin="00:42:47.320" end="00:42:50.280" region="R7" style="S4" ttm:role="sound" xml:id="C558">
+<span style="S3">SHE LAUGHS</span>
+</p>
+<p begin="00:42:50.280" end="00:42:52.440" region="R7" style="S2" xml:id="C559">
+<span style="S5">He's in fine form this evening.</span>
+</p>
+<p begin="00:43:35.400" end="00:43:37.440" region="R7" style="S2" xml:id="C560">
+<span style="S7">Happy Christmas, Mr Dean.</span>
+</p>
+<p begin="00:43:38.440" end="00:43:42" region="R37" style="S2" xml:id="C561_1">
+<span style="S6">And season's greetings</span>
+<br/>
+<span style="S6">to you, Sister.</span>
+</p>
+<p begin="00:43:42" end="00:43:44.120" region="R7" style="S2" xml:id="C562">
+<span style="S7">These came all the way from England.</span>
+</p>
+<p begin="00:43:44.120" end="00:43:47.160" region="R7" style="S2" xml:id="C563">
+<span style="S7">The order in Kenstead.</span>
+</p>
+<p begin="00:43:47.160" end="00:43:48.520" region="R7" style="S2" xml:id="C564">
+<span style="S7">It's for your...</span>
+</p>
+<p begin="00:43:48.520" end="00:43:51.600" region="R7" style="S2" xml:id="C565">
+<span style="S7">You don't have a buttonhole.</span>
+<span style="S6"> Oh, no.</span>
+</p>
+<p begin="00:43:51.600" end="00:43:54.560" region="R7" style="S2" xml:id="C566">
+<span style="S6">Not in these glad rags.</span>
+</p>
+<p begin="00:43:54.560" end="00:43:56.840" region="R7" style="S2" xml:id="C567">
+<span style="S7">May I? Oh.</span>
+</p>
+<p begin="00:44:05.640" end="00:44:07.920" region="R7" style="S2" xml:id="C568">
+<span style="S7">It's awfully prickly.</span>
+</p>
+<p begin="00:44:15.480" end="00:44:18.640" region="R7" style="S4" ttm:role="sound" xml:id="C569">
+<span style="S3">MR DEAN GROANS</span>
+</p>
+<p begin="00:44:45" end="00:44:46.560" region="R7" style="S2" xml:id="C570">
+<span style="S3">WHISPERS:</span>
+<span style="S6"> Where should I take him?</span>
+</p>
+<p begin="00:44:46.560" end="00:44:49.800" region="agr_0_20_39_4_after" style="S2" xml:id="C571_1">
+<span style="S5">Just take him to the kitchen,</span>
+<br/>
+<span style="S5">please, Mr Dean. Thank you.</span>
+</p>
+<p begin="00:44:51.440" end="00:44:53.280" region="R7" style="S2" xml:id="C572">
+<span style="S5">Oh, careful!</span>
+</p>
+<p begin="00:44:58.720" end="00:45:01.560" region="R37" style="S2" xml:id="C573_1">
+<span style="S7">Night, Sister Clodagh.</span>
+<br/>
+<span style="S7">Merry Christmas.</span>
+</p>
+<p begin="00:45:01.560" end="00:45:03.560" region="R7" style="S2" xml:id="C574">
+<span style="S3">Merry Christmas, sisters.</span>
+</p>
+<p begin="00:45:39.080" end="00:45:42.960" region="agr_0_20_39_4_after" style="S2" xml:id="C575_1">
+<span style="S3">Mr Dean. What just happened</span>
+<br/>
+<span style="S3">with Sister Ruth?</span>
+</p>
+<p begin="00:45:42.960" end="00:45:45.280" region="R37" style="S2" xml:id="C576_1">
+<span style="S6">I think you'd better</span>
+<br/>
+<span style="S6">ask Sister Ruth.</span>
+</p>
+<p begin="00:45:45.280" end="00:45:47.720" region="R7" style="S2" xml:id="C577">
+<span style="S3">How much have you had to drink?</span>
+</p>
+<p begin="00:45:47.720" end="00:45:49.560" region="R7" style="S2" xml:id="C578">
+<span style="S6">Just a dram or two...</span>
+</p>
+<p begin="00:45:49.560" end="00:45:51.640" region="R7" style="S2" xml:id="C579">
+<span style="S6">..to wet the Christ child's head.</span>
+</p>
+<p begin="00:45:51.640" end="00:45:54.520" region="agr_1_20_39_4_after" style="S2" xml:id="C580_1">
+<span style="S3">How dare you come to our place of</span>
+<br/>
+<span style="S3">worship drunk?</span>
+</p>
+<p begin="00:45:54.520" end="00:45:55.720" region="R7" style="S2" xml:id="C581">
+<span style="S3">Tonight of all nights.</span>
+</p>
+<p begin="00:45:55.720" end="00:45:58.160" region="agr_0_20_38_4_after" style="S2" xml:id="C582_1">
+<span style="S6">Spare me the sermon.</span>
+<br/>
+<span style="S6">Why not take the night off?</span>
+</p>
+<p begin="00:45:58.160" end="00:45:59.680" region="R7" style="S2" xml:id="C583">
+<span style="S3">You really are objectionable.</span>
+</p>
+<p begin="00:45:59.680" end="00:46:01.400" region="R7" style="S2" xml:id="C584">
+<span style="S6">Well, so are you...</span>
+</p>
+<p begin="00:46:01.400" end="00:46:04.560" region="agr_0_20_39_4_after" style="S2" xml:id="C585_1">
+<span style="S6">..but in the morning, Sister,</span>
+<br/>
+<span style="S6">I'll be sober.</span>
+</p>
+<p begin="00:46:04.560" end="00:46:08.040" region="R37" style="S2" xml:id="C586">
+<span style="S5">Goodnight, Sister Clodagh. I did</span>
+<br/>
+<span style="S5">so enjoy the singing, didn't you?</span>
+</p>
+<p begin="00:46:08.040" end="00:46:10.040" region="R7" style="S2" xml:id="C587">
+<span style="S3">Goodnight, Dilip Rai.</span>
+</p>
+<p begin="00:46:12.600" end="00:46:16.760" region="agr_3_20_37_4_after" style="S2" xml:id="C588_1">
+<span style="S5">I didn't know you could sing, Dean.</span>
+<br/>
+<span style="S5">Your voice is so strong and loud.</span>
+</p>
+<p begin="00:46:16.760" end="00:46:18.680" region="R7" style="S2" xml:id="C589">
+<span style="S5">Goodnight.</span>
+</p>
+<p begin="00:46:27.320" end="00:46:29.960" region="R7" style="S4" ttm:role="sound" xml:id="C590">
+<span style="S3">HORSE WHINNIES</span>
+</p>
+<p begin="00:46:34.200" end="00:46:38.680" region="agr_2_20_38_4_after" style="S2" xml:id="C591_1">
+<span style="S6">Sister, it's my turn to apologise.</span>
+<br/>
+<span style="S6">The whisky...</span>
+</p>
+<p begin="00:46:38.680" end="00:46:40.840" region="R7" style="S2" xml:id="C592">
+<span style="S3">The whisky?</span>
+</p>
+<p begin="00:46:40.840" end="00:46:42.920" region="R7" style="S2" xml:id="C593">
+<span style="S6">You're right.</span>
+</p>
+<p begin="00:46:42.920" end="00:46:44.320" region="R7" style="S2" xml:id="C594">
+<span style="S6">It's no excuse.</span>
+</p>
+<p begin="00:46:44.320" end="00:46:46.840" region="R7" style="S2" xml:id="C595">
+<span style="S3">What can I do? I've tried.</span>
+</p>
+<p begin="00:46:46.840" end="00:46:50.200" region="agr_4_20_36_4_after" style="S2" xml:id="C596_1">
+<span style="S3">We rely on you so much - we have to.</span>
+<br/>
+<span style="S3">There's simply no other choice.</span>
+</p>
+<p begin="00:47:06.400" end="00:47:09.040" region="R7" style="S2" xml:id="C597">
+<span style="S6">I'm sorry.</span>
+</p>
+<p begin="00:47:25.400" end="00:47:29.040" region="R7" style="S2" xml:id="C598">
+<span style="S6">Clodagh, that's not your real name.</span>
+</p>
+<p begin="00:47:29.040" end="00:47:30.640" region="R7" style="S2" xml:id="C599">
+<span style="S6">They make you change it.</span>
+</p>
+<p begin="00:47:31.720" end="00:47:33.360" region="R7" style="S2" xml:id="C600">
+<span style="S3">Clodagh is my real name.</span>
+</p>
+<p begin="00:47:36.200" end="00:47:38.640" region="R7" style="S2" xml:id="C601">
+<span style="S3">It's my name in Christ.</span>
+</p>
+<p begin="00:48:27.440" end="00:48:30.760" region="R7" style="S4" ttm:role="sound" xml:id="C602">
+<span style="S3">HORSE WHINNIES</span>
+</p>
+<p begin="00:49:15.480" end="00:49:21.040" region="R7" style="S4" ttm:role="sound" xml:id="C603">
+<span style="S3">BELL RINGS</span>
+</p>
+<p begin="00:49:37.760" end="00:49:40.880" region="agr_0_20_39_4_after" style="S2" xml:id="C604_1">
+<span style="S6">You wish to see me,</span>
+<br/>
+<span style="S6">Sister Clodagh.</span>
+</p>
+<p begin="00:49:40.880" end="00:49:42.560" region="R7" style="S2" xml:id="C605">
+<span style="S3">Sister Ruth.</span>
+</p>
+<p begin="00:49:44.120" end="00:49:46.360" region="R7" style="S2" xml:id="C606">
+<span style="S3">Won't you sit?</span>
+</p>
+<p begin="00:49:46.360" end="00:49:48.040" region="R7" style="S4" ttm:role="sound" xml:id="C607">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:49:52.440" end="00:49:55.480" region="R7" style="S2" xml:id="C608">
+<span style="S3">Last night...</span>
+</p>
+<p begin="00:49:55.480" end="00:49:57.920" region="R7" style="S2" xml:id="C609">
+<span style="S3">..after the service...</span>
+</p>
+<p begin="00:50:08.040" end="00:50:11.920" region="agr_2_20_38_4_after" style="S2" xml:id="C610_1">
+<span style="S3">..did something happen between you</span>
+<br/>
+<span style="S3">and Mr Dean? In the chapel?</span>
+</p>
+<p begin="00:50:15.840" end="00:50:18.640" region="agr_3_20_37_4_after" style="S2" xml:id="C611_1">
+<span style="S3">If he took advantage of you, I will</span>
+<br/>
+<span style="S3">have words with him.</span>
+</p>
+<p begin="00:50:18.640" end="00:50:21.200" region="R37" style="S2" xml:id="C612_1">
+<span style="S6">Took advantage?</span>
+<span style="S3"> If Mr Dean</span>
+<br/>
+<span style="S3">attempted to touch you.</span>
+</p>
+<p begin="00:50:24.920" end="00:50:26.760" region="R7" style="S2" xml:id="C613">
+<span style="S6">Please don't make fun of me.</span>
+</p>
+<p begin="00:50:26.760" end="00:50:29.720" region="R7" style="S2" xml:id="C614">
+<span style="S3">I would never make fun of you.</span>
+</p>
+<p begin="00:50:29.720" end="00:50:31.680" region="R7" style="S2" xml:id="C615">
+<span style="S3">You must know that.</span>
+</p>
+<p begin="00:50:34.440" end="00:50:37.440" region="R7" style="S2" xml:id="C616">
+<span style="S6">You've never wanted me here.</span>
+</p>
+<p begin="00:50:37.440" end="00:50:38.800" region="R7" style="S2" xml:id="C617">
+<span style="S6">None of you have.</span>
+</p>
+<p begin="00:50:40.320" end="00:50:41.920" region="R7" style="S2" xml:id="C618">
+<span style="S6">Everyone's against me.</span>
+</p>
+<p begin="00:50:41.920" end="00:50:43.600" region="R7" style="S2" xml:id="C619">
+<span style="S3">No.</span>
+</p>
+<p begin="00:50:44.920" end="00:50:47.320" region="R7" style="S2" xml:id="C620">
+<span style="S3">If everyone's against you,</span>
+</p>
+<p begin="00:50:47.320" end="00:50:51.640" region="agr_3_20_37_4_after" style="S2" xml:id="C621_1">
+<span style="S3">don't you think that some of that</span>
+<br/>
+<span style="S3">feeling might be your fault as well?</span>
+</p>
+<p begin="00:50:51.640" end="00:50:54.120" region="agr_4_20_36_4_after" style="S2" xml:id="C622_1">
+<span style="S6">Is that why you gave the lace school</span>
+<br/>
+<span style="S6">to Sister Blanche</span>
+</p>
+<p begin="00:50:54.120" end="00:50:55.920" region="agr_0_20_39_4_after" style="S2" xml:id="C623_1">
+<span style="S6">and landed me with teaching</span>
+<br/>
+<span style="S6">the brats?</span>
+</p>
+<p begin="00:50:55.920" end="00:50:58.120" region="agr_0_20_39_4_after" style="S2" xml:id="C624_1">
+<span style="S3">I already explained</span>
+<br/>
+<span style="S3">my reasons for that.</span>
+</p>
+<p begin="00:50:58.120" end="00:51:00.520" region="agr_0_20_39_4_after" style="S2" xml:id="C625_1">
+<span style="S3">I really think that</span>
+<br/>
+<span style="S3">your unhappiness...</span>
+</p>
+<p begin="00:51:00.520" end="00:51:03.120" region="agr_0_20_39_4_after" style="S2" xml:id="C626_1">
+<span style="S6">I'm not unhappy.</span>
+<span style="S3"> Very well,</span>
+<br/>
+<span style="S3">let me be plain -</span>
+</p>
+<p begin="00:51:03.120" end="00:51:05.480" region="agr_0_20_39_4_after" style="S2" xml:id="C627_1">
+<span style="S3">I think you've let yourself</span>
+<br/>
+<span style="S3">fall into thinking too much</span>
+</p>
+<p begin="00:51:05.480" end="00:51:06.920" region="R7" style="S2" xml:id="C628">
+<span style="S3">about Mr Dean.</span>
+</p>
+<p begin="00:51:08.440" end="00:51:10.240" region="R7" style="S4" ttm:role="sound" xml:id="C629">
+<span style="S3">SHE LAUGHS</span>
+</p>
+<p begin="00:51:13.280" end="00:51:15.760" region="R37" style="S2" xml:id="C630_1">
+<span style="S6">Well, you'd know all about that,</span>
+<br/>
+<span style="S6">wouldn't you?</span>
+</p>
+<p begin="00:51:17.600" end="00:51:19.560" region="R7" style="S2" xml:id="C631">
+<span style="S3">He's not a good man, Sister...</span>
+</p>
+<p begin="00:51:20.680" end="00:51:22.920" region="agr_0_20_39_4_after" style="S2" xml:id="C632_1">
+<span style="S3">..in ways perhaps you</span>
+<br/>
+<span style="S3">don't understand.</span>
+</p>
+<p begin="00:51:24.280" end="00:51:27.840" region="R37" style="S2" xml:id="C633_1">
+<span style="S6">That's why you try to bully me</span>
+<br/>
+<span style="S6">to force me back to Darjeeling -</span>
+</p>
+<p begin="00:51:27.840" end="00:51:30.160" region="R7" style="S2" xml:id="C634">
+<span style="S6">because you want him for yourself.</span>
+</p>
+<p begin="00:51:31.520" end="00:51:34.440" region="R37" style="S2" xml:id="C635_1">
+<span style="S6">Oh, sniffing after Mr Dean</span>
+<br/>
+<span style="S6">like a bitch in heat.</span>
+</p>
+<p begin="00:51:36.320" end="00:51:40.600" region="R37" style="S2" xml:id="C636">
+<span style="S6">You'd better watch out. You've</span>
+<br/>
+<span style="S6">already driven away one sister,</span>
+</p>
+<p begin="00:51:40.600" end="00:51:43.400" region="R37" style="S2" xml:id="C637">
+<span style="S6">and Mother Dorothea won't think</span>
+<br/>
+<span style="S6">you're such a marvellous success</span>
+</p>
+<p begin="00:51:43.400" end="00:51:44.760" region="R7" style="S2" xml:id="C638">
+<span style="S6">if you push me out as well.</span>
+</p>
+<p begin="00:51:47.800" end="00:51:49.720" region="R7" style="S2" xml:id="C639">
+<span style="S3">If all that was in your mind...</span>
+</p>
+<p begin="00:51:51.200" end="00:51:52.920" region="R7" style="S2" xml:id="C640">
+<span style="S3">..it's better said.</span>
+</p>
+<p begin="00:51:59" end="00:52:00.800" region="R7" style="S2" xml:id="C641">
+<span style="S6">It's... It's not.</span>
+</p>
+<p begin="00:52:00.800" end="00:52:02.560" region="R7" style="S2" xml:id="C642">
+<span style="S6">It's not what I think.</span>
+</p>
+<p begin="00:52:04.280" end="00:52:06.120" region="R7" style="S2" xml:id="C643">
+<span style="S6">Forgive me, Sister Clodagh, I...</span>
+</p>
+<p begin="00:52:07.360" end="00:52:09.920" region="R37" style="S2" xml:id="C644_1">
+<span style="S6">I don't know what I'm saying</span>
+<br/>
+<span style="S6">sometimes, and I...</span>
+</p>
+<p begin="00:52:11.640" end="00:52:14.640" region="R7" style="S2" xml:id="C645">
+<span style="S6">I don't know what's happening to me.</span>
+</p>
+<p begin="00:52:16.520" end="00:52:18.600" region="R7" style="S4" ttm:role="sound" xml:id="C646">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:52:20.680" end="00:52:23.320" region="R7" style="S2" xml:id="C647">
+<span style="S7">Sister Clodagh. Sister Clodagh.</span>
+</p>
+<p begin="00:52:23.320" end="00:52:26" region="R7" style="S2" xml:id="C648">
+<span style="S7">It's Sister Adela.</span>
+<span style="S3"> Sister Adela?</span>
+</p>
+<p begin="00:52:26" end="00:52:27.520" region="R7" style="S2" xml:id="C649">
+<span style="S3">Where's Father Roberts?</span>
+</p>
+<p begin="00:52:27.520" end="00:52:29.760" region="R7" style="S2" xml:id="C650">
+<span style="S7">Father Roberts' pony's lame.</span>
+</p>
+<p begin="00:52:29.760" end="00:52:32.680" region="agr_0_20_39_4_after" style="S2" xml:id="C651_1">
+<span style="S7">I've left him in the woods.</span>
+<br/>
+<span style="S7">Can you send a horse, please?</span>
+</p>
+<p begin="00:52:32.680" end="00:52:35.040" region="R7" style="S2" xml:id="C652">
+<span style="S5">I'll saddle Love, Sister Clodagh.</span>
+</p>
+<p begin="00:52:35.040" end="00:52:38.400" region="agr_3_20_37_4_after" style="S2" xml:id="C653_1">
+<span style="S3">Thank you, Sister. It won't take me</span>
+<br/>
+<span style="S3">long to fetch Father Roberts.</span>
+</p>
+<p begin="00:52:38.400" end="00:52:40.760" region="agr_0_20_39_4_after" style="S2" xml:id="C654_1">
+<span style="S7">It's blowing a storm out there.</span>
+<br/>
+<span style="S3">Please sit.</span>
+</p>
+<p begin="00:52:40.760" end="00:52:43.560" region="agr_3_20_37_4_after" style="S2" xml:id="C655_1">
+<span style="S3">Sister Blanche, can you get my cape</span>
+<br/>
+<span style="S3">and gloves, please?</span>
+</p>
+<p begin="00:52:49.520" end="00:52:52.440" region="R7" style="S4" ttm:role="sound" xml:id="C656">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:53:04.960" end="00:53:06.960" region="R7" style="S2" xml:id="C657">
+<span style="S3">Try to keep warm, Sister Adela.</span>
+</p>
+<p begin="00:53:06.960" end="00:53:08.440" region="R7" style="S2" xml:id="C658">
+<span style="S3">I won't be long.</span>
+</p>
+<p begin="00:53:08.440" end="00:53:10.480" region="R7" style="S2" xml:id="C659">
+<span style="S5">Please take.</span>
+<span style="S7"> Oh.</span>
+</p>
+<p begin="00:53:10.480" end="00:53:12.920" region="R7" style="S2" xml:id="C660">
+<span style="S7">Thank you very much.</span>
+</p>
+<p begin="00:53:12.920" end="00:53:15.200" region="R7" style="S2" xml:id="C661">
+<span style="S3">Sister Ruth?</span>
+</p>
+<p begin="00:53:18.520" end="00:53:21.320" region="R7" style="S2" xml:id="C662">
+<span style="S5">Sister Clodagh, your gloves.</span>
+</p>
+<p begin="00:53:21.320" end="00:53:23.320" region="R7" style="S2" xml:id="C663">
+<span style="S3">She's taken Love.</span>
+</p>
+<p begin="00:53:23.320" end="00:53:25.800" region="agr_0_20_39_4_after" style="S2" xml:id="C664_1">
+<span style="S5">But she's not used to horses.</span>
+<br/>
+<span style="S5">What does she think she's doing?</span>
+</p>
+<p begin="00:53:25.800" end="00:53:28.480" region="agr_0_20_39_4_after" style="S2" xml:id="C665_1">
+<span style="S3">Fetch me a lantern, Sister.</span>
+<br/>
+<span style="S3">She won't get far in this.</span>
+</p>
+<p begin="00:53:39.840" end="00:53:43.560" region="R7" style="S4" ttm:role="sound" xml:id="C666">
+<span style="S3">WIND HOWLS</span>
+</p>
+<p begin="00:53:50.720" end="00:53:53.040" region="R7" style="S2" xml:id="C667">
+<span style="S3">Sister Ruth!</span>
+</p>
+<p begin="00:53:55.440" end="00:53:58" region="R7" style="S4" ttm:role="sound" xml:id="C668">
+<span style="S3">SHE GASPS</span>
+</p>
+<p begin="00:53:59.400" end="00:54:02.160" region="R7" style="S2" xml:id="C669">
+<span style="S3">Father Roberts!</span>
+</p>
+<p begin="00:54:02.160" end="00:54:03.800" region="R7" style="S2" xml:id="C670">
+<span style="S3">Sister Ruth!</span>
+</p>
+<p begin="00:54:03.800" end="00:54:05.560" region="R7" style="S2" xml:id="C671">
+<span style="S3">Sister Ruth!</span>
+</p>
+<p begin="00:54:08.480" end="00:54:10.680" region="R7" style="S2" xml:id="C672">
+<span style="S3">Father Roberts!</span>
+</p>
+</div>
+</body>
+</tt>
