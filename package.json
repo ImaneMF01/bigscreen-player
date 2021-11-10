@@ -49,8 +49,7 @@
     "webpack-dev-server": "3.11.2"
   },
   "dependencies": {
-    "dashjs": "github:bbc/dash.js#smp-v3.2.0-4",
-    "smp-imsc": "github:ImaneMF01/imscJS#hlg-colortransform"
+    "dashjs": "github:bbc/dash.js#smp-v3.2.0-4"
   },
   "repository": {
     "type": "git",
