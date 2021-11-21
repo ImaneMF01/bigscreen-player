@@ -48,7 +48,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   function setplaybuttonhdr(ishdr){
     
     var playfilenamesdr="url('./playsdr.png')"
-    var playfilenamehdr="url('./playhdr.png')"
+    var playfilenamehdr="url('./playhlg.png')"
 
       if(ishdr){
         filename=playfilenamehdr
@@ -84,7 +84,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   function setpausebuttonhdr(ishdr){
     
     var pausefilenamesdr="url('./pausesdr.png')"
-    var pausefilenamehdr="url('./pausehdr.png')"
+    var pausefilenamehdr="url('./pausehlg.png')"
 
       if(ishdr){
         filename=pausefilenamehdr
@@ -109,7 +109,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   function setimghdr(ishdr){
       
     var imgsdr='./bbc_logo.png'
-    var imghdr='./bbc_hdrlogo.png'
+    var imghdr='./bbchlg.png'
 
       if(ishdr){
         filename=imghdr
@@ -190,7 +190,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
         // else 
         //   supplier = 'mf_akamai';
         
-        window._antie_callback_ms_m000qzd1 = function (data) {  
+        window._antie_callback_ms_p09xsx8m = function (data) {  
             console.log(data);
 
             let akamaiDashConnection;
@@ -229,7 +229,8 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
 
         const mediaset = hdr ? 'iptv-uhd' : 'iptv-all';
 
-        script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/m000qzd1/format/json/mediaset/${mediaset}/jsfunc/_antie_callback_ms_m000qzd1/proto/https`;
+        //script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/m000qzd1/format/json/mediaset/${mediaset}/jsfunc/_antie_callback_ms_m000qzd1/proto/https`;
+        script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/p09xsx8m/format/json/mediaset/${mediaset}/jsfunc/_antie_callback_ms_p09xsx8m/proto/https`;
 
         document.head.appendChild(script);
         document.head.removeChild(script);
@@ -259,7 +260,8 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
           media: {
             //captions: [ {url: "http://localhost:3008/doctorWhoSubs.xml",
             //captions: [ {url: "./Peaky_Blinders_S2E2.xml",
-            captions: [ {url: "./Black_Narcissus_S1E2.xml",
+            //captions: [ {url: "./Black_Narcissus_S1E2.xml",
+            captions: [ {url: "./The_Celtic_Deep.xml",
             cdn: 'test'}],
             type: 'application/dash+xml',
             mimeType: 'video/mp4',

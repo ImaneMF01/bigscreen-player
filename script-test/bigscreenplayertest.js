@@ -375,7 +375,8 @@ require(
           });
 
           it('should be called if playing VOD with an initial start time and event time is valid', function () {
-            initialiseBigscreenPlayer({initialPlaybackTime: 20});
+            //initialiseBigscreenPlayer({initialPlaybackTime: 20});
+            initialiseBigscreenPlayer({initialPlaybackTime: 320});
             mockEventHook({data: {state: MediaState.WAITING, currentTime: 0}});
 
             expect(successCallback).not.toHaveBeenCalled();

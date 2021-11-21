@@ -55,7 +55,7 @@ require(
     }
 
     var optionalData = {
-      initialPlaybackTime: 0, // Time (in seconds) to begin playback from
+      initialPlaybackTime: 360, // Time (in seconds) to begin playback from
       media: {
         mimeType: 'video/mp4',
         bitrate: 8940,         // Displayed by Debug Tool

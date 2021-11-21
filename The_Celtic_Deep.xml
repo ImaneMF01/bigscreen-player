@@ -1,0 +1,3801 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ebuttm="urn:ebu:tt:metadata" xmlns:ebutts="urn:ebu:tt:style" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ittp:activeArea="12% 5% 76% 90%" ttp:cellResolution="40 24" ttp:timeBase="media" xml:lang="en-GB" xml:space="default">
+<head>
+<ttm:copyright>BBC</ttm:copyright>
+<metadata>
+<ebuttm:documentMetadata>
+<ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+<ebuttm:conformsToStandard>urn:ebu:tt:distribution:2018-04</ebuttm:conformsToStandard>
+<ebuttm:documentOriginatingSystem>ebu-tt-live.3.0.0.EBUTT3EBUTTDConverter/Distiller(dd1fa87)</ebuttm:documentOriginatingSystem>
+</ebuttm:documentMetadata>
+</metadata>
+<styling>
+<style ebutts:linePadding="0.5c" tts:textAlign="start" xml:id="S1"/>
+<style tts:textAlign="center" xml:id="S2"/>
+<style tts:backgroundColor="#000000ff" tts:color="#ffffffff" xml:id="S3"/>
+<style tts:backgroundColor="#000000ff" tts:color="#ffff00ff" xml:id="S4"/>
+<style tts:backgroundColor="#000000ff" tts:color="#00ffffff" xml:id="S5"/>
+<style tts:backgroundColor="#000000ff" tts:color="#00ff00ff" xml:id="S6"/>
+<style xml:id="S7"/>
+<style itts:fillLineGap="true" xml:id="StyleFillLineGapTrue"/>
+<style tts:fontFamily="ReithSans, Arial, Roboto, proportionalSansSerif, default" xml:id="fontFamilyStyle"/>
+<style tts:fontSize="150%" tts:lineHeight="120%" xml:id="autogenFontStyle_n_150_120"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="76% 7.826%" tts:origin="12% 87.174%" tts:overflow="visible" xml:id="R6"/>
+<region tts:displayAlign="before" tts:extent="76% 15.652%" tts:origin="12% 5%" tts:overflow="visible" xml:id="R23"/>
+<region tts:displayAlign="before" tts:extent="76% 7.826%" tts:origin="12% 5%" tts:overflow="visible" xml:id="R24"/>
+<region tts:displayAlign="after" tts:extent="76% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="R59"/>
+<region tts:displayAlign="after" tts:extent="76% 7.826%" tts:origin="12% 63.696%" tts:overflow="visible" xml:id="R103"/>
+<region tts:displayAlign="after" tts:extent="73.188% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_38.5_4_after"/>
+<region tts:displayAlign="after" tts:extent="74.125% 15.652%" tts:origin="13.875% 79.348%" tts:overflow="visible" xml:id="agr_1_20_39_4_after"/>
+<region tts:displayAlign="after" tts:extent="75.062% 15.652%" tts:origin="12.938% 79.348%" tts:overflow="visible" xml:id="agr_0.5_20_39.5_4_after"/>
+<region tts:displayAlign="after" tts:extent="75.062% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_39.5_4_after"/>
+<region tts:displayAlign="after" tts:extent="73.188% 15.652%" tts:origin="14.812% 79.348%" tts:overflow="visible" xml:id="agr_1.5_20_38.5_4_after"/>
+<region tts:displayAlign="after" tts:extent="68.5% 15.652%" tts:origin="19.5% 79.348%" tts:overflow="visible" xml:id="agr_4_20_36_4_after"/>
+<region tts:displayAlign="after" tts:extent="70.375% 15.652%" tts:origin="17.625% 79.348%" tts:overflow="visible" xml:id="agr_3_20_37_4_after"/>
+<region tts:displayAlign="after" tts:extent="74.125% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_39_4_after"/>
+<region tts:displayAlign="after" tts:extent="71.312% 15.652%" tts:origin="16.688% 79.348%" tts:overflow="visible" xml:id="agr_2.5_20_37.5_4_after"/>
+<region tts:displayAlign="before" tts:extent="73.188% 15.652%" tts:origin="14.812% 5%" tts:overflow="visible" xml:id="agr_1.5_1_38.5_4_after"/>
+<region tts:displayAlign="after" tts:extent="69.438% 15.652%" tts:origin="18.562% 79.348%" tts:overflow="visible" xml:id="agr_3.5_20_36.5_4_after"/>
+<region tts:displayAlign="after" tts:extent="72.25% 15.652%" tts:origin="15.75% 79.348%" tts:overflow="visible" xml:id="agr_2_20_38_4_after"/>
+<region tts:displayAlign="after" tts:extent="68.5% 15.652%" tts:origin="19.5% 55.87%" tts:overflow="visible" xml:id="agr_4_14_36_4_after"/>
+<region tts:displayAlign="before" tts:extent="68.5% 15.652%" tts:origin="19.5% 5%" tts:overflow="visible" xml:id="agr_4_1_36_4_after"/>
+<region tts:displayAlign="after" tts:extent="73.188% 23.478%" tts:origin="14.812% 71.522%" tts:overflow="visible" xml:id="agr_1.5_18_38.5_6_after"/>
+<region tts:displayAlign="before" tts:extent="75.062% 15.652%" tts:origin="12% 5%" tts:overflow="visible" xml:id="agr_0_1_39.5_4_after"/>
+<region tts:displayAlign="before" tts:extent="71.312% 15.652%" tts:origin="16.688% 5%" tts:overflow="visible" xml:id="agr_2.5_1_37.5_4_after"/>
+</layout>
+</head>
+<body ttm:role="caption">
+<div style="autogenFontStyle_n_150_120 S1 StyleFillLineGapTrue fontFamilyStyle">
+<p begin="00:00:06.200" end="00:00:08.720" region="agr_0_20_38.5_4_after" style="S2" xml:id="C2_1">
+<span style="S3">The Celtic Deep is part</span>
+<br/>
+<span style="S3">of the world's</span>
+</p>
+<p begin="00:00:08.720" end="00:00:10.520" region="R6" style="S2" xml:id="C3">
+<span style="S3">greatest living resource.</span>
+</p>
+<p begin="00:00:13.040" end="00:00:14.080" region="R6" style="S2" xml:id="C4">
+<span style="S3">The ocean.</span>
+</p>
+<p begin="00:00:17.280" end="00:00:20.600" region="agr_0_20_38.5_4_after" style="S2" xml:id="C5_1">
+<span style="S3">Producing two thirds of the</span>
+<br/>
+<span style="S3">oxygen we breathe.</span>
+</p>
+<p begin="00:00:23.360" end="00:00:27.760" region="agr_1_20_39_4_after" style="S2" xml:id="C6_1">
+<span style="S3">Absorbing half the carbon dioxide</span>
+<br/>
+<span style="S3">released from fossil fuels.</span>
+</p>
+<p begin="00:00:29.560" end="00:00:31.240" region="R6" style="S2" xml:id="C7">
+<span style="S3">Regulating our weather.</span>
+</p>
+<p begin="00:00:35.920" end="00:00:40" region="R59" style="S2" xml:id="C8_1">
+<span style="S3">This is a place that</span>
+<br/>
+<span style="S3">feeds us, gives us work,</span>
+</p>
+<p begin="00:00:40" end="00:00:42.040" region="R6" style="S2" xml:id="C9">
+<span style="S3">and allows us to play.</span>
+</p>
+<p begin="00:00:47.120" end="00:00:51.320" region="R59" style="S2" xml:id="C10_1">
+<span style="S3">It's also home to a vast</span>
+<br/>
+<span style="S3">array of wildlife,</span>
+</p>
+<p begin="00:00:51.320" end="00:00:56.680" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C11_1">
+<span style="S3">living beside us along some 2,700</span>
+<br/>
+<span style="S3">kilometres of Welsh coastline.</span>
+</p>
+<p begin="00:00:58.120" end="00:01:00.960" region="R59" style="S2" xml:id="C12_1">
+<span style="S3">Yet the Celtic Deep is a</span>
+<br/>
+<span style="S3">fragile place.</span>
+</p>
+<p begin="00:01:03.080" end="00:01:07.400" region="agr_0_20_39.5_4_after" style="S2" xml:id="C13_1">
+<span style="S3">For centuries, humans have taken</span>
+<br/>
+<span style="S3">its riches for granted,</span>
+</p>
+<p begin="00:01:07.400" end="00:01:09.560" region="R6" style="S2" xml:id="C14">
+<span style="S3">plundering its resources.</span>
+</p>
+<p begin="00:01:10.640" end="00:01:14.680" region="R59" style="S2" xml:id="C15_1">
+<span style="S3">And now, as sea temperatures</span>
+<br/>
+<span style="S3">start to rise,</span>
+</p>
+<p begin="00:01:14.680" end="00:01:19.200" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C16_1">
+<span style="S3">climate change presents</span>
+<br/>
+<span style="S3">the planet's greatest-ever threat.</span>
+</p>
+<p begin="00:01:20.760" end="00:01:22.520" region="R6" style="S2" xml:id="C17">
+<span style="S3">But the tide is turning.</span>
+</p>
+<p begin="00:01:24.400" end="00:01:27.960" region="R59" style="S2" xml:id="C18_1">
+<span style="S3">All around Wales, people</span>
+<br/>
+<span style="S3">are making a difference.</span>
+</p>
+<p begin="00:01:28.920" end="00:01:30.480" region="R6" style="S2" xml:id="C19">
+<span style="S3">Animal experts,</span>
+</p>
+<p begin="00:01:30.480" end="00:01:32.160" region="R6" style="S2" xml:id="C20">
+<span style="S3">fishermen,</span>
+</p>
+<p begin="00:01:32.160" end="00:01:33.640" region="R6" style="S2" xml:id="C21">
+<span style="S3">volunteers</span>
+</p>
+<p begin="00:01:33.640" end="00:01:35.880" region="R6" style="S2" xml:id="C22">
+<span style="S3">and campaigners -</span>
+</p>
+<p begin="00:01:35.880" end="00:01:40.480" region="agr_0_20_39.5_4_after" style="S2" xml:id="C23_1">
+<span style="S3">ordinary people</span>
+<br/>
+<span style="S3">becoming extraordinary people.</span>
+</p>
+<p begin="00:01:42.800" end="00:01:47.240" region="R23" style="S2" xml:id="C24">
+<span style="S3">Each protecting and preserving</span>
+<br/>
+<span style="S3">their piece of the Celtic Deep.</span>
+</p>
+<p begin="00:01:50.960" end="00:01:52.680" region="R24" style="S2" xml:id="C25">
+<span style="S3">This is our ocean.</span>
+</p>
+<p begin="00:01:54.440" end="00:01:55.920" region="R6" style="S2" xml:id="C26">
+<span style="S3">Our wildlife.</span>
+</p>
+<p begin="00:01:57.400" end="00:01:58.640" region="R6" style="S2" xml:id="C27">
+<span style="S3">Our ways.</span>
+</p>
+<p begin="00:02:00.720" end="00:02:03.240" region="R6" style="S2" xml:id="C28">
+<span style="S3">This is a story of heroes.</span>
+</p>
+<p begin="00:02:27" end="00:02:31.480" region="agr_4_20_36_4_after" style="S2" xml:id="C29_1">
+<span style="S3">This is how most of us begin our</span>
+<br/>
+<span style="S3">lifelong love affair with the ocean.</span>
+</p>
+<p begin="00:02:31.480" end="00:02:33.360" region="R6" style="S2" xml:id="C30">
+<span style="S3">As children,</span>
+</p>
+<p begin="00:02:33.360" end="00:02:34.720" region="R6" style="S2" xml:id="C31">
+<span style="S3">on beaches,</span>
+</p>
+<p begin="00:02:34.720" end="00:02:39.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C32_1">
+<span style="S3">like this glorious stretch</span>
+<br/>
+<span style="S3">of sand in Gower.</span>
+</p>
+<p begin="00:02:39.360" end="00:02:41.400" region="agr_0_20_39.5_4_after" style="S2" xml:id="C33_1">
+<span style="S3">I lived a bit north,</span>
+<br/>
+<span style="S3">near the mountains.</span>
+</p>
+<p begin="00:02:41.400" end="00:02:47.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C34_1">
+<span style="S3">It was a long, important journey</span>
+<br/>
+<span style="S3">to get here to Caswell Bay.</span>
+</p>
+<p begin="00:02:47.080" end="00:02:52.960" region="R59" style="S2" xml:id="C35_1">
+<span style="S3">I remember shrieking with terror</span>
+<br/>
+<span style="S3">and then delight</span>
+</p>
+<p begin="00:02:52.960" end="00:02:57.160" region="agr_0_20_39.5_4_after" style="S2" xml:id="C36_1">
+<span style="S3">as my father walked me</span>
+<br/>
+<span style="S3">into the ocean.</span>
+</p>
+<p begin="00:02:57.160" end="00:02:59.400" region="R6" style="S2" xml:id="C37">
+<span style="S3">This is a universal love,</span>
+</p>
+<p begin="00:02:59.400" end="00:03:03.880" region="R59" style="S2" xml:id="C38_1">
+<span style="S3">and we return again and again to</span>
+<br/>
+<span style="S3">soak up the sun,</span>
+</p>
+<p begin="00:03:03.880" end="00:03:10.600" region="R59" style="S2" xml:id="C39_1">
+<span style="S3">feel the sand between our toes</span>
+<br/>
+<span style="S3">and smell the salt in the air.</span>
+</p>
+<p begin="00:03:10.600" end="00:03:14.200" region="R6" style="S2" xml:id="C40">
+<span style="S3">Humans love the sea.</span>
+</p>
+<p begin="00:03:14.200" end="00:03:17.680" region="R59" style="S2" xml:id="C41_1">
+<span style="S3">We recognise this as a place</span>
+<br/>
+<span style="S3">of excitement and fun.</span>
+</p>
+<p begin="00:03:18.800" end="00:03:24.600" region="agr_3_20_37_4_after" style="S2" xml:id="C42_1">
+<span style="S3">We don't always appreciate how much</span>
+<br/>
+<span style="S3">we need it for solace and repair.</span>
+</p>
+<p begin="00:03:34" end="00:03:36.920" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C43_1">
+<span style="S4">My surfers know that when you get</span>
+<br/>
+<span style="S4">in the ocean, you feel better.</span>
+</p>
+<p begin="00:03:36.920" end="00:03:39.200" region="agr_0_20_39_4_after" style="S2" xml:id="C44_1">
+<span style="S4">There hasn't been an occasion</span>
+<br/>
+<span style="S4">where I haven't been able</span>
+</p>
+<p begin="00:03:39.200" end="00:03:42.520" region="R6" style="S2" xml:id="C45">
+<span style="S4">to clear my head, dive in the water,</span>
+</p>
+<p begin="00:03:42.520" end="00:03:47.280" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C46_1">
+<span style="S4">let the water wash over me and kind</span>
+<br/>
+<span style="S4">of rinse your brain a little</span>
+</p>
+<p begin="00:03:47.280" end="00:03:52.600" region="agr_3_20_37_4_after" style="S2" xml:id="C47_1">
+<span style="S4">so you feel refreshed, rejuvenated,</span>
+<br/>
+<span style="S4">and myself again.</span>
+</p>
+<p begin="00:03:52.600" end="00:03:56.200" region="agr_0_20_39_4_after" style="S2" xml:id="C48_1">
+<span style="S3">Kwame Salam</span>
+<br/>
+<span style="S3">is a surf therapy coach</span>
+</p>
+<p begin="00:03:56.200" end="00:03:58.400" region="R6" style="S2" xml:id="C49">
+<span style="S3">based in Cardigan.</span>
+</p>
+<p begin="00:03:58.400" end="00:04:00.520" region="R6" style="S2" xml:id="C50">
+<span style="S3">He knows from his own experience</span>
+</p>
+<p begin="00:04:00.520" end="00:04:03.240" region="agr_0_20_39.5_4_after" style="S2" xml:id="C51_1">
+<span style="S3">about the healing powers</span>
+<br/>
+<span style="S3">of the ocean.</span>
+</p>
+<p begin="00:04:04.480" end="00:04:08.520" region="agr_0_20_39_4_after" style="S2" xml:id="C52_1">
+<span style="S4">It's been my saviour for my own</span>
+<br/>
+<span style="S4">mental health, if you like.</span>
+</p>
+<p begin="00:04:08.520" end="00:04:13.400" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C53_1">
+<span style="S4">I lost my father, my mother and my</span>
+<br/>
+<span style="S4">sister all in a 12-year period.</span>
+</p>
+<p begin="00:04:13.400" end="00:04:17.280" region="R59" style="S2" xml:id="C54_1">
+<span style="S4">So, luckily for me, I had my</span>
+<br/>
+<span style="S4">own recovery tool.</span>
+</p>
+<p begin="00:04:23.880" end="00:04:28.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C55_1">
+<span style="S3">Today, Kwame is on Poppit Sands,</span>
+<br/>
+<span style="S3">sharing his recovery tool</span>
+</p>
+<p begin="00:04:28.600" end="00:04:31.840" region="agr_0_20_38.5_4_after" style="S2" xml:id="C56_1">
+<span style="S3">with residents and staff</span>
+<br/>
+<span style="S3">from the Llyn View care home.</span>
+</p>
+<p begin="00:04:33.440" end="00:04:36" region="R6" style="S2" xml:id="C57">
+<span style="S4">Hey, welcome to my office!</span>
+</p>
+<p begin="00:04:36" end="00:04:38.200" region="R6" style="S2" xml:id="C58">
+<span style="S4">How are we all today? Are we good?</span>
+</p>
+<p begin="00:04:38.200" end="00:04:41.600" region="agr_0_20_38.5_4_after" style="S2" xml:id="C59_1">
+<span style="S4">We named our project Tonic Surf</span>
+<br/>
+<span style="S4">Therapy - tonnau being the</span>
+</p>
+<p begin="00:04:41.600" end="00:04:44.720" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C60_1">
+<span style="S4">Welsh word meaning "wave", and a</span>
+<br/>
+<span style="S4">tonic being something good for you.</span>
+</p>
+<p begin="00:04:46.360" end="00:04:50.080" region="agr_1.5_1_38.5_4_after" style="S2" xml:id="C61_1">
+<span style="S4">We run single sessions and 10-week</span>
+<br/>
+<span style="S4">courses for people on the</span>
+</p>
+<p begin="00:04:50.080" end="00:04:53.840" region="agr_1_20_39_4_after" style="S2" xml:id="C62_1">
+<span style="S4">mental health spectrum, groups of</span>
+<br/>
+<span style="S4">veterans with PTSD,</span>
+</p>
+<p begin="00:04:53.840" end="00:04:57.200" region="agr_0_20_39.5_4_after" style="S2" xml:id="C63_1">
+<span style="S4">substance misuse and mixed</span>
+<br/>
+<span style="S4">disabilities.</span>
+</p>
+<p begin="00:04:57.200" end="00:04:59.880" region="agr_1_20_39_4_after" style="S2" xml:id="C64_1">
+<span style="S4">So just being in this environment</span>
+<br/>
+<span style="S4">is enough for them.</span>
+</p>
+<p begin="00:04:59.880" end="00:05:01.560" region="R6" style="S2" xml:id="C65">
+<span style="S4">It's not so much about the surfing.</span>
+</p>
+<p begin="00:05:01.560" end="00:05:05.600" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C66_1">
+<span style="S4">It's using the ocean and the natural</span>
+<br/>
+<span style="S4">environment as a recovery tool.</span>
+</p>
+<p begin="00:05:05.600" end="00:05:10" region="agr_4_20_36_4_after" style="S2" xml:id="C67_1">
+<span style="S3">There are lots of scientific studies</span>
+<br/>
+<span style="S3">proving that what's called</span>
+</p>
+<p begin="00:05:10" end="00:05:16" region="agr_3_20_37_4_after" style="S2" xml:id="C68_1">
+<span style="S3">blue space is hugely beneficial</span>
+<br/>
+<span style="S3">to our mental health and wellbeing.</span>
+</p>
+<p begin="00:05:16" end="00:05:19.360" region="R59" style="S2" xml:id="C69">
+<span style="S4">You can call it a recovery tool</span>
+<br/>
+<span style="S4">or any scientific name you want,</span>
+</p>
+<p begin="00:05:19.360" end="00:05:21.560" region="agr_0_20_39.5_4_after" style="S2" xml:id="C70_1">
+<span style="S4">but fundamentally, if you come</span>
+<br/>
+<span style="S4">to the beach,</span>
+</p>
+<p begin="00:05:21.560" end="00:05:23.480" region="R6" style="S2" xml:id="C71">
+<span style="S4">you feel better about yourself.</span>
+</p>
+<p begin="00:05:23.480" end="00:05:27.360" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C72_1">
+<span style="S4">The natural environment</span>
+<br/>
+<span style="S4">is what is doing the work, really.</span>
+</p>
+<p begin="00:05:27.360" end="00:05:30.760" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C73_1">
+<span style="S4">We're assisting the natural</span>
+<br/>
+<span style="S4">environment, but as their confidence</span>
+</p>
+<p begin="00:05:30.760" end="00:05:33.960" region="agr_0_20_39.5_4_after" style="S2" xml:id="C74_1">
+<span style="S4">grows and as their wellbeing</span>
+<br/>
+<span style="S4">improves,</span>
+</p>
+<p begin="00:05:33.960" end="00:05:37.160" region="agr_0_20_39_4_after" style="S2" xml:id="C75_1">
+<span style="S4">they start to come out of</span>
+<br/>
+<span style="S4">themselves.</span>
+</p>
+<p begin="00:05:37.160" end="00:05:40.040" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C76_1">
+<span style="S4">But seeing that benefit at the end</span>
+<br/>
+<span style="S4">is, um,</span>
+</p>
+<p begin="00:05:40.040" end="00:05:43.240" region="agr_1_20_39_4_after" style="S2" xml:id="C77_1">
+<span style="S4">there's nothing better than that,</span>
+<br/>
+<span style="S4">really.</span>
+</p>
+<p begin="00:05:43.240" end="00:05:48.400" region="agr_2_20_38_4_after" style="S2" xml:id="C78_1">
+<span style="S3">Kwame's tonic has already helped</span>
+<br/>
+<span style="S3">hundreds of people, and he intends</span>
+</p>
+<p begin="00:05:48.400" end="00:05:50.920" region="R6" style="S2" xml:id="C79">
+<span style="S3">to expand the project across Wales.</span>
+</p>
+<p begin="00:05:52.040" end="00:05:55.520" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C80_1">
+<span style="S4">We're lucky in Wales to have this</span>
+<br/>
+<span style="S4">beautiful natural environment.</span>
+</p>
+<p begin="00:05:55.520" end="00:05:57.440" region="agr_0_20_38.5_4_after" style="S2" xml:id="C81_1">
+<span style="S4">Other than the occasional</span>
+<br/>
+<span style="S4">weather issue,</span>
+</p>
+<p begin="00:05:57.440" end="00:05:59.560" region="R6" style="S2" xml:id="C82">
+<span style="S4">there isn't really any place better.</span>
+</p>
+<p begin="00:06:06.240" end="00:06:12.200" region="R59" style="S2" xml:id="C83">
+<span style="S3">The mental health benefits of the</span>
+<br/>
+<span style="S3">sea are only now being understood,</span>
+</p>
+<p begin="00:06:12.200" end="00:06:15.120" region="R6" style="S2" xml:id="C84">
+<span style="S3">but there's joy,</span>
+</p>
+<p begin="00:06:15.120" end="00:06:16.160" region="R6" style="S2" xml:id="C85">
+<span style="S3">fun...</span>
+</p>
+<p begin="00:06:18.400" end="00:06:20.600" region="R6" style="S2" xml:id="C86">
+<span style="S3">..and excitement to be had</span>
+</p>
+<p begin="00:06:20.600" end="00:06:24.080" region="agr_0_20_38.5_4_after" style="S2" xml:id="C87_1">
+<span style="S3">in a country surrounded</span>
+<br/>
+<span style="S3">on three sides</span>
+</p>
+<p begin="00:06:24.080" end="00:06:27.200" region="agr_0_20_39_4_after" style="S2" xml:id="C88_1">
+<span style="S3">by over 38,000 square miles</span>
+<br/>
+<span style="S3">of water.</span>
+</p>
+<p begin="00:06:30.920" end="00:06:34.880" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C89_1">
+<span style="S3">And for generations, the Celtic Deep</span>
+<br/>
+<span style="S3">has also fed us</span>
+</p>
+<p begin="00:06:34.880" end="00:06:37.320" region="R6" style="S2" xml:id="C90">
+<span style="S3">and given us our livelihoods.</span>
+</p>
+<p begin="00:06:39.840" end="00:06:41.600" region="R6" style="S2" xml:id="C91">
+<span style="S3">Here in Tenby,</span>
+</p>
+<p begin="00:06:41.600" end="00:06:46.600" region="R59" style="S2" xml:id="C92_1">
+<span style="S3">there has always been a thriving</span>
+<br/>
+<span style="S3">fishing fleet for centuries.</span>
+</p>
+<p begin="00:06:46.600" end="00:06:50.040" region="agr_0_20_39.5_4_after" style="S2" xml:id="C93_1">
+<span style="S3">The name in Welsh is</span>
+<br/>
+<span style="S3">Dinbych-y-pysgod.</span>
+</p>
+<p begin="00:06:50.040" end="00:06:52.400" region="R6" style="S2" xml:id="C94">
+<span style="S3">"Little Fort of the Fishes."</span>
+</p>
+<p begin="00:06:57.040" end="00:06:59.720" region="R6" style="S2" xml:id="C95">
+<span style="S3">As our populations expanded</span>
+</p>
+<p begin="00:06:59.720" end="00:07:03.080" region="R59" style="S2" xml:id="C96_1">
+<span style="S3">and massive towns and cities</span>
+<br/>
+<span style="S3">grew up,</span>
+</p>
+<p begin="00:07:03.080" end="00:07:08.400" region="agr_4_20_36_4_after" style="S2" xml:id="C97_1">
+<span style="S3">places like this couldn't meet</span>
+<br/>
+<span style="S3">the ever-increasing demand for fish.</span>
+</p>
+<p begin="00:07:10.160" end="00:07:12.720" region="agr_0_20_39_4_after" style="S2" xml:id="C98_1">
+<span style="S3">Bigger and bigger catches</span>
+<br/>
+<span style="S3">had to be delivered</span>
+</p>
+<p begin="00:07:12.720" end="00:07:16.360" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C99_1">
+<span style="S3">by now industrialised fishing fleets</span>
+<br/>
+<span style="S3">from Wales and beyond</span>
+</p>
+<p begin="00:07:16.360" end="00:07:21.960" region="R59" style="S2" xml:id="C100_1">
+<span style="S3">using vast nets, which</span>
+<br/>
+<span style="S3">ransacked the ocean floor.</span>
+</p>
+<p begin="00:07:21.960" end="00:07:24.720" region="R6" style="S2" xml:id="C101">
+<span style="S3">Over the last 120 years,</span>
+</p>
+<p begin="00:07:24.720" end="00:07:27.280" region="R6" style="S2" xml:id="C102">
+<span style="S3">this has decimated fish numbers.</span>
+</p>
+<p begin="00:07:27.280" end="00:07:33.360" region="agr_1_20_39_4_after" style="S2" xml:id="C103_1">
+<span style="S3">And in turn, fishing productivity</span>
+<br/>
+<span style="S3">has crashed by 94%.</span>
+</p>
+<p begin="00:07:35.560" end="00:07:39.800" region="agr_0_20_38.5_4_after" style="S2" xml:id="C104_1">
+<span style="S3">For an industry with such</span>
+<br/>
+<span style="S3">a rich past,</span>
+</p>
+<p begin="00:07:39.800" end="00:07:44.480" region="agr_1_20_39_4_after" style="S2" xml:id="C105_1">
+<span style="S3">the future looks precarious, both</span>
+<br/>
+<span style="S3">for the fish and the fishermen.</span>
+</p>
+<p begin="00:07:53.560" end="00:07:55.480" region="R6" style="S2" xml:id="C106">
+<span style="S4">I've lived in Dale all my life.</span>
+</p>
+<p begin="00:07:55.480" end="00:07:57.880" region="R59" style="S2" xml:id="C107_1">
+<span style="S4">I couldn't think of anywhere</span>
+<br/>
+<span style="S4">else I'd want to be.</span>
+</p>
+<p begin="00:07:59.440" end="00:08:03.280" region="agr_0_20_39.5_4_after" style="S2" xml:id="C108_1">
+<span style="S4">I first started fishing</span>
+<br/>
+<span style="S4">with my dad and my uncle</span>
+</p>
+<p begin="00:08:03.280" end="00:08:04.440" region="R6" style="S2" xml:id="C109">
+<span style="S4">when I was very young.</span>
+</p>
+<p begin="00:08:04.440" end="00:08:07.400" region="R59" style="S2" xml:id="C110">
+<span style="S4">We used to go down to the beach</span>
+<br/>
+<span style="S4">and catch some bass with the rod</span>
+</p>
+<p begin="00:08:07.400" end="00:08:08.880" region="R6" style="S2" xml:id="C111">
+<span style="S4">on the surf beaches.</span>
+</p>
+<p begin="00:08:10.240" end="00:08:14.560" region="R59" style="S2" xml:id="C112_1">
+<span style="S3">Mark Gainfort is one of the last</span>
+<br/>
+<span style="S3">fishermen in the once-thriving</span>
+</p>
+<p begin="00:08:14.560" end="00:08:18.520" region="agr_0_20_39_4_after" style="S2" xml:id="C113_1">
+<span style="S3">fishing village of Dale</span>
+<br/>
+<span style="S3">in Pembrokeshire.</span>
+</p>
+<p begin="00:08:18.520" end="00:08:20.920" region="agr_0_20_38.5_4_after" style="S2" xml:id="C114_1">
+<span style="S4">Back in the day then, there was</span>
+<br/>
+<span style="S4">plenty of mackerel. You used</span>
+</p>
+<p begin="00:08:20.920" end="00:08:24.920" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C115_1">
+<span style="S4">to be able to catch six at a time</span>
+<br/>
+<span style="S4">anywhere really.</span>
+</p>
+<p begin="00:08:24.920" end="00:08:27.960" region="R59" style="S2" xml:id="C116_1">
+<span style="S4">It used to be the good days,</span>
+<br/>
+<span style="S4">you know? But things</span>
+</p>
+<p begin="00:08:27.960" end="00:08:29.800" region="R6" style="S2" xml:id="C117">
+<span style="S4">have changed over the years now.</span>
+</p>
+<p begin="00:08:29.800" end="00:08:32.400" region="agr_0_20_38.5_4_after" style="S2" xml:id="C118_1">
+<span style="S4">The mackerel have had a bit</span>
+<br/>
+<span style="S4">of a hammering really with</span>
+</p>
+<p begin="00:08:32.400" end="00:08:34.240" region="R6" style="S2" xml:id="C119">
+<span style="S4">the bigger factory boats.</span>
+</p>
+<p begin="00:08:36.360" end="00:08:39.800" region="agr_0_20_39.5_4_after" style="S2" xml:id="C120_1">
+<span style="S3">To give the fish a chance</span>
+<br/>
+<span style="S3">to recover, Mark has adapted</span>
+</p>
+<p begin="00:08:39.800" end="00:08:44.440" region="agr_0_20_39.5_4_after" style="S2" xml:id="C121_1">
+<span style="S3">his fishing techniques and now</span>
+<br/>
+<span style="S3">fishes sustainably,</span>
+</p>
+<p begin="00:08:44.440" end="00:08:47.400" region="R6" style="S2" xml:id="C122">
+<span style="S3">selling to the locals and tourists.</span>
+</p>
+<p begin="00:08:48.880" end="00:08:50.960" region="agr_0_20_38.5_4_after" style="S2" xml:id="C123_1">
+<span style="S4">I used to do a lot of netting</span>
+<br/>
+<span style="S4">years ago.</span>
+</p>
+<p begin="00:08:50.960" end="00:08:54.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C124_1">
+<span style="S4">I tend to line catch as much</span>
+<br/>
+<span style="S4">as I can now.</span>
+</p>
+<p begin="00:08:56.400" end="00:08:59.760" region="agr_2_20_38_4_after" style="S2" xml:id="C125_1">
+<span style="S4">If you do catch the small ones</span>
+<br/>
+<span style="S4">on the rod, you can put them back.</span>
+</p>
+<p begin="00:08:59.760" end="00:09:03.320" region="agr_0_20_39.5_4_after" style="S2" xml:id="C126_1">
+<span style="S3">If fish are landed before</span>
+<br/>
+<span style="S3">they're big enough to breed,</span>
+</p>
+<p begin="00:09:03.320" end="00:09:06.760" region="R59" style="S2" xml:id="C127_1">
+<span style="S3">the population quickly becomes</span>
+<br/>
+<span style="S3">unsustainable.</span>
+</p>
+<p begin="00:09:06.760" end="00:09:10.400" region="agr_0_20_39_4_after" style="S2" xml:id="C128_1">
+<span style="S4">Pollock, probably not quite big</span>
+<br/>
+<span style="S4">enough for me to bring home</span>
+</p>
+<p begin="00:09:10.400" end="00:09:14.080" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C129_1">
+<span style="S4">because by the time you've took a</span>
+<br/>
+<span style="S4">fillet off him, it's not going to be</span>
+</p>
+<p begin="00:09:14.080" end="00:09:17.640" region="R59" style="S2" xml:id="C130_1">
+<span style="S4">a huge amount. We'll try and get</span>
+<br/>
+<span style="S4">a couple a bit bigger.</span>
+</p>
+<p begin="00:09:17.640" end="00:09:18.960" region="R6" style="S2" xml:id="C131">
+<span style="S4">And off he goes.</span>
+</p>
+<p begin="00:09:20.600" end="00:09:25.440" region="R59" style="S2" xml:id="C132">
+<span style="S4">People need to change their way</span>
+<br/>
+<span style="S4">to eat a more sustainable fish,</span>
+</p>
+<p begin="00:09:25.440" end="00:09:27.840" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C133_1">
+<span style="S4">and at the minute there does seem</span>
+<br/>
+<span style="S4">to be plenty of pollock,</span>
+</p>
+<p begin="00:09:27.840" end="00:09:32.760" region="R59" style="S2" xml:id="C134_1">
+<span style="S4">so why can't people change</span>
+<br/>
+<span style="S4">from cod to pollock?</span>
+</p>
+<p begin="00:09:34.240" end="00:09:39.040" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C135_1">
+<span style="S3">British consumers are starting</span>
+<br/>
+<span style="S3">to eat fresh sardines, a net-caught</span>
+</p>
+<p begin="00:09:39.040" end="00:09:43.640" region="agr_4_20_36_4_after" style="S2" xml:id="C136_1">
+<span style="S3">fish. Even jellyfish are nutritious,</span>
+<br/>
+<span style="S3">sustainable contenders</span>
+</p>
+<p begin="00:09:43.640" end="00:09:45.600" region="R6" style="S2" xml:id="C137">
+<span style="S3">for the fish and chip shop.</span>
+</p>
+<p begin="00:09:47.400" end="00:09:53.200" region="agr_3_20_37_4_after" style="S2" xml:id="C138_1">
+<span style="S3">But until tastes change, Mark needs</span>
+<br/>
+<span style="S3">both his skills and patience.</span>
+</p>
+<p begin="00:09:53.200" end="00:09:57.160" region="agr_0_20_38.5_4_after" style="S2" xml:id="C139_1">
+<span style="S4">I can go an eight, ten-hour day</span>
+<br/>
+<span style="S4">and only get a few fish.</span>
+</p>
+<p begin="00:09:57.160" end="00:10:00.680" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C140_1">
+<span style="S4">You could have an eight or ten-hour</span>
+<br/>
+<span style="S4">day and get no fish.</span>
+</p>
+<p begin="00:10:00.680" end="00:10:02.440" region="R6" style="S2" xml:id="C141">
+<span style="S3">To help pay the bills,</span>
+</p>
+<p begin="00:10:02.440" end="00:10:05.840" region="R6" style="S2" xml:id="C142">
+<span style="S3">Mark has two other land-based jobs.</span>
+</p>
+<p begin="00:10:05.840" end="00:10:10.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C143_1">
+<span style="S3">But he's not yet ready to give</span>
+<br/>
+<span style="S3">up the ocean.</span>
+</p>
+<p begin="00:10:10.360" end="00:10:13.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C144_1">
+<span style="S4">If I know I'm going fishing</span>
+<br/>
+<span style="S4">the next day, I can't sleep,</span>
+</p>
+<p begin="00:10:13.360" end="00:10:16.360" region="agr_1_20_39_4_after" style="S2" xml:id="C145_1">
+<span style="S4">you know? I'm excited about going</span>
+<br/>
+<span style="S4">out because it's just the place</span>
+</p>
+<p begin="00:10:16.360" end="00:10:17.880" region="R6" style="S2" xml:id="C146">
+<span style="S4">I love to be all the time.</span>
+</p>
+<p begin="00:10:17.880" end="00:10:21.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C147_1">
+<span style="S4">I can't wait to get up in the</span>
+<br/>
+<span style="S4">morning to go fishing.</span>
+</p>
+<p begin="00:10:21.200" end="00:10:23" region="R6" style="S2" xml:id="C148">
+<span style="S4">No better place to be, you know?</span>
+</p>
+<p begin="00:10:35.160" end="00:10:39.720" region="agr_4_20_36_4_after" style="S2" xml:id="C149_1">
+<span style="S3">Today, the biggest part of the Welsh</span>
+<br/>
+<span style="S3">seafood industry isn't fish.</span>
+</p>
+<p begin="00:10:39.720" end="00:10:43.640" region="agr_0_20_39_4_after" style="S2" xml:id="C150_1">
+<span style="S3">It's the landing of crustaceans</span>
+<br/>
+<span style="S3">and molluscs.</span>
+</p>
+<p begin="00:10:43.640" end="00:10:46" region="R6" style="S2" xml:id="C151">
+<span style="S3">Crabs,</span>
+</p>
+<p begin="00:10:46" end="00:10:48.320" region="R6" style="S2" xml:id="C152">
+<span style="S3">shrimp,</span>
+</p>
+<p begin="00:10:48.320" end="00:10:51.680" region="R6" style="S2" xml:id="C153">
+<span style="S3">scallops,</span>
+</p>
+<p begin="00:10:51.680" end="00:10:55.240" region="agr_0_20_38.5_4_after" style="S2" xml:id="C154_1">
+<span style="S3">and the largest of them all</span>
+<br/>
+<span style="S3">- lobster.</span>
+</p>
+<p begin="00:10:55.240" end="00:10:57.080" region="R6" style="S2" xml:id="C155">
+<span style="S3">This is Brett Gardner.</span>
+</p>
+<p begin="00:10:57.080" end="00:10:59.360" region="R6" style="S2" xml:id="C156">
+<span style="S3">He's what's called a potter,</span>
+</p>
+<p begin="00:10:59.360" end="00:11:02.760" region="agr_0_20_39.5_4_after" style="S2" xml:id="C157_1">
+<span style="S3">fishing for lobster</span>
+<br/>
+<span style="S3">around the Llyn peninsula.</span>
+</p>
+<p begin="00:11:04.160" end="00:11:08.400" region="R59" style="S2" xml:id="C158_1">
+<span style="S3">Brett's determined to preserve</span>
+<br/>
+<span style="S3">the future of Welsh fishing.</span>
+</p>
+<p begin="00:11:10.600" end="00:11:14.360" region="agr_0_20_38.5_4_after" style="S2" xml:id="C159_1">
+<span style="S5">I came into this industry</span>
+<br/>
+<span style="S5">30 years ago</span>
+</p>
+<p begin="00:11:14.360" end="00:11:20.480" region="agr_0_20_38.5_4_after" style="S2" xml:id="C160_1">
+<span style="S5">and, you know, I started</span>
+<br/>
+<span style="S5">with a 14-foot mirror dinghy.</span>
+</p>
+<p begin="00:11:20.480" end="00:11:23.320" region="agr_0_20_39_4_after" style="S2" xml:id="C161_1">
+<span style="S5">And I was catching 17</span>
+<br/>
+<span style="S5">lobsters a day,</span>
+</p>
+<p begin="00:11:23.320" end="00:11:28.160" region="agr_0_20_39_4_after" style="S2" xml:id="C162_1">
+<span style="S5">just up this little run here,</span>
+<br/>
+<span style="S5">out of 23 pots.</span>
+</p>
+<p begin="00:11:28.160" end="00:11:31.520" region="R6" style="S2" xml:id="C163">
+<span style="S5">And, you know, I'd die for that now!</span>
+</p>
+<p begin="00:11:34.280" end="00:11:38.560" region="agr_0_20_39_4_after" style="S2" xml:id="C164_1">
+<span style="S3">As populations crashed, potters</span>
+<br/>
+<span style="S3">were forced to take smaller</span>
+</p>
+<p begin="00:11:38.560" end="00:11:42.800" region="agr_1_20_39_4_after" style="S2" xml:id="C165_1">
+<span style="S3">and smaller lobster, many</span>
+<br/>
+<span style="S3">before they'd produced any young.</span>
+</p>
+<p begin="00:11:45.720" end="00:11:49.040" region="agr_0_20_39.5_4_after" style="S2" xml:id="C166_1">
+<span style="S3">It takes five years to reach</span>
+<br/>
+<span style="S3">maturity,</span>
+</p>
+<p begin="00:11:49.040" end="00:11:51.960" region="R6" style="S2" xml:id="C167">
+<span style="S3">and for around 50,000 eggs produced,</span>
+</p>
+<p begin="00:11:51.960" end="00:11:54.840" region="R6" style="S2" xml:id="C168">
+<span style="S3">only two will survive to adulthood.</span>
+</p>
+<p begin="00:11:57.200" end="00:12:01.840" region="R59" style="S2" xml:id="C169_1">
+<span style="S3">The law now tries to enforce</span>
+<br/>
+<span style="S3">that lobsters are only taken</span>
+</p>
+<p begin="00:12:01.840" end="00:12:04.840" region="agr_0_20_38.5_4_after" style="S2" xml:id="C170_1">
+<span style="S3">once they have bred for</span>
+<br/>
+<span style="S3">several seasons.</span>
+</p>
+<p begin="00:12:06.760" end="00:12:11.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C171_1">
+<span style="S5">The rules on what we can keep,</span>
+<br/>
+<span style="S5">what we can't keep,</span>
+</p>
+<p begin="00:12:11.080" end="00:12:15.880" region="agr_0_20_38.5_4_after" style="S2" xml:id="C172_1">
+<span style="S5">anything that is 90 mil is what</span>
+<br/>
+<span style="S5">you'd call a keeper,</span>
+</p>
+<p begin="00:12:15.880" end="00:12:19.480" region="R59" style="S2" xml:id="C173_1">
+<span style="S5">and it's about nine years,</span>
+<br/>
+<span style="S5">I would say, to get to 90 mil.</span>
+</p>
+<p begin="00:12:20.960" end="00:12:25.760" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C174_1">
+<span style="S3">Brett has joined a new Welsh</span>
+<br/>
+<span style="S3">initiative so he doesn't waste time</span>
+</p>
+<p begin="00:12:25.760" end="00:12:27.960" region="R6" style="S2" xml:id="C175">
+<span style="S3">hauling up undersized lobster.</span>
+</p>
+<p begin="00:12:29.360" end="00:12:33.360" region="agr_0_20_39_4_after" style="S2" xml:id="C176_1">
+<span style="S5">Bangor University did a project</span>
+<br/>
+<span style="S5">down South Wales,</span>
+</p>
+<p begin="00:12:33.360" end="00:12:37.400" region="agr_0_20_39_4_after" style="S2" xml:id="C177_1">
+<span style="S5">and they gave me the papers</span>
+<br/>
+<span style="S5">to read up on it.</span>
+</p>
+<p begin="00:12:37.400" end="00:12:41.600" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C178_1">
+<span style="S3">They asked Brett to put an escape</span>
+<br/>
+<span style="S3">hole in his pots, allowing</span>
+</p>
+<p begin="00:12:41.600" end="00:12:46.120" region="agr_0_20_39.5_4_after" style="S2" xml:id="C179_1">
+<span style="S3">the smaller lobsters under</span>
+<br/>
+<span style="S3">90 millimetres to escape.</span>
+</p>
+<p begin="00:12:46.120" end="00:12:48.680" region="R6" style="S2" xml:id="C180">
+<span style="S5">And I thought, "I'll give it a try."</span>
+</p>
+<p begin="00:12:48.680" end="00:12:53.680" region="agr_0_20_39_4_after" style="S2" xml:id="C181_1">
+<span style="S5">So I put 25 of these gaps in,</span>
+<br/>
+<span style="S5">and I looked at them...</span>
+</p>
+<p begin="00:12:53.680" end="00:12:58.360" region="R59" style="S2" xml:id="C182_1">
+<span style="S5">I...I honestly expected this</span>
+<br/>
+<span style="S5">isn't going to work.</span>
+</p>
+<p begin="00:13:00.040" end="00:13:02.280" region="R6" style="S2" xml:id="C183">
+<span style="S5">But the following season,</span>
+</p>
+<p begin="00:13:02.280" end="00:13:05.200" region="R6" style="S2" xml:id="C184">
+<span style="S5">every pot has got them in.</span>
+</p>
+<p begin="00:13:05.200" end="00:13:07.080" region="R6" style="S2" xml:id="C185">
+<span style="S5">That's how effective it is.</span>
+</p>
+<p begin="00:13:09.760" end="00:13:12.960" region="agr_0_20_39.5_4_after" style="S2" xml:id="C186_1">
+<span style="S3">Today, Brett has covered</span>
+<br/>
+<span style="S3">up the escape hole in</span>
+</p>
+<p begin="00:13:12.960" end="00:13:17.080" region="agr_0_20_39_4_after" style="S2" xml:id="C187_1">
+<span style="S3">one of his pots to show the</span>
+<br/>
+<span style="S3">difference they make.</span>
+</p>
+<p begin="00:13:17.080" end="00:13:19.200" region="R6" style="S2" xml:id="C188">
+<span style="S5">Everything here is undersized,</span>
+</p>
+<p begin="00:13:19.200" end="00:13:21.760" region="agr_0_20_39_4_after" style="S2" xml:id="C189_1">
+<span style="S5">and they just wouldn't be</span>
+<br/>
+<span style="S5">in the pot.</span>
+</p>
+<p begin="00:13:21.760" end="00:13:23.920" region="R6" style="S2" xml:id="C190">
+<span style="S5">It'd be an empty pot.</span>
+</p>
+<p begin="00:13:25.320" end="00:13:28.320" region="R59" style="S2" xml:id="C191_1">
+<span style="S5">But obviously, this is there</span>
+<br/>
+<span style="S5">and that stops them.</span>
+</p>
+<p begin="00:13:28.320" end="00:13:31.080" region="agr_0_20_38.5_4_after" style="S2" xml:id="C192_1">
+<span style="S5">I mean, even this little chap</span>
+<br/>
+<span style="S5">hasn't got through it.</span>
+</p>
+<p begin="00:13:33.160" end="00:13:38.640" region="agr_0_20_39.5_4_after" style="S2" xml:id="C193_1">
+<span style="S3">Putting these gaps in also saves</span>
+<br/>
+<span style="S3">potential stress and injury</span>
+</p>
+<p begin="00:13:38.640" end="00:13:40.440" region="R6" style="S2" xml:id="C194">
+<span style="S3">to the small lobsters.</span>
+</p>
+<p begin="00:13:41.640" end="00:13:44.440" region="R6" style="S2" xml:id="C195">
+<span style="S5">They stopped fighting. You know,</span>
+</p>
+<p begin="00:13:44.440" end="00:13:46.960" region="R6" style="S2" xml:id="C196">
+<span style="S5">it prevents them getting mutilated.</span>
+</p>
+<p begin="00:13:48.400" end="00:13:52.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C197_1">
+<span style="S5">And the other thing that it most</span>
+<br/>
+<span style="S5">definitely does, it thins out</span>
+</p>
+<p begin="00:13:52.080" end="00:13:54.040" region="R6" style="S2" xml:id="C198">
+<span style="S5">ghost fishing as well.</span>
+</p>
+<p begin="00:13:54.040" end="00:13:57.200" region="agr_0_20_39.5_4_after" style="S2" xml:id="C199_1">
+<span style="S3">Ghost fishing is a phrase used</span>
+<br/>
+<span style="S3">for animals that get caught</span>
+</p>
+<p begin="00:13:57.200" end="00:13:59.880" region="R6" style="S2" xml:id="C200">
+<span style="S3">in fishing equipment lost at sea.</span>
+</p>
+<p begin="00:13:59.880" end="00:14:04.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C201_1">
+<span style="S3">Lost pots trap lobster,</span>
+<br/>
+<span style="S3">which then needlessly die.</span>
+</p>
+<p begin="00:14:05.680" end="00:14:07.480" region="R6" style="S2" xml:id="C202">
+<span style="S5">So if you lose your string,</span>
+</p>
+<p begin="00:14:07.480" end="00:14:11.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C203_1">
+<span style="S5">you know, the lobsters are able</span>
+<br/>
+<span style="S5">to get in and out.</span>
+</p>
+<p begin="00:14:11.200" end="00:14:15.600" region="agr_0_20_39_4_after" style="S2" xml:id="C204_1">
+<span style="S3">While the gap reduces lobster</span>
+<br/>
+<span style="S3">deaths, Brett goes even further</span>
+</p>
+<p begin="00:14:15.600" end="00:14:19.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C205_1">
+<span style="S3">to protect the Welsh lobster</span>
+<br/>
+<span style="S3">population.</span>
+</p>
+<p begin="00:14:19.360" end="00:14:23.320" region="R59" style="S2" xml:id="C206_1">
+<span style="S5">This time of year,</span>
+<br/>
+<span style="S5">October, very difficult.</span>
+</p>
+<p begin="00:14:23.320" end="00:14:24.760" region="R6" style="S2" xml:id="C207">
+<span style="S5">Weather's hard.</span>
+</p>
+<p begin="00:14:24.760" end="00:14:28.400" region="agr_0_20_38.5_4_after" style="S2" xml:id="C208_1">
+<span style="S5">Big percentages of lobsters</span>
+<br/>
+<span style="S5">are carrying eggs, which</span>
+</p>
+<p begin="00:14:28.400" end="00:14:32.080" region="R6" style="S2" xml:id="C209">
+<span style="S5">I can take, but I don't. Um...</span>
+</p>
+<p begin="00:14:32.080" end="00:14:36.240" region="agr_2_20_38_4_after" style="S2" xml:id="C210_1">
+<span style="S5">So you're throwing more back</span>
+<br/>
+<span style="S5">than what you're actually keeping.</span>
+</p>
+<p begin="00:14:38.080" end="00:14:42.240" region="R59" style="S2" xml:id="C211_1">
+<span style="S5">This is a 2lb lobster,</span>
+<br/>
+<span style="S5">just full of eggs.</span>
+</p>
+<p begin="00:14:42.240" end="00:14:46.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C212_1">
+<span style="S5">But all these are being landed</span>
+<br/>
+<span style="S5">at the moment. Not by me.</span>
+</p>
+<p begin="00:14:46.720" end="00:14:51.080" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C213_1">
+<span style="S5">In Wales, it's still legal to take</span>
+<br/>
+<span style="S5">egg-carrying females,</span>
+</p>
+<p begin="00:14:51.080" end="00:14:52.960" region="R6" style="S2" xml:id="C214">
+<span style="S5">known as "berried hens".</span>
+</p>
+<p begin="00:14:52.960" end="00:14:57.120" region="agr_0_20_39.5_4_after" style="S2" xml:id="C215_1">
+<span style="S3">So Brett puts a painless V notch</span>
+<br/>
+<span style="S3">in their tails.</span>
+</p>
+<p begin="00:14:57.120" end="00:14:58.640" region="R6" style="S2" xml:id="C216">
+<span style="S3">With this notch,</span>
+</p>
+<p begin="00:14:58.640" end="00:15:03.680" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C217_1">
+<span style="S3">it's illegal to land the lobster,</span>
+<br/>
+<span style="S3">and it takes four years to grow out.</span>
+</p>
+<p begin="00:15:06.960" end="00:15:08.680" region="R6" style="S2" xml:id="C218">
+<span style="S5">Live eggs under that one.</span>
+</p>
+<p begin="00:15:09.960" end="00:15:14.280" region="agr_0_20_38.5_4_after" style="S2" xml:id="C219_1">
+<span style="S3">If left in the wild, lobsters</span>
+<br/>
+<span style="S3">can live longer than humans.</span>
+</p>
+<p begin="00:15:16.160" end="00:15:19.080" region="R59" style="S2" xml:id="C220_1">
+<span style="S3">The females never stop</span>
+<br/>
+<span style="S3">producing young.</span>
+</p>
+<p begin="00:15:19.080" end="00:15:21.280" region="R6" style="S2" xml:id="C221">
+<span style="S3">They also never stop growing.</span>
+</p>
+<p begin="00:15:23.040" end="00:15:25" region="R6" style="S2" xml:id="C222">
+<span style="S3">And the bigger they get,</span>
+</p>
+<p begin="00:15:25" end="00:15:27.880" region="R6" style="S2" xml:id="C223">
+<span style="S3">the more eggs they can carry.</span>
+</p>
+<p begin="00:15:27.880" end="00:15:30.360" region="R6" style="S2" xml:id="C224">
+<span style="S3">So with large breeding females,</span>
+</p>
+<p begin="00:15:30.360" end="00:15:34.520" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C225_1">
+<span style="S3">Brett will often put conservation</span>
+<br/>
+<span style="S3">before profit.</span>
+</p>
+<p begin="00:15:34.520" end="00:15:36.560" region="R6" style="S2" xml:id="C226">
+<span style="S5">She's 140 mil, she is.</span>
+</p>
+<p begin="00:15:38.240" end="00:15:41.200" region="R6" style="S2" xml:id="C227">
+<span style="S5">I would say she's as old as me.</span>
+</p>
+<p begin="00:15:41.200" end="00:15:45.440" region="R59" style="S2" xml:id="C228_1">
+<span style="S5">She's probably worth about 40,</span>
+<br/>
+<span style="S5">maybe £50.</span>
+</p>
+<p begin="00:15:46.640" end="00:15:50.960" region="agr_0_20_38.5_4_after" style="S2" xml:id="C229_1">
+<span style="S5">Well, that, to me, is a prime</span>
+<br/>
+<span style="S5">specimen of a lobster.</span>
+</p>
+<p begin="00:15:50.960" end="00:15:53" region="R6" style="S2" xml:id="C230">
+<span style="S5">Plenty of room to keep eggs.</span>
+</p>
+<p begin="00:15:55.480" end="00:15:57.960" region="agr_0_20_39_4_after" style="S2" xml:id="C231_1">
+<span style="S5">Who am I to take that</span>
+<br/>
+<span style="S5">out of the water?</span>
+</p>
+<p begin="00:15:57.960" end="00:15:59.760" region="R6" style="S2" xml:id="C232">
+<span style="S5">And because she's so big,</span>
+</p>
+<p begin="00:15:59.760" end="00:16:02.040" region="agr_0_20_39.5_4_after" style="S2" xml:id="C233_1">
+<span style="S5">I'm going to make sure</span>
+<br/>
+<span style="S5">there's two in her.</span>
+</p>
+<p begin="00:16:06.160" end="00:16:08.600" region="R6" style="S2" xml:id="C234">
+<span style="S5">So if you look after your own patch,</span>
+</p>
+<p begin="00:16:08.600" end="00:16:11.040" region="agr_0_20_39_4_after" style="S2" xml:id="C235_1">
+<span style="S5">technically</span>
+<br/>
+<span style="S5">it should look after you.</span>
+</p>
+<p begin="00:16:12.680" end="00:16:16.120" region="R59" style="S2" xml:id="C236_1">
+<span style="S5">And yes, you can argue, "Well,</span>
+<br/>
+<span style="S5">if you kept all the berried hens</span>
+</p>
+<p begin="00:16:16.120" end="00:16:19.280" region="agr_0_20_39_4_after" style="S2" xml:id="C237_1">
+<span style="S5">"and you kept all the big</span>
+<br/>
+<span style="S5">lobsters, yeah, you..."</span>
+</p>
+<p begin="00:16:19.280" end="00:16:21.600" region="agr_2_20_38_4_after" style="S2" xml:id="C238_1">
+<span style="S5">Yeah, but the thing is, you've got</span>
+<br/>
+<span style="S5">to look after tomorrow</span>
+</p>
+<p begin="00:16:21.600" end="00:16:23.080" region="R6" style="S2" xml:id="C239">
+<span style="S5">as well as today.</span>
+</p>
+<p begin="00:16:24.720" end="00:16:27.120" region="R6" style="S2" xml:id="C240">
+<span style="S3">Brett isn't doing all this alone.</span>
+</p>
+<p begin="00:16:29.040" end="00:16:31.960" region="agr_0_20_38.5_4_after" style="S2" xml:id="C241_1">
+<span style="S3">He's come together with other</span>
+<br/>
+<span style="S3">potters in what's called</span>
+</p>
+<p begin="00:16:31.960" end="00:16:33.960" region="R6" style="S2" xml:id="C242">
+<span style="S3">the Welsh Seafood Cluster,</span>
+</p>
+<p begin="00:16:33.960" end="00:16:39" region="agr_0_20_38.5_4_after" style="S2" xml:id="C243_1">
+<span style="S3">putting the right Welsh lobster</span>
+<br/>
+<span style="S3">on Welsh plates.</span>
+</p>
+<p begin="00:16:39" end="00:16:41.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C244_1">
+<span style="S5">We identify the lobsters</span>
+<br/>
+<span style="S5">we've caught,</span>
+</p>
+<p begin="00:16:41.720" end="00:16:45.440" region="agr_0_20_39_4_after" style="S2" xml:id="C245_1">
+<span style="S5">and we put one band</span>
+<br/>
+<span style="S5">on the claws like that.</span>
+</p>
+<p begin="00:16:45.440" end="00:16:49.600" region="agr_0_20_38.5_4_after" style="S2" xml:id="C246_1">
+<span style="S5">So if you see a lobster</span>
+<br/>
+<span style="S5">with that on it,</span>
+</p>
+<p begin="00:16:49.600" end="00:16:52.640" region="R59" style="S2" xml:id="C247_1">
+<span style="S5">basically it's a sustainably</span>
+<br/>
+<span style="S5">caught lobster</span>
+</p>
+<p begin="00:16:52.640" end="00:16:56.800" region="agr_0_20_38.5_4_after" style="S2" xml:id="C248_1">
+<span style="S5">because only fishermen that can</span>
+<br/>
+<span style="S5">prove that they throw back</span>
+</p>
+<p begin="00:16:56.800" end="00:17:00.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C249_1">
+<span style="S5">berried hens, soft lobsters,</span>
+<br/>
+<span style="S5">get to use those bands.</span>
+</p>
+<p begin="00:17:02.400" end="00:17:05.320" region="agr_0_20_39.5_4_after" style="S2" xml:id="C250_1">
+<span style="S3">But this is something everyone</span>
+<br/>
+<span style="S3">can be a part of.</span>
+</p>
+<p begin="00:17:07.640" end="00:17:11.400" region="R59" style="S2" xml:id="C251">
+<span style="S5">We want a sustainable fishery, and</span>
+<br/>
+<span style="S5">the only way we're going to get it</span>
+</p>
+<p begin="00:17:11.400" end="00:17:15.880" region="agr_0_20_38.5_4_after" style="S2" xml:id="C252_1">
+<span style="S5">is either by management</span>
+<br/>
+<span style="S5">or by the consumer</span>
+</p>
+<p begin="00:17:15.880" end="00:17:21.400" region="agr_4_20_36_4_after" style="S2" xml:id="C253_1">
+<span style="S5">to put the pressure on the fishermen</span>
+<br/>
+<span style="S5">to fish sustainably.</span>
+</p>
+<p begin="00:17:21.400" end="00:17:22.880" region="R6" style="S2" xml:id="C254">
+<span style="S5">That's what we need.</span>
+</p>
+<p begin="00:17:25.240" end="00:17:27.960" region="agr_0_20_39.5_4_after" style="S2" xml:id="C255_1">
+<span style="S3">When humans step in and give</span>
+<br/>
+<span style="S3">protection,</span>
+</p>
+<p begin="00:17:27.960" end="00:17:30.720" region="agr_0_20_39_4_after" style="S2" xml:id="C256_1">
+<span style="S3">a species can quickly</span>
+<br/>
+<span style="S3">start to recover.</span>
+</p>
+<p begin="00:17:38.360" end="00:17:40.280" region="R6" style="S2" xml:id="C257">
+<span style="S3">Autumn on the Welsh coast.</span>
+</p>
+<p begin="00:17:42.480" end="00:17:44.840" region="agr_0_20_39_4_after" style="S2" xml:id="C258_1">
+<span style="S3">The treacherous weather</span>
+<br/>
+<span style="S3">transforms much</span>
+</p>
+<p begin="00:17:44.840" end="00:17:47.600" region="agr_0_20_38.5_4_after" style="S2" xml:id="C259_1">
+<span style="S3">of it into a wild,</span>
+<br/>
+<span style="S3">inhospitable place.</span>
+</p>
+<p begin="00:17:51.200" end="00:17:54.760" region="agr_4_20_36_4_after" style="S2" xml:id="C260_1">
+<span style="S3">But in Pembrokeshire, this coastline</span>
+<br/>
+<span style="S3">also doubles</span>
+</p>
+<p begin="00:17:54.760" end="00:17:57.080" region="R6" style="S2" xml:id="C261">
+<span style="S3">as the perfect nursery</span>
+</p>
+<p begin="00:17:57.080" end="00:18:00.200" region="R6" style="S2" xml:id="C262">
+<span style="S3">for the local baby grey seals.</span>
+</p>
+<p begin="00:18:02.400" end="00:18:04.960" region="R6" style="S2" xml:id="C263">
+<span style="S3">This pup is five days old.</span>
+</p>
+<p begin="00:18:07" end="00:18:12.280" region="R59" style="S2" xml:id="C264">
+<span style="S3">The young seals feed up to six times</span>
+<br/>
+<span style="S3">a day from their ever-patient mums.</span>
+</p>
+<p begin="00:18:14.360" end="00:18:18.200" region="R59" style="S2" xml:id="C265_1">
+<span style="S3">Just over 100 years ago,</span>
+<br/>
+<span style="S3">the grey seal population</span>
+</p>
+<p begin="00:18:18.200" end="00:18:21.560" region="agr_0_20_39.5_4_after" style="S2" xml:id="C266_1">
+<span style="S3">across the whole of the UK</span>
+<br/>
+<span style="S3">was only 500.</span>
+</p>
+<p begin="00:18:24.160" end="00:18:29.120" region="agr_4_20_36_4_after" style="S2" xml:id="C267_1">
+<span style="S3">The seals were persecuted, taken</span>
+<br/>
+<span style="S3">mainly for their snowy, white pelts.</span>
+</p>
+<p begin="00:18:31.240" end="00:18:37.960" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C268_1">
+<span style="S3">Now protected, Wales alone has a</span>
+<br/>
+<span style="S3">population of around 5,000 animals.</span>
+</p>
+<p begin="00:18:39.440" end="00:18:42.960" region="agr_0_20_38.5_4_after" style="S2" xml:id="C269_1">
+<span style="S3">And there's a dedicated team</span>
+<br/>
+<span style="S3">of people who want to make sure</span>
+</p>
+<p begin="00:18:42.960" end="00:18:45.520" region="R6" style="S2" xml:id="C270">
+<span style="S3">that seal numbers continue to grow.</span>
+</p>
+<p begin="00:18:47" end="00:18:50.160" region="agr_0_20_38.5_4_after" style="S2" xml:id="C271_1">
+<span style="S6">We've been dealing with seals</span>
+<br/>
+<span style="S6">now for some 30 years,</span>
+</p>
+<p begin="00:18:50.160" end="00:18:55" region="R59" style="S2" xml:id="C272_1">
+<span style="S6">and we can almost tell instantly</span>
+<br/>
+<span style="S6">whether a seal needs our help.</span>
+</p>
+<p begin="00:18:56.080" end="00:18:58.760" region="R6" style="S2" xml:id="C273">
+<span style="S3">Terry Leadbetter and John Beavis</span>
+</p>
+<p begin="00:18:58.760" end="00:19:02.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C274_1">
+<span style="S3">are Pembrokeshire's</span>
+<br/>
+<span style="S3">Seal Rescue Response Team.</span>
+</p>
+<p begin="00:19:02.720" end="00:19:07.120" region="agr_0_20_39.5_4_after" style="S2" xml:id="C275_1">
+<span style="S3">Between them, they rescue</span>
+<br/>
+<span style="S3">up to 70 seal pups a year.</span>
+</p>
+<p begin="00:19:10.880" end="00:19:12.800" region="R6" style="S2" xml:id="C276">
+<span style="S3">Today, a member of the public</span>
+</p>
+<p begin="00:19:12.800" end="00:19:16" region="agr_0_20_39_4_after" style="S2" xml:id="C277_1">
+<span style="S3">has called about a seal pup</span>
+<br/>
+<span style="S3">alone on a beach.</span>
+</p>
+<p begin="00:19:17.240" end="00:19:18.800" region="R6" style="S2" xml:id="C278">
+<span style="S6">There's a lot of things to consider.</span>
+</p>
+<p begin="00:19:18.800" end="00:19:21" region="agr_0_20_39_4_after" style="S2" xml:id="C279_1">
+<span style="S6">I mean, the first thing</span>
+<br/>
+<span style="S6">is whether the mother</span>
+</p>
+<p begin="00:19:21" end="00:19:24.920" region="R59" style="S2" xml:id="C280_1">
+<span style="S6">is in attendance, and then</span>
+<br/>
+<span style="S6">then we look at the seal</span>
+</p>
+<p begin="00:19:24.920" end="00:19:27.120" region="R6" style="S2" xml:id="C281">
+<span style="S6">and look at its condition.</span>
+</p>
+<p begin="00:19:27.120" end="00:19:29.720" region="agr_0_20_38.5_4_after" style="S2" xml:id="C282_1">
+<span style="S6">If there's any injuries</span>
+<br/>
+<span style="S6">or whatever.</span>
+</p>
+<p begin="00:19:29.720" end="00:19:33.200" region="R59" style="S2" xml:id="C283_1">
+<span style="S6">And then we look at the weight</span>
+<br/>
+<span style="S6">of the seal, the size of it.</span>
+</p>
+<p begin="00:19:33.200" end="00:19:36.600" region="agr_4_14_36_4_after" style="S2" xml:id="C284_1">
+<span style="S6">But we've been doing it so long now,</span>
+<br/>
+<span style="S6">we can almost do that instantly.</span>
+</p>
+<p begin="00:19:39.560" end="00:19:41.080" region="R103" style="S2" xml:id="C285">
+<span style="S6">You can see on this one.</span>
+</p>
+<p begin="00:19:43.720" end="00:19:47.560" region="agr_0_20_38.5_4_after" style="S2" xml:id="C286_1">
+<span style="S6">That tells us that that's</span>
+<br/>
+<span style="S6">about three weeks old.</span>
+</p>
+<p begin="00:19:47.560" end="00:19:51.280" region="agr_2_20_38_4_after" style="S2" xml:id="C287_1">
+<span style="S6">Its mother's gone off and left it,</span>
+<br/>
+<span style="S6">and within a few days,</span>
+</p>
+<p begin="00:19:51.280" end="00:19:53.800" region="R6" style="S2" xml:id="C288">
+<span style="S6">all that white coat will melt off</span>
+</p>
+<p begin="00:19:53.800" end="00:19:55.320" region="R6" style="S2" xml:id="C289">
+<span style="S6">and it's on its own.</span>
+</p>
+<p begin="00:19:55.320" end="00:19:59.720" region="agr_0_20_38.5_4_after" style="S2" xml:id="C290_1">
+<span style="S6">And the reason for the red</span>
+<br/>
+<span style="S6">and blue is that we've seen it,</span>
+</p>
+<p begin="00:19:59.720" end="00:20:02.920" region="agr_0_20_38.5_4_after" style="S2" xml:id="C291_1">
+<span style="S6">we know it's OK,</span>
+<br/>
+<span style="S6">and if anybody else finds it,</span>
+</p>
+<p begin="00:20:02.920" end="00:20:06.600" region="agr_0_20_39_4_after" style="S2" xml:id="C292_1">
+<span style="S6">that saves us a 40-mile journey</span>
+<br/>
+<span style="S6">to come and check it again.</span>
+</p>
+<p begin="00:20:06.600" end="00:20:10.840" region="agr_0_20_39.5_4_after" style="S2" xml:id="C293_1">
+<span style="S6">He'll make it off now or go</span>
+<br/>
+<span style="S6">into the sea, and he'll be OK.</span>
+</p>
+<p begin="00:20:14.280" end="00:20:19.040" region="agr_0_20_39.5_4_after" style="S2" xml:id="C294_1">
+<span style="S3">Once in the sea, the pups grow</span>
+<br/>
+<span style="S3">quickly into adulthood.</span>
+</p>
+<p begin="00:20:19.040" end="00:20:23.400" region="R59" style="S2" xml:id="C295">
+<span style="S3">Here they spend much of their time</span>
+<br/>
+<span style="S3">hunting for fish and crustaceans.</span>
+</p>
+<p begin="00:20:26.640" end="00:20:29.440" region="R6" style="S2" xml:id="C296">
+<span style="S3">Meanwhile, back at Terry's house,</span>
+</p>
+<p begin="00:20:29.440" end="00:20:30.920" region="R6" style="S2" xml:id="C297">
+<span style="S3">it's dinner time.</span>
+</p>
+<p begin="00:20:30.920" end="00:20:32.520" region="R6" style="S7" ttm:role="sound" xml:id="C298">
+<span style="S3">WAILS</span>
+</p>
+<p begin="00:20:35.760" end="00:20:37.560" region="R6" style="S2" xml:id="C299">
+<span style="S6">All right, all right.</span>
+</p>
+<p begin="00:20:37.560" end="00:20:41.920" region="R59" style="S2" xml:id="C300">
+<span style="S3">Even the smallest pups are abandoned</span>
+<br/>
+<span style="S3">by their mothers, and this is where</span>
+</p>
+<p begin="00:20:41.920" end="00:20:45.480" region="R59" style="S2" xml:id="C301_1">
+<span style="S3">Terry and his wife, Ann,</span>
+<br/>
+<span style="S3">have their work cut out.</span>
+</p>
+<p begin="00:20:46.760" end="00:20:50.680" region="R59" style="S2" xml:id="C302_1">
+<span style="S6">When they're very young, I mean,</span>
+<br/>
+<span style="S6">they need liquidised food.</span>
+</p>
+<p begin="00:20:50.680" end="00:20:54.800" region="agr_3_20_37_4_after" style="S2" xml:id="C303_1">
+<span style="S6">We can't replace the mother's milk,</span>
+<br/>
+<span style="S6">so the next best thing for us</span>
+</p>
+<p begin="00:20:54.800" end="00:20:57.920" region="agr_0_20_39_4_after" style="S2" xml:id="C304_1">
+<span style="S6">is to liquidise fish and feed</span>
+<br/>
+<span style="S6">them through a tube</span>
+</p>
+<p begin="00:20:57.920" end="00:20:59.160" region="R6" style="S2" xml:id="C305">
+<span style="S6">into the stomach.</span>
+</p>
+<p begin="00:21:02.480" end="00:21:04" region="R6" style="S7" ttm:role="sound" xml:id="C306">
+<span style="S3">WAILS</span>
+</p>
+<p begin="00:21:09.600" end="00:21:11" region="R6" style="S2" xml:id="C307">
+<span style="S6">There you go.</span>
+</p>
+<p begin="00:21:11" end="00:21:12.640" region="R6" style="S2" xml:id="C308">
+<span style="S6">That was nice, wasn't it?</span>
+</p>
+<p begin="00:21:13.880" end="00:21:18.320" region="agr_0_20_39_4_after" style="S2" xml:id="C309_1">
+<span style="S3">Seal pups are often abandoned</span>
+<br/>
+<span style="S3">due to human disturbance,</span>
+</p>
+<p begin="00:21:18.320" end="00:21:23.200" region="agr_0_20_39.5_4_after" style="S2" xml:id="C310_1">
+<span style="S3">so Terry and Ann work flat out</span>
+<br/>
+<span style="S3">during the birthing season.</span>
+</p>
+<p begin="00:21:23.200" end="00:21:25.840" region="agr_0_20_38.5_4_after" style="S2" xml:id="C311_1">
+<span style="S6">Ann liquidises all the fish.</span>
+<br/>
+<span style="S6">That's a lovely job, that is!</span>
+</p>
+<p begin="00:21:25.840" end="00:21:27.120" region="R6" style="S2" xml:id="C312">
+<span style="S6">She loves doing that.</span>
+</p>
+<p begin="00:21:27.120" end="00:21:29.960" region="agr_0_20_38.5_4_after" style="S2" xml:id="C313_1">
+<span style="S6">And she prepares all the diets,</span>
+<br/>
+<span style="S6">and she'll go down</span>
+</p>
+<p begin="00:21:29.960" end="00:21:32.840" region="R6" style="S2" xml:id="C314">
+<span style="S6">and wash the seals,</span>
+</p>
+<p begin="00:21:32.840" end="00:21:35.400" region="R6" style="S2" xml:id="C315">
+<span style="S6">and I just do the nice bits.</span>
+</p>
+<p begin="00:21:37.400" end="00:21:40.880" region="agr_0_20_39.5_4_after" style="S2" xml:id="C316_1">
+<span style="S3">They also look after older</span>
+<br/>
+<span style="S3">seals with health issues.</span>
+</p>
+<p begin="00:21:43.080" end="00:21:44.960" region="R6" style="S2" xml:id="C317">
+<span style="S3">This one had a nasty abscess,</span>
+</p>
+<p begin="00:21:44.960" end="00:21:47.240" region="R6" style="S2" xml:id="C318">
+<span style="S3">but should soon return to the wild.</span>
+</p>
+<p begin="00:21:49.480" end="00:21:52" region="agr_0_20_39.5_4_after" style="S2" xml:id="C319_1">
+<span style="S6">There's just something</span>
+<br/>
+<span style="S6">about them.</span>
+</p>
+<p begin="00:21:52" end="00:21:55.800" region="R59" style="S2" xml:id="C320_1">
+<span style="S6">And the more you deal with them,</span>
+<br/>
+<span style="S6">the more you get to know them,</span>
+</p>
+<p begin="00:21:55.800" end="00:21:58.560" region="agr_0_20_39.5_4_after" style="S2" xml:id="C321_1">
+<span style="S6">and they've all got</span>
+<br/>
+<span style="S6">different personalities.</span>
+</p>
+<p begin="00:22:00.440" end="00:22:04.880" region="agr_0_20_39.5_4_after" style="S2" xml:id="C322_1">
+<span style="S6">How many people in this</span>
+<br/>
+<span style="S6">country have got the privilege</span>
+</p>
+<p begin="00:22:04.880" end="00:22:08" region="agr_0_20_38.5_4_after" style="S2" xml:id="C323_1">
+<span style="S6">to be able to go and rescue</span>
+<br/>
+<span style="S6">these magnificent animals?</span>
+</p>
+<p begin="00:22:08" end="00:22:09.640" region="R6" style="S2" xml:id="C324">
+<span style="S6">Because that's what they are.</span>
+</p>
+<p begin="00:22:09.640" end="00:22:12.200" region="agr_0_20_39.5_4_after" style="S2" xml:id="C325_1">
+<span style="S6">I mean, they are so intelligent,</span>
+<br/>
+<span style="S6">you wouldn't believe.</span>
+</p>
+<p begin="00:22:12.200" end="00:22:16.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C326_1">
+<span style="S6">And, you know, to be able to do</span>
+<br/>
+<span style="S6">what we're doing is great,</span>
+</p>
+<p begin="00:22:16.200" end="00:22:17.480" region="R6" style="S2" xml:id="C327">
+<span style="S6">and I love it.</span>
+</p>
+<p begin="00:22:18.680" end="00:22:21.960" region="agr_0_20_38.5_4_after" style="S2" xml:id="C328_1">
+<span style="S6">And I'll do it until</span>
+<br/>
+<span style="S6">I can't do it any more.</span>
+</p>
+<p begin="00:22:24.760" end="00:22:27.400" region="R6" style="S2" xml:id="C329">
+<span style="S3">While seals are a success story...</span>
+</p>
+<p begin="00:22:30.440" end="00:22:34.360" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C330_1">
+<span style="S3">..many other marine species</span>
+<br/>
+<span style="S3">need to be monitored and recorded.</span>
+</p>
+<p begin="00:22:38.640" end="00:22:43" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C331_1">
+<span style="S3">The tides drive the rhythm of life</span>
+<br/>
+<span style="S3">around the Welsh coastline.</span>
+</p>
+<p begin="00:22:43" end="00:22:47.720" region="agr_3_20_37_4_after" style="S2" xml:id="C332_1">
+<span style="S3">When the tide goes out, a whole</span>
+<br/>
+<span style="S3">marine treasure trove is revealed -</span>
+</p>
+<p begin="00:22:47.720" end="00:22:50.120" region="R6" style="S2" xml:id="C333">
+<span style="S3">if you know where to look.</span>
+</p>
+<p begin="00:22:51.680" end="00:22:55.520" region="agr_2_20_38_4_after" style="S2" xml:id="C334_1">
+<span style="S4">Today, we're going to be</span>
+<br/>
+<span style="S4">doing a survey down on Dale beach,</span>
+</p>
+<p begin="00:22:55.520" end="00:22:58.360" region="R59" style="S2" xml:id="C335_1">
+<span style="S4">trying to basically find as many</span>
+<br/>
+<span style="S4">species of as many</span>
+</p>
+<p begin="00:22:58.360" end="00:23:01.440" region="agr_0_20_39_4_after" style="S2" xml:id="C336_1">
+<span style="S4">different animal groups</span>
+<br/>
+<span style="S4">on the shoreline as possible.</span>
+</p>
+<p begin="00:23:03.600" end="00:23:08.360" region="R59" style="S2" xml:id="C337">
+<span style="S3">Pembrokeshire is home to budding</span>
+<br/>
+<span style="S3">biologist 17-year-old Aaron Lock.</span>
+</p>
+<p begin="00:23:09.880" end="00:23:13.640" region="agr_0_20_39.5_4_after" style="S2" xml:id="C338_1">
+<span style="S3">He leads a group of young marine</span>
+<br/>
+<span style="S3">bounty hunters who record</span>
+</p>
+<p begin="00:23:13.640" end="00:23:16.960" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C339_1">
+<span style="S3">the wildlife wonders you can find</span>
+<br/>
+<span style="S3">at low tide.</span>
+</p>
+<p begin="00:23:20.360" end="00:23:23.880" region="R59" style="S2" xml:id="C340">
+<span style="S4">This whole study that I'm doing</span>
+<br/>
+<span style="S4">is actually going to influence</span>
+</p>
+<p begin="00:23:23.880" end="00:23:28.280" region="R59" style="S2" xml:id="C341">
+<span style="S4">the marine database that is then</span>
+<br/>
+<span style="S4">used by marine biologists to get</span>
+</p>
+<p begin="00:23:28.280" end="00:23:32.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C342_1">
+<span style="S4">recordings of species numbers</span>
+<br/>
+<span style="S4">across the coasts.</span>
+</p>
+<p begin="00:23:32.680" end="00:23:37.120" region="agr_4_20_36_4_after" style="S2" xml:id="C343_1">
+<span style="S3">By regularly monitoring and counting</span>
+<br/>
+<span style="S3">animals and species,</span>
+</p>
+<p begin="00:23:37.120" end="00:23:40.600" region="agr_2_20_38_4_after" style="S2" xml:id="C344_1">
+<span style="S3">Aaron can get a picture of whether</span>
+<br/>
+<span style="S3">there's growth</span>
+</p>
+<p begin="00:23:40.600" end="00:23:42.600" region="R6" style="S2" xml:id="C345">
+<span style="S3">or decline in populations.</span>
+</p>
+<p begin="00:23:44.480" end="00:23:46.960" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C346_1">
+<span style="S4">When it actually comes</span>
+<br/>
+<span style="S4">to the catching, we have two main</span>
+</p>
+<p begin="00:23:46.960" end="00:23:50.520" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C347_1">
+<span style="S4">things that we like to do,</span>
+<br/>
+<span style="S4">which is sweep netting with a very,</span>
+</p>
+<p begin="00:23:50.520" end="00:23:53.920" region="agr_0_20_38.5_4_after" style="S2" xml:id="C348_1">
+<span style="S4">very large home-made net</span>
+<br/>
+<span style="S4">and then boulder turning.</span>
+</p>
+<p begin="00:23:53.920" end="00:23:57.200" region="R59" style="S2" xml:id="C349_1">
+<span style="S3">To count and log the various</span>
+<br/>
+<span style="S3">species,</span>
+</p>
+<p begin="00:23:57.200" end="00:24:02.440" region="agr_1_20_39_4_after" style="S2" xml:id="C350_1">
+<span style="S3">the team first have to catch some</span>
+<br/>
+<span style="S3">very slippery characters.</span>
+</p>
+<p begin="00:24:02.440" end="00:24:05.640" region="agr_0_20_39_4_after" style="S2" xml:id="C351_1">
+<span style="S3">Aaron's personal favourites</span>
+<br/>
+<span style="S3">are eels.</span>
+</p>
+<p begin="00:24:05.640" end="00:24:07.440" region="R6" style="S2" xml:id="C352">
+<span style="S4">I think it's the biggest one yet.</span>
+</p>
+<p begin="00:24:07.440" end="00:24:10.840" region="R59" style="S2" xml:id="C353">
+<span style="S5">Yeah.</span>
+<span style="S4"> Definitely the widest, at</span>
+<br/>
+<span style="S4">least. Might not be the longest.</span>
+</p>
+<p begin="00:24:10.840" end="00:24:14.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C354_1">
+<span style="S4">The worst thing about them is</span>
+<br/>
+<span style="S4">there's no direction they prefer</span>
+</p>
+<p begin="00:24:14.360" end="00:24:17.040" region="agr_0_20_39_4_after" style="S2" xml:id="C355_1">
+<span style="S4">to go in. They will reverse</span>
+<br/>
+<span style="S4">and they will go forward.</span>
+</p>
+<p begin="00:24:17.040" end="00:24:18.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C356_1">
+<span style="S4">So you may think you've got</span>
+<br/>
+<span style="S4">their head</span>
+</p>
+<p begin="00:24:18.680" end="00:24:20.760" region="agr_0_20_38.5_4_after" style="S2" xml:id="C357_1">
+<span style="S4">and then they'll just slip back</span>
+<br/>
+<span style="S4">out the other way.</span>
+</p>
+<p begin="00:24:22.760" end="00:24:25.880" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C358_1">
+<span style="S3">Once in the bucket, the creatures</span>
+<br/>
+<span style="S3">are identified</span>
+</p>
+<p begin="00:24:25.880" end="00:24:28.280" region="R6" style="S2" xml:id="C359">
+<span style="S3">and logged by the team.</span>
+</p>
+<p begin="00:24:28.280" end="00:24:32.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C360_1">
+<span style="S5">We've got feather stars,</span>
+<br/>
+<span style="S5">which is very pretty.</span>
+</p>
+<p begin="00:24:32.080" end="00:24:33.840" region="R6" style="S2" xml:id="C361">
+<span style="S4">Scorpion fish was another thing.</span>
+</p>
+<p begin="00:24:33.840" end="00:24:36.760" region="agr_2_20_38_4_after" style="S2" xml:id="C362_1">
+<span style="S4">Probably the most dangerous fish</span>
+<br/>
+<span style="S4">we actually got because these guys</span>
+</p>
+<p begin="00:24:36.760" end="00:24:39.280" region="agr_0_20_39_4_after" style="S2" xml:id="C363_1">
+<span style="S4">do have a venomous thorn on the</span>
+<br/>
+<span style="S4">side.</span>
+</p>
+<p begin="00:24:39.280" end="00:24:40.480" region="R24" style="S2" xml:id="C364">
+<span style="S5">Got a little coin fish.</span>
+</p>
+<p begin="00:24:40.480" end="00:24:41.960" region="R6" style="S2" xml:id="C365">
+<span style="S5">It's like a suckerfish.</span>
+</p>
+<p begin="00:24:41.960" end="00:24:44.720" region="R59" style="S2" xml:id="C366_1">
+<span style="S4">This was the blenny we got</span>
+<br/>
+<span style="S4">very early on.</span>
+</p>
+<p begin="00:24:46.360" end="00:24:52.480" region="agr_4_20_36_4_after" style="S2" xml:id="C367_1">
+<span style="S3">Today's survey counted an incredible</span>
+<br/>
+<span style="S3">222 different species.</span>
+</p>
+<p begin="00:24:54.560" end="00:24:57.520" region="agr_0_20_39_4_after" style="S2" xml:id="C368_1">
+<span style="S3">Not bad for a patch</span>
+<br/>
+<span style="S3">of Pembrokeshire mud!</span>
+</p>
+<p begin="00:24:58.480" end="00:25:01.840" region="agr_0_20_38.5_4_after" style="S2" xml:id="C369_1">
+<span style="S4">I do believe that surveys</span>
+<br/>
+<span style="S4">like this are important.</span>
+</p>
+<p begin="00:25:01.840" end="00:25:05.280" region="agr_0_20_39_4_after" style="S2" xml:id="C370_1">
+<span style="S4">It can't just be relied</span>
+<br/>
+<span style="S4">on by the marine biologists</span>
+</p>
+<p begin="00:25:05.280" end="00:25:08.440" region="agr_0_20_39.5_4_after" style="S2" xml:id="C371_1">
+<span style="S4">to constantly come forth</span>
+<br/>
+<span style="S4">with records.</span>
+</p>
+<p begin="00:25:08.440" end="00:25:12.640" region="agr_3_20_37_4_after" style="S2" xml:id="C372_1">
+<span style="S4">If someone takes it upon themselves</span>
+<br/>
+<span style="S4">as a hobby to get a recording</span>
+</p>
+<p begin="00:25:12.640" end="00:25:14.920" region="agr_0_20_39_4_after" style="S2" xml:id="C373_1">
+<span style="S4">of things they can find</span>
+<br/>
+<span style="S4">on their local beaches,</span>
+</p>
+<p begin="00:25:14.920" end="00:25:18.520" region="agr_0_20_39.5_4_after" style="S2" xml:id="C374_1">
+<span style="S4">that can easily go into</span>
+<br/>
+<span style="S4">the databases that can be used</span>
+</p>
+<p begin="00:25:18.520" end="00:25:22.440" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C375_1">
+<span style="S4">very usefully by scientific teams</span>
+<br/>
+<span style="S4">that want to understand a little bit</span>
+</p>
+<p begin="00:25:22.440" end="00:25:24.320" region="R6" style="S2" xml:id="C376">
+<span style="S4">more about our coastlines.</span>
+</p>
+<p begin="00:25:25.840" end="00:25:28.480" region="agr_0_20_38.5_4_after" style="S2" xml:id="C377_1">
+<span style="S3">This group of young citizen</span>
+<br/>
+<span style="S3">scientists</span>
+</p>
+<p begin="00:25:28.480" end="00:25:30.600" region="R6" style="S2" xml:id="C378">
+<span style="S3">are making a real difference.</span>
+</p>
+<p begin="00:25:39.480" end="00:25:43.600" region="agr_1_20_39_4_after" style="S2" xml:id="C379_1">
+<span style="S3">Monitoring and recording wildlife</span>
+<br/>
+<span style="S3">offshore isn't as easy.</span>
+</p>
+<p begin="00:25:45.720" end="00:25:48.080" region="R6" style="S2" xml:id="C380">
+<span style="S3">Abersoch on the Llyn Peninsula.</span>
+</p>
+<p begin="00:25:48.080" end="00:25:50.440" region="R6" style="S2" xml:id="C381">
+<span style="S3">It's the height of summer.</span>
+</p>
+<p begin="00:25:52.280" end="00:25:56.600" region="R59" style="S2" xml:id="C382">
+<span style="S3">But for most visitors, what lies</span>
+<br/>
+<span style="S3">beneath the surface is a mystery.</span>
+</p>
+<p begin="00:25:56.600" end="00:25:58.440" region="R6" style="S2" xml:id="C383">
+<span style="S3">Often a revelation.</span>
+</p>
+<p begin="00:26:02.080" end="00:26:04.640" region="R6" style="S2" xml:id="C384">
+<span style="S3">From the tiny bobtail squid</span>
+</p>
+<p begin="00:26:04.640" end="00:26:08.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C385_1">
+<span style="S3">to sunken wrecks</span>
+<br/>
+<span style="S3">covered in corals and fish...</span>
+</p>
+<p begin="00:26:12.280" end="00:26:15.040" region="R6" style="S2" xml:id="C386">
+<span style="S3">..to over 40 species of shark.</span>
+</p>
+<p begin="00:26:15.040" end="00:26:19.840" region="agr_1_20_39_4_after" style="S2" xml:id="C387_1">
+<span style="S3">The sea around Wales is home to a</span>
+<br/>
+<span style="S3">rich diversity of life.</span>
+</p>
+<p begin="00:26:23.600" end="00:26:27.920" region="R23" style="S2" xml:id="C388">
+<span style="S3">Sharing these riches with everyone</span>
+<br/>
+<span style="S3">is essential to saving our oceans.</span>
+</p>
+<p begin="00:26:29.280" end="00:26:34.240" region="agr_4_1_36_4_after" style="S2" xml:id="C389_1">
+<span style="S3">Out on his dad's boat, one local lad</span>
+<br/>
+<span style="S3">is determined to do just that.</span>
+</p>
+<p begin="00:26:36.280" end="00:26:40.440" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C390_1">
+<span style="S3">Jake Davies is a young marine</span>
+<br/>
+<span style="S3">biologist who's harnessing the power</span>
+</p>
+<p begin="00:26:40.440" end="00:26:43.520" region="agr_0_20_39.5_4_after" style="S2" xml:id="C391_1">
+<span style="S3">of video and the internet</span>
+<br/>
+<span style="S3">to reach out to the world.</span>
+</p>
+<p begin="00:26:46.480" end="00:26:49.600" region="R59" style="S2" xml:id="C392">
+<span style="S4">Today we're deploying some baited</span>
+<br/>
+<span style="S4">remote underwater video systems,</span>
+</p>
+<p begin="00:26:49.600" end="00:26:51.040" region="R6" style="S2" xml:id="C393">
+<span style="S4">also known as Bruvs.</span>
+</p>
+<p begin="00:26:51.040" end="00:26:52.280" region="R6" style="S2" xml:id="C394">
+<span style="S4">So this is a simple design.</span>
+</p>
+<p begin="00:26:52.280" end="00:26:56.200" region="agr_1_20_39_4_after" style="S2" xml:id="C395_1">
+<span style="S4">It's an aluminium frame with some</span>
+<br/>
+<span style="S4">weights attached at the bottom.</span>
+</p>
+<p begin="00:26:56.200" end="00:26:58.760" region="R59" style="S2" xml:id="C396_1">
+<span style="S4">And then on the front, we've got</span>
+<br/>
+<span style="S4">a pole which holds the bait,</span>
+</p>
+<p begin="00:26:58.760" end="00:27:01.320" region="R6" style="S2" xml:id="C397">
+<span style="S4">which we use - often it's mackerel -</span>
+</p>
+<p begin="00:27:01.320" end="00:27:04.400" region="agr_0_20_39_4_after" style="S2" xml:id="C398_1">
+<span style="S4">and then a GoPro sits here,</span>
+<br/>
+<span style="S4">which is pointing towards it.</span>
+</p>
+<p begin="00:27:08.200" end="00:27:12.360" region="agr_3_20_37_4_after" style="S2" xml:id="C399_1">
+<span style="S3">Jake's Bruvs system lures in rarely</span>
+<br/>
+<span style="S3">seen creatures,</span>
+</p>
+<p begin="00:27:12.360" end="00:27:15.040" region="R6" style="S2" xml:id="C400">
+<span style="S3">which he then uses for research</span>
+</p>
+<p begin="00:27:15.040" end="00:27:17.640" region="R6" style="S2" xml:id="C401">
+<span style="S3">and also shares on social media.</span>
+</p>
+<p begin="00:27:19.480" end="00:27:22.040" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C402_1">
+<span style="S4">We leave it, and for about an hour,</span>
+<br/>
+<span style="S4">when you come back later</span>
+</p>
+<p begin="00:27:22.040" end="00:27:23.560" region="R6" style="S2" xml:id="C403">
+<span style="S4">and you review the footage,</span>
+</p>
+<p begin="00:27:23.560" end="00:27:26.080" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C404_1">
+<span style="S4">and then you can see what different</span>
+<br/>
+<span style="S4">species have come.</span>
+</p>
+<p begin="00:27:30.720" end="00:27:34.040" region="agr_0_20_38.5_4_after" style="S2" xml:id="C405_1">
+<span style="S3">People are particularly</span>
+<br/>
+<span style="S3">excited to see sharks.</span>
+</p>
+<p begin="00:27:36.080" end="00:27:39.040" region="R59" style="S2" xml:id="C406">
+<span style="S4">A lot of people don't really think</span>
+<br/>
+<span style="S4">that we have sharks off the Welsh</span>
+</p>
+<p begin="00:27:39.040" end="00:27:42.280" region="R59" style="S2" xml:id="C407_1">
+<span style="S4">coast, and all of them are</span>
+<br/>
+<span style="S4">completely harmless species.</span>
+</p>
+<p begin="00:27:42.280" end="00:27:45.080" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C408_1">
+<span style="S4">So last year I put one up with...</span>
+<br/>
+<span style="S4">which were two</span>
+</p>
+<p begin="00:27:45.080" end="00:27:46.560" region="R6" style="S2" xml:id="C409">
+<span style="S4">tope sharks swimming around.</span>
+</p>
+<p begin="00:27:46.560" end="00:27:49.040" region="agr_0_20_39.5_4_after" style="S2" xml:id="C410_1">
+<span style="S4">It went almost global</span>
+<br/>
+<span style="S4">because everyone was like,</span>
+</p>
+<p begin="00:27:49.040" end="00:27:51.280" region="agr_0_20_39.5_4_after" style="S2" xml:id="C411_1">
+<span style="S4">"This can't be the Welsh coast,"</span>
+<br/>
+<span style="S4">but it's like, it is.</span>
+</p>
+<p begin="00:27:51.280" end="00:27:54.200" region="R59" style="S2" xml:id="C412_1">
+<span style="S4">And the response to the fact</span>
+<br/>
+<span style="S4">that they didn't think</span>
+</p>
+<p begin="00:27:54.200" end="00:27:56.360" region="R59" style="S2" xml:id="C413_1">
+<span style="S4">sharks were there, but</span>
+<br/>
+<span style="S4">now...now they do.</span>
+</p>
+<p begin="00:27:57.840" end="00:28:00.640" region="agr_0_20_39_4_after" style="S2" xml:id="C414_1">
+<span style="S3">All filmed off the coast of</span>
+<br/>
+<span style="S3">Abersoch,</span>
+</p>
+<p begin="00:28:00.640" end="00:28:03.200" region="R6" style="S2" xml:id="C415">
+<span style="S3">Welsh marine life has gone large.</span>
+</p>
+<p begin="00:28:05.120" end="00:28:09.280" region="R59" style="S2" xml:id="C416_1">
+<span style="S3">Jake estimates his footage</span>
+<br/>
+<span style="S3">has been seen globally by tens</span>
+</p>
+<p begin="00:28:09.280" end="00:28:10.960" region="R6" style="S2" xml:id="C417">
+<span style="S3">of thousands of people.</span>
+</p>
+<p begin="00:28:13.040" end="00:28:17.120" region="agr_4_20_36_4_after" style="S2" xml:id="C418_1">
+<span style="S4">This gives us a bit more information</span>
+<br/>
+<span style="S4">and real-time footage that's</span>
+</p>
+<p begin="00:28:17.120" end="00:28:19.480" region="R59" style="S2" xml:id="C419_1">
+<span style="S4">really good for scientific</span>
+<br/>
+<span style="S4">uses, but also the footage</span>
+</p>
+<p begin="00:28:19.480" end="00:28:22.680" region="R23" style="S2" xml:id="C420_1">
+<span style="S4">is really powerful when shared</span>
+<br/>
+<span style="S4">on social media.</span>
+</p>
+<p begin="00:28:22.680" end="00:28:25.480" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C421_1">
+<span style="S4">People then get to see themselves</span>
+<br/>
+<span style="S4">what it's like down there.</span>
+</p>
+<p begin="00:28:25.480" end="00:28:28.840" region="agr_1.5_18_38.5_6_after" style="S2" xml:id="C422_1">
+<span style="S4">It gives them that appreciation of</span>
+<br/>
+<span style="S4">what they have on their own</span>
+<br/>
+<span style="S4">doorstep.</span>
+</p>
+<p begin="00:28:34.880" end="00:28:37.320" region="R6" style="S2" xml:id="C423">
+<span style="S3">With today's video footage captured,</span>
+</p>
+<p begin="00:28:37.320" end="00:28:40" region="R6" style="S2" xml:id="C424">
+<span style="S3">it's time to head back.</span>
+</p>
+<p begin="00:28:40" end="00:28:43.960" region="R59" style="S2" xml:id="C425_1">
+<span style="S3">Once home, it will be logged</span>
+<br/>
+<span style="S3">and shared with the world.</span>
+</p>
+<p begin="00:28:48.120" end="00:28:52.920" region="agr_3_20_37_4_after" style="S2" xml:id="C426_1">
+<span style="S3">While the coast of Wales is home to</span>
+<br/>
+<span style="S3">thousands of species of wildlife,</span>
+</p>
+<p begin="00:28:52.920" end="00:28:56.080" region="agr_0_20_39_4_after" style="S2" xml:id="C427_1">
+<span style="S3">some of our once-common</span>
+<br/>
+<span style="S3">creatures have disappeared.</span>
+</p>
+<p begin="00:28:57.720" end="00:29:01.840" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C428_1">
+<span style="S3">One of the most iconic and romantic</span>
+<br/>
+<span style="S3">is the seahorse.</span>
+</p>
+<p begin="00:29:04.040" end="00:29:08.320" region="R59" style="S2" xml:id="C429_1">
+<span style="S3">The last recorded sighting</span>
+<br/>
+<span style="S3">was in 2008,</span>
+</p>
+<p begin="00:29:08.320" end="00:29:11.880" region="agr_3_20_37_4_after" style="S2" xml:id="C430_1">
+<span style="S3">but there's one woman who's made it</span>
+<br/>
+<span style="S3">her life's work</span>
+</p>
+<p begin="00:29:11.880" end="00:29:15.640" region="agr_0_20_39.5_4_after" style="S2" xml:id="C431_1">
+<span style="S3">to bring this amazing creature</span>
+<br/>
+<span style="S3">back to Welsh waters.</span>
+</p>
+<p begin="00:29:19.520" end="00:29:25.040" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C432_1">
+<span style="S3">Frankie Hobro is the owner</span>
+<br/>
+<span style="S3">and director of Anglesey Sea Zoo,</span>
+</p>
+<p begin="00:29:25.040" end="00:29:28.800" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C433_1">
+<span style="S3">a small aquarium with a remarkable</span>
+<br/>
+<span style="S3">breeding programme.</span>
+</p>
+<p begin="00:29:30.840" end="00:29:35.440" region="R59" style="S2" xml:id="C434">
+<span style="S4">We are the only place that houses</span>
+<br/>
+<span style="S4">both species of British seahorse.</span>
+</p>
+<p begin="00:29:35.440" end="00:29:38.840" region="agr_4_20_36_4_after" style="S2" xml:id="C435_1">
+<span style="S4">There's Hippocampus hippocampus,</span>
+<br/>
+<span style="S4">which is the short-snouted seahorse,</span>
+</p>
+<p begin="00:29:38.840" end="00:29:41.960" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C436_1">
+<span style="S4">and there's Hippocampus guttulatus,</span>
+<br/>
+<span style="S4">which is also known as the spiny</span>
+</p>
+<p begin="00:29:41.960" end="00:29:44.720" region="R6" style="S2" xml:id="C437">
+<span style="S4">seahorse, which has these tendrils.</span>
+</p>
+<p begin="00:29:44.720" end="00:29:47.760" region="agr_3_20_37_4_after" style="S2" xml:id="C438_1">
+<span style="S4">Not only do we house them, we breed</span>
+<br/>
+<span style="S4">them on a conservation breeding</span>
+</p>
+<p begin="00:29:47.760" end="00:29:51.240" region="agr_4_20_36_4_after" style="S2" xml:id="C439_1">
+<span style="S4">programme with a view to</span>
+<br/>
+<span style="S4">rereleasing them back into the wild.</span>
+</p>
+<p begin="00:29:52.960" end="00:29:56.240" region="R59" style="S2" xml:id="C440">
+<span style="S4">So we homed some of the last wild</span>
+<br/>
+<span style="S4">caught short-snouted seahorses -</span>
+</p>
+<p begin="00:29:56.240" end="00:29:59.400" region="agr_0_20_39_4_after" style="S2" xml:id="C441_1">
+<span style="S4">Hippocampus hippocampus -</span>
+<br/>
+<span style="S4">here in 2008,</span>
+</p>
+<p begin="00:29:59.400" end="00:30:01.720" region="agr_0_20_39_4_after" style="S2" xml:id="C442_1">
+<span style="S4">and we started to try</span>
+<br/>
+<span style="S4">and breed them.</span>
+</p>
+<p begin="00:30:03.040" end="00:30:05.920" region="R6" style="S2" xml:id="C443">
+<span style="S3">This was easier said than done.</span>
+</p>
+<p begin="00:30:05.920" end="00:30:09.680" region="agr_0_20_39.5_4_after" style="S2" xml:id="C444_1">
+<span style="S3">Even keeping them in captivity</span>
+<br/>
+<span style="S3">is challenging,</span>
+</p>
+<p begin="00:30:09.680" end="00:30:13.040" region="R59" style="S2" xml:id="C445_1">
+<span style="S3">and no-one had successfully bred</span>
+<br/>
+<span style="S3">both species</span>
+</p>
+<p begin="00:30:13.040" end="00:30:15.720" region="R6" style="S2" xml:id="C446">
+<span style="S3">of the sensitive and fussy seahorse.</span>
+</p>
+<p begin="00:30:17.360" end="00:30:20.400" region="agr_0_20_38.5_4_after" style="S2" xml:id="C447_1">
+<span style="S4">The absolutely unique thing</span>
+<br/>
+<span style="S4">about it is the situation.</span>
+</p>
+<p begin="00:30:20.400" end="00:30:22.720" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C448_1">
+<span style="S4">It's where it is. Right on the edge</span>
+<br/>
+<span style="S4">of the Menai Strait,</span>
+</p>
+<p begin="00:30:22.720" end="00:30:25.240" region="agr_1_20_39_4_after" style="S2" xml:id="C449_1">
+<span style="S4">and the Menai Strait isn't just a</span>
+<br/>
+<span style="S4">normal body of water,</span>
+</p>
+<p begin="00:30:25.240" end="00:30:27.640" region="R59" style="S2" xml:id="C450_1">
+<span style="S4">it's a very, very fast flowing</span>
+<br/>
+<span style="S4">body of water.</span>
+</p>
+<p begin="00:30:27.640" end="00:30:32.680" region="agr_0_20_39.5_4_after" style="S2" xml:id="C451_1">
+<span style="S4">So we can pump from the sea to</span>
+<br/>
+<span style="S4">supply all the aquarium tanks</span>
+</p>
+<p begin="00:30:32.680" end="00:30:35.120" region="R6" style="S2" xml:id="C452">
+<span style="S4">and then put back out into the sea.</span>
+</p>
+<p begin="00:30:36.440" end="00:30:39.680" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C453_1">
+<span style="S4">It's as if they were in the sea,</span>
+<br/>
+<span style="S4">so they experience the seasonality,</span>
+</p>
+<p begin="00:30:39.680" end="00:30:43.640" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C454_1">
+<span style="S4">the temperature changes</span>
+<br/>
+<span style="S4">of the water, the plankton blooms.</span>
+</p>
+<p begin="00:30:43.640" end="00:30:46.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C455_1">
+<span style="S4">We also make sure they have</span>
+<br/>
+<span style="S4">the same day length.</span>
+</p>
+<p begin="00:30:46.680" end="00:30:50.720" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C456_1">
+<span style="S4">So we're able to see them exhibiting</span>
+<br/>
+<span style="S4">really comfortable behaviour,</span>
+</p>
+<p begin="00:30:50.720" end="00:30:54.320" region="agr_4_20_36_4_after" style="S2" xml:id="C457_1">
+<span style="S4">really natural behaviour, and that's</span>
+<br/>
+<span style="S4">when you get really happy animals.</span>
+</p>
+<p begin="00:30:54.320" end="00:30:55.840" region="R6" style="S2" xml:id="C458">
+<span style="S4">That's when the animals breed,</span>
+</p>
+<p begin="00:30:55.840" end="00:31:00.240" region="agr_4_20_36_4_after" style="S2" xml:id="C459_1">
+<span style="S4">and that's how we can successfully</span>
+<br/>
+<span style="S4">breed and rerelease animals as well.</span>
+</p>
+<p begin="00:31:02.600" end="00:31:04.280" region="R6" style="S2" xml:id="C460">
+<span style="S3">During the breeding season,</span>
+</p>
+<p begin="00:31:04.280" end="00:31:07.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C461_1">
+<span style="S3">the pairs conducts daily</span>
+<br/>
+<span style="S3">courtship dances.</span>
+</p>
+<p begin="00:31:10.640" end="00:31:13.160" region="agr_0_20_38.5_4_after" style="S2" xml:id="C462_1">
+<span style="S4">The bloke has the babies,</span>
+<br/>
+<span style="S4">which is just, you know,</span>
+</p>
+<p begin="00:31:13.160" end="00:31:14.480" region="R6" style="S2" xml:id="C463">
+<span style="S4">it's so out there.</span>
+</p>
+<p begin="00:31:14.480" end="00:31:16.320" region="R6" style="S2" xml:id="C464">
+<span style="S4">I mean, it's fantastic, really,</span>
+</p>
+<p begin="00:31:16.320" end="00:31:20.320" region="agr_0_20_39.5_4_after" style="S2" xml:id="C465_1">
+<span style="S4">but it's also incredibly clever,</span>
+<br/>
+<span style="S4">biologically.</span>
+</p>
+<p begin="00:31:20.320" end="00:31:23.080" region="agr_0_20_39_4_after" style="S2" xml:id="C466_1">
+<span style="S4">He presents his pouch as part</span>
+<br/>
+<span style="S4">of this mating display.</span>
+</p>
+<p begin="00:31:25.320" end="00:31:28.640" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C467_1">
+<span style="S4">And once he has the eggs</span>
+<br/>
+<span style="S4">in his pouch, he fertilises them.</span>
+</p>
+<p begin="00:31:28.640" end="00:31:32.800" region="agr_4_20_36_4_after" style="S2" xml:id="C468_1">
+<span style="S4">They basically develop for several</span>
+<br/>
+<span style="S4">weeks, and then they hatch as actual</span>
+</p>
+<p begin="00:31:32.800" end="00:31:34.760" region="R6" style="S2" xml:id="C469">
+<span style="S4">little tiny fry, little seahorses.</span>
+</p>
+<p begin="00:31:34.760" end="00:31:37.040" region="R6" style="S2" xml:id="C470">
+<span style="S4">So he has proper contractions.</span>
+</p>
+<p begin="00:31:37.040" end="00:31:39.920" region="agr_0_20_39_4_after" style="S2" xml:id="C471_1">
+<span style="S4">They can carry anything</span>
+<br/>
+<span style="S4">between 200, even 400</span>
+</p>
+<p begin="00:31:39.920" end="00:31:42.880" region="R59" style="S2" xml:id="C472_1">
+<span style="S4">of these tiny, tiny fry. So this</span>
+<br/>
+<span style="S4">poor man is really, really big</span>
+</p>
+<p begin="00:31:42.880" end="00:31:44.560" region="R6" style="S2" xml:id="C473">
+<span style="S4">by the time he gives birth.</span>
+</p>
+<p begin="00:31:46.920" end="00:31:50.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C474_1">
+<span style="S3">Within a week, the male</span>
+<br/>
+<span style="S3">can fall pregnant again.</span>
+</p>
+<p begin="00:31:51.560" end="00:31:53.880" region="R6" style="S2" xml:id="C475">
+<span style="S3">An essential reproductive strategy.</span>
+</p>
+<p begin="00:31:55.280" end="00:31:59.160" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C476_1">
+<span style="S3">Each year, only two fry per couple</span>
+<br/>
+<span style="S3">make it to adulthood.</span>
+</p>
+<p begin="00:32:01.920" end="00:32:05.760" region="agr_2_20_38_4_after" style="S2" xml:id="C477_1">
+<span style="S3">It took Frankie nearly three years</span>
+<br/>
+<span style="S3">before her captive pairs</span>
+</p>
+<p begin="00:32:05.760" end="00:32:07.440" region="R6" style="S2" xml:id="C478">
+<span style="S3">finally produced young.</span>
+</p>
+<p begin="00:32:11.160" end="00:32:14.400" region="agr_3_20_37_4_after" style="S2" xml:id="C479_1">
+<span style="S4">I think what I love about seahorses</span>
+<br/>
+<span style="S4">is that everything about them</span>
+</p>
+<p begin="00:32:14.400" end="00:32:17.920" region="agr_0_20_39.5_4_after" style="S2" xml:id="C480_1">
+<span style="S4">is quirky, so just the fact</span>
+<br/>
+<span style="S4">that they're really bad swimmers</span>
+</p>
+<p begin="00:32:17.920" end="00:32:20.040" region="agr_1_20_39_4_after" style="S2" xml:id="C481_1">
+<span style="S4">and they kind of just like to sit</span>
+<br/>
+<span style="S4">around a lot,</span>
+</p>
+<p begin="00:32:20.040" end="00:32:21.920" region="R6" style="S2" xml:id="C482">
+<span style="S4">but when they feed it's incredible.</span>
+</p>
+<p begin="00:32:21.920" end="00:32:24.680" region="agr_4_20_36_4_after" style="S2" xml:id="C483_1">
+<span style="S4">So they have the eyes are completely</span>
+<br/>
+<span style="S4">independent of each other,</span>
+</p>
+<p begin="00:32:24.680" end="00:32:27" region="agr_0_20_39.5_4_after" style="S2" xml:id="C484_1">
+<span style="S4">and they spend several seconds</span>
+<br/>
+<span style="S4">focusing.</span>
+</p>
+<p begin="00:32:27" end="00:32:30.080" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C485_1">
+<span style="S4">And when they focus, you can</span>
+<br/>
+<span style="S4">literally sometimes hear them click</span>
+</p>
+<p begin="00:32:30.080" end="00:32:31.920" region="R6" style="S2" xml:id="C486">
+<span style="S4">as they snap the food up.</span>
+</p>
+<p begin="00:32:36.480" end="00:32:39.840" region="R59" style="S2" xml:id="C487">
+<span style="S4">And they have to constantly feed,</span>
+<br/>
+<span style="S4">which is one of the reasons why,</span>
+</p>
+<p begin="00:32:39.840" end="00:32:43.200" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C488_1">
+<span style="S4">when you keep them in captivity,</span>
+<br/>
+<span style="S4">they need a lot of extra husbandry,</span>
+</p>
+<p begin="00:32:43.200" end="00:32:47" region="agr_0_20_39.5_4_after" style="S2" xml:id="C489_1">
+<span style="S4">a lot of particular foods,</span>
+<br/>
+<span style="S4">live food constantly.</span>
+</p>
+<p begin="00:32:47" end="00:32:49.680" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C490_1">
+<span style="S4">And in the meantime,</span>
+<br/>
+<span style="S4">they're becoming more and more rare</span>
+</p>
+<p begin="00:32:49.680" end="00:32:51.200" region="R6" style="S2" xml:id="C491">
+<span style="S4">everywhere in the UK.</span>
+</p>
+<p begin="00:32:52.560" end="00:32:55.680" region="agr_0_20_39_4_after" style="S2" xml:id="C492_1">
+<span style="S3">So the race is on to return the</span>
+<br/>
+<span style="S3">seahorses</span>
+</p>
+<p begin="00:32:55.680" end="00:32:58" region="R6" style="S2" xml:id="C493">
+<span style="S3">successfully into the wild.</span>
+</p>
+<p begin="00:32:58" end="00:33:01.680" region="R59" style="S2" xml:id="C494_1">
+<span style="S3">Frankie is getting closer,</span>
+<br/>
+<span style="S3">and when she does succeed,</span>
+</p>
+<p begin="00:33:01.680" end="00:33:04.360" region="R6" style="S2" xml:id="C495">
+<span style="S3">it will be a world-first for Wales.</span>
+</p>
+<p begin="00:33:05.880" end="00:33:10.160" region="R59" style="S2" xml:id="C496">
+<span style="S4">That would be a dream if in sort</span>
+<br/>
+<span style="S4">of 20 years' time, we're looking</span>
+</p>
+<p begin="00:33:10.160" end="00:33:13.760" region="agr_0_20_39.5_4_after" style="S2" xml:id="C497_1">
+<span style="S4">at having seahorse populations</span>
+<br/>
+<span style="S4">re-established and successful</span>
+</p>
+<p begin="00:33:13.760" end="00:33:16.560" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C498_1">
+<span style="S4">on their own, back in some</span>
+<br/>
+<span style="S4">of the coastal areas around Wales</span>
+</p>
+<p begin="00:33:16.560" end="00:33:19.520" region="R59" style="S2" xml:id="C499">
+<span style="S4">and other parts of the UK. I mean,</span>
+<br/>
+<span style="S4">that would be absolutely fantastic.</span>
+</p>
+<p begin="00:33:19.520" end="00:33:20.880" region="R6" style="S2" xml:id="C500">
+<span style="S4">And I mean, the fishermen,</span>
+</p>
+<p begin="00:33:20.880" end="00:33:23.080" region="R59" style="S2" xml:id="C501_1">
+<span style="S4">everybody, I think, would love</span>
+<br/>
+<span style="S4">to see that.</span>
+</p>
+<p begin="00:33:27.200" end="00:33:31.640" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C502_1">
+<span style="S3">For seahorses to be successfully</span>
+<br/>
+<span style="S3">released into the wild, there needs</span>
+</p>
+<p begin="00:33:31.640" end="00:33:35.440" region="R59" style="S2" xml:id="C503_1">
+<span style="S3">to be healthy and pollution-free</span>
+<br/>
+<span style="S3">habitats waiting for them.</span>
+</p>
+<p begin="00:33:38.400" end="00:33:43.080" region="R59" style="S2" xml:id="C504_1">
+<span style="S3">Wales is a world leader in</span>
+<br/>
+<span style="S3">clean-up conservation.</span>
+</p>
+<p begin="00:33:43.080" end="00:33:48.080" region="R59" style="S2" xml:id="C505_1">
+<span style="S3">Our beaches are among the safest</span>
+<br/>
+<span style="S3">and cleanest in the world.</span>
+</p>
+<p begin="00:33:48.080" end="00:33:49.800" region="R6" style="S2" xml:id="C506">
+<span style="S3">This is Newgale,</span>
+</p>
+<p begin="00:33:49.800" end="00:33:52.480" region="R6" style="S2" xml:id="C507">
+<span style="S3">one of Wales' 14 blue flag beaches,</span>
+</p>
+<p begin="00:33:52.480" end="00:33:55.560" region="agr_0_20_38.5_4_after" style="S2" xml:id="C508_1">
+<span style="S3">the gold standard in clean-up</span>
+<br/>
+<span style="S3">conservation</span>
+</p>
+<p begin="00:33:55.560" end="00:33:57.720" region="R6" style="S2" xml:id="C509">
+<span style="S3">and excellent water quality.</span>
+</p>
+<p begin="00:33:58.760" end="00:34:02.880" region="agr_0_20_38.5_4_after" style="S2" xml:id="C510_1">
+<span style="S3">But even the most litter-free</span>
+<br/>
+<span style="S3">of beaches</span>
+</p>
+<p begin="00:34:02.880" end="00:34:04.960" region="R6" style="S2" xml:id="C511">
+<span style="S3">can be easily spoilt</span>
+</p>
+<p begin="00:34:04.960" end="00:34:08.280" region="R59" style="S2" xml:id="C512_1">
+<span style="S3">when the main threat comes</span>
+<br/>
+<span style="S3">from rubbish that is washed in</span>
+</p>
+<p begin="00:34:08.280" end="00:34:10.880" region="R6" style="S2" xml:id="C513">
+<span style="S3">from the sea itself.</span>
+</p>
+<p begin="00:34:12.560" end="00:34:17.640" region="agr_0_20_39.5_4_after" style="S2" xml:id="C514_1">
+<span style="S3">As much as 12 million tonnes</span>
+<br/>
+<span style="S3">of plastic alone are dumped</span>
+</p>
+<p begin="00:34:17.640" end="00:34:22.360" region="agr_4_20_36_4_after" style="S2" xml:id="C515_1">
+<span style="S3">in the planet's oceans every year,</span>
+<br/>
+<span style="S3">and the threat that poses to animals</span>
+</p>
+<p begin="00:34:22.360" end="00:34:24.840" region="R6" style="S2" xml:id="C516">
+<span style="S3">and humans is utterly devastating.</span>
+</p>
+<p begin="00:34:26.360" end="00:34:28.680" region="R6" style="S2" xml:id="C517">
+<span style="S3">That may be hard to comprehend</span>
+</p>
+<p begin="00:34:28.680" end="00:34:32.800" region="R59" style="S2" xml:id="C518_1">
+<span style="S3">when you're standing on pristine</span>
+<br/>
+<span style="S3">sands like this.</span>
+</p>
+<p begin="00:34:34.040" end="00:34:38.040" region="R59" style="S2" xml:id="C519_1">
+<span style="S3">But believe me, out there,</span>
+<br/>
+<span style="S3">under the water,</span>
+</p>
+<p begin="00:34:38.040" end="00:34:40.680" region="R6" style="S2" xml:id="C520">
+<span style="S3">things are not always so pretty.</span>
+</p>
+<p begin="00:34:43.680" end="00:34:47.680" region="agr_2_20_38_4_after" style="S2" xml:id="C521_1">
+<span style="S3">One remarkable group of volunteers</span>
+<br/>
+<span style="S3">based in Pembrokeshire</span>
+</p>
+<p begin="00:34:47.680" end="00:34:49.680" region="R6" style="S2" xml:id="C522">
+<span style="S3">is making a real difference.</span>
+</p>
+<p begin="00:34:50.800" end="00:34:54.480" region="R59" style="S2" xml:id="C523">
+<span style="S5">When I was younger, I got involved</span>
+<br/>
+<span style="S5">with, like, local beach clean-ups,</span>
+</p>
+<p begin="00:34:54.480" end="00:34:58.880" region="R59" style="S2" xml:id="C524">
+<span style="S5">and as a scuba diver then, I became</span>
+<br/>
+<span style="S5">more aware of litter on the seabed.</span>
+</p>
+<p begin="00:35:00.240" end="00:35:02.120" region="R6" style="S2" xml:id="C525">
+<span style="S3">David Kennard is the founder</span>
+</p>
+<p begin="00:35:02.120" end="00:35:04.560" region="agr_0_20_39.5_4_after" style="S2" xml:id="C526_1">
+<span style="S3">of Neptune's Army</span>
+<br/>
+<span style="S3">of Rubbish Cleaners,</span>
+</p>
+<p begin="00:35:04.560" end="00:35:06.920" region="R6" style="S2" xml:id="C527">
+<span style="S3">shortened to NARC.</span>
+</p>
+<p begin="00:35:06.920" end="00:35:10.400" region="R6" style="S2" xml:id="C528">
+<span style="S5">NARC is a scuba diving group</span>
+</p>
+<p begin="00:35:10.400" end="00:35:13.240" region="R6" style="S2" xml:id="C529">
+<span style="S5">who perform underwater litter picks.</span>
+</p>
+<p begin="00:35:15.440" end="00:35:19.320" region="agr_0_20_39.5_4_after" style="S2" xml:id="C530_1">
+<span style="S5">I thought now's a good time</span>
+<br/>
+<span style="S5">to make a difference and try</span>
+</p>
+<p begin="00:35:19.320" end="00:35:22.640" region="agr_4_20_36_4_after" style="S2" xml:id="C531_1">
+<span style="S5">and find other people who want to be</span>
+<br/>
+<span style="S5">part of that difference as well.</span>
+</p>
+<p begin="00:35:24.160" end="00:35:27.040" region="R6" style="S2" xml:id="C532">
+<span style="S5">We have a very good volunteer base.</span>
+</p>
+<p begin="00:35:28.320" end="00:35:33.080" region="agr_1_20_39_4_after" style="S2" xml:id="C533_1">
+<span style="S5">We have somewhere between mid-20s</span>
+<br/>
+<span style="S5">to 30 volunteers.</span>
+</p>
+<p begin="00:35:33.080" end="00:35:36.800" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C534_1">
+<span style="S5">God, we've got all sorts!</span>
+<br/>
+<span style="S5">Well, for instance, I'm a plumber.</span>
+</p>
+<p begin="00:35:36.800" end="00:35:38.720" region="R6" style="S2" xml:id="C535">
+<span style="S5">We've got people who are builders,</span>
+</p>
+<p begin="00:35:38.720" end="00:35:43.720" region="agr_1_20_39_4_after" style="S2" xml:id="C536_1">
+<span style="S5">we've got people who are doctors,</span>
+<br/>
+<span style="S5">nurses, taxi drivers.</span>
+</p>
+<p begin="00:35:43.720" end="00:35:47.520" region="R59" style="S2" xml:id="C537_1">
+<span style="S5">There's all sorts, you know.</span>
+<br/>
+<span style="S5">It's like...it works on passion.</span>
+</p>
+<p begin="00:35:54.120" end="00:35:56.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C538_1">
+<span style="S5">I mean, to dive in UK waters,</span>
+<br/>
+<span style="S5">they say if you can dive here,</span>
+</p>
+<p begin="00:35:56.720" end="00:35:59.880" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C539_1">
+<span style="S5">you can dive anywhere in the world.</span>
+<br/>
+<span style="S5">You know, sometimes we're diving</span>
+</p>
+<p begin="00:35:59.880" end="00:36:03.560" region="agr_1_20_39_4_after" style="S2" xml:id="C540_1">
+<span style="S5">in visibility with about a metre,</span>
+<br/>
+<span style="S5">a metre and a half.</span>
+</p>
+<p begin="00:36:04.760" end="00:36:08.280" region="agr_0_20_38.5_4_after" style="S2" xml:id="C541_1">
+<span style="S5">It's like as if you're swimming</span>
+<br/>
+<span style="S5">around in Bisto!</span>
+</p>
+<p begin="00:36:08.280" end="00:36:13.080" region="agr_0_20_39_4_after" style="S2" xml:id="C542_1">
+<span style="S5">Other gravy manufacturers</span>
+<br/>
+<span style="S5">exist as well, um, obviously!</span>
+</p>
+<p begin="00:36:13.080" end="00:36:16" region="agr_0_20_39.5_4_after" style="S2" xml:id="C543_1">
+<span style="S3">Over the years,</span>
+<br/>
+<span style="S3">David and the team have come</span>
+</p>
+<p begin="00:36:16" end="00:36:19.080" region="R6" style="S2" xml:id="C544">
+<span style="S3">across some extraordinary finds.</span>
+</p>
+<p begin="00:36:19.080" end="00:36:21.560" region="agr_0_20_38.5_4_after" style="S2" xml:id="C545_1">
+<span style="S5">The rubbish that we would</span>
+<br/>
+<span style="S5">find on the seabed</span>
+</p>
+<p begin="00:36:21.560" end="00:36:23.120" region="R6" style="S2" xml:id="C546">
+<span style="S5">can range from anything.</span>
+</p>
+<p begin="00:36:23.120" end="00:36:25.960" region="R6" style="S2" xml:id="C547">
+<span style="S5">You know, we had clotheslines,</span>
+</p>
+<p begin="00:36:25.960" end="00:36:28.560" region="R6" style="S2" xml:id="C548">
+<span style="S5">lawnmowers,</span>
+</p>
+<p begin="00:36:28.560" end="00:36:31.320" region="R6" style="S2" xml:id="C549">
+<span style="S5">push bikes, skateboards,</span>
+</p>
+<p begin="00:36:31.320" end="00:36:32.680" region="R6" style="S2" xml:id="C550">
+<span style="S5">loads of stuff.</span>
+</p>
+<p begin="00:36:32.680" end="00:36:36.960" region="R59" style="S2" xml:id="C551_1">
+<span style="S5">A few years back, we found a car</span>
+<br/>
+<span style="S5">sat upright on the seabed.</span>
+</p>
+<p begin="00:36:38.760" end="00:36:42.920" region="agr_0_20_39.5_4_after" style="S2" xml:id="C552_1">
+<span style="S3">The NARC team also works</span>
+<br/>
+<span style="S3">with local fishermen.</span>
+</p>
+<p begin="00:36:42.920" end="00:36:47.720" region="R59" style="S2" xml:id="C553_1">
+<span style="S3">Today, they're retrieving lost</span>
+<br/>
+<span style="S3">lobster pots and fishing nets.</span>
+</p>
+<p begin="00:36:47.720" end="00:36:49.600" region="R6" style="S2" xml:id="C554">
+<span style="S5">Ghost fishing, uh,</span>
+</p>
+<p begin="00:36:49.600" end="00:36:55.160" region="agr_0_20_38.5_4_after" style="S2" xml:id="C555_1">
+<span style="S5">this involves lost commercial</span>
+<br/>
+<span style="S5">fishing equipment.</span>
+</p>
+<p begin="00:36:55.160" end="00:37:02.280" region="agr_2_20_38_4_after" style="S2" xml:id="C556_1">
+<span style="S5">This globally makes up for 640,000</span>
+<br/>
+<span style="S5">tonnes of marine litter.</span>
+</p>
+<p begin="00:37:04" end="00:37:09.400" region="R59" style="S2" xml:id="C557_1">
+<span style="S5">There's also lost equipment with</span>
+<br/>
+<span style="S5">fish inside.</span>
+</p>
+<p begin="00:37:09.400" end="00:37:12.920" region="R59" style="S2" xml:id="C558_1">
+<span style="S5">The fish will eat each other</span>
+<br/>
+<span style="S5">one by one</span>
+</p>
+<p begin="00:37:12.920" end="00:37:15" region="R6" style="S2" xml:id="C559">
+<span style="S5">or will starve and so on,</span>
+</p>
+<p begin="00:37:15" end="00:37:19.160" region="agr_0_20_39.5_4_after" style="S2" xml:id="C560_1">
+<span style="S5">and then the last one</span>
+<br/>
+<span style="S5">that would be in the pot</span>
+</p>
+<p begin="00:37:19.160" end="00:37:22.040" region="R6" style="S2" xml:id="C561">
+<span style="S5">would then die of starvation</span>
+</p>
+<p begin="00:37:22.040" end="00:37:24.960" region="R6" style="S2" xml:id="C562">
+<span style="S5">and then would act as new bait</span>
+</p>
+<p begin="00:37:24.960" end="00:37:28" region="agr_0_20_39.5_4_after" style="S2" xml:id="C563_1">
+<span style="S5">in that pot to attract more fish</span>
+<br/>
+<span style="S5">to go in.</span>
+</p>
+<p begin="00:37:34.040" end="00:37:37.640" region="agr_0_20_39_4_after" style="S2" xml:id="C564_1">
+<span style="S3">The pots are returned</span>
+<br/>
+<span style="S3">to the surface before they head</span>
+</p>
+<p begin="00:37:37.640" end="00:37:41.680" region="R59" style="S2" xml:id="C565_1">
+<span style="S3">to a sea angling site, often</span>
+<br/>
+<span style="S3">littered with fishing lines.</span>
+</p>
+<p begin="00:37:44.600" end="00:37:48.880" region="agr_0_20_39.5_4_after" style="S2" xml:id="C566_1">
+<span style="S5">The monofilament line is</span>
+<br/>
+<span style="S5">always the issue.</span>
+</p>
+<p begin="00:37:48.880" end="00:37:53.960" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C567_1">
+<span style="S5">The biggest threat with that is</span>
+<br/>
+<span style="S5">that it takes so long to biodegrade.</span>
+</p>
+<p begin="00:37:53.960" end="00:37:56.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C568_1">
+<span style="S5">You know, you're looking at</span>
+<br/>
+<span style="S5">600 years.</span>
+</p>
+<p begin="00:37:56.200" end="00:38:00.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C569_1">
+<span style="S5">Because it's out of sight</span>
+<br/>
+<span style="S5">for us as divers and people,</span>
+</p>
+<p begin="00:38:00.720" end="00:38:04.320" region="agr_0_20_38.5_4_after" style="S2" xml:id="C570_1">
+<span style="S5">it's also an issue for fish</span>
+<br/>
+<span style="S5">as well.</span>
+</p>
+<p begin="00:38:04.320" end="00:38:07.200" region="R59" style="S2" xml:id="C571_1">
+<span style="S5">I mean, the lure is still there.</span>
+<br/>
+<span style="S5">It's still active.</span>
+</p>
+<p begin="00:38:07.200" end="00:38:11.200" region="agr_4_20_36_4_after" style="S2" xml:id="C572_1">
+<span style="S5">You know, if it's shimmering</span>
+<br/>
+<span style="S5">in the sun, the fish sees it as prey</span>
+</p>
+<p begin="00:38:11.200" end="00:38:13.640" region="agr_0_20_38.5_4_after" style="S2" xml:id="C573_1">
+<span style="S5">and something to go for</span>
+<br/>
+<span style="S5">so it goes for it.</span>
+</p>
+<p begin="00:38:13.640" end="00:38:18.200" region="R59" style="S2" xml:id="C574">
+<span style="S5">Or the other thing that is just</span>
+<br/>
+<span style="S5">as bad as that could be a crab</span>
+</p>
+<p begin="00:38:18.200" end="00:38:23.800" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C575_1">
+<span style="S5">or a lobster that has basically</span>
+<br/>
+<span style="S5">entwined itself and wrapped itself</span>
+</p>
+<p begin="00:38:23.800" end="00:38:26.480" region="agr_0_20_38.5_4_after" style="S2" xml:id="C576_1">
+<span style="S5">continuously</span>
+<br/>
+<span style="S5">in the monofilament line.</span>
+</p>
+<p begin="00:38:26.480" end="00:38:29.320" region="agr_0_20_39_4_after" style="S2" xml:id="C577_1">
+<span style="S5">So then we're spending a while,</span>
+<br/>
+<span style="S5">then,</span>
+</p>
+<p begin="00:38:29.320" end="00:38:34.720" region="R59" style="S2" xml:id="C578">
+<span style="S5">trying to cut off all the line so</span>
+<br/>
+<span style="S5">as to not damage any of its limbs.</span>
+</p>
+<p begin="00:38:40.840" end="00:38:44.360" region="R6" style="S2" xml:id="C579">
+<span style="S5">We go out and retrieve and rescue</span>
+</p>
+<p begin="00:38:44.360" end="00:38:46.800" region="R6" style="S2" xml:id="C580">
+<span style="S5">as much wildlife as we can.</span>
+</p>
+<p begin="00:38:55.840" end="00:39:01.160" region="agr_1_20_39_4_after" style="S2" xml:id="C581_1">
+<span style="S3">By far the biggest threat</span>
+<br/>
+<span style="S3">to the ocean habitat is plastics.</span>
+</p>
+<p begin="00:39:01.160" end="00:39:03.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C582_1">
+<span style="S3">More plastic is discarded</span>
+<br/>
+<span style="S3">into the ocean</span>
+</p>
+<p begin="00:39:03.680" end="00:39:05.760" region="R6" style="S2" xml:id="C583">
+<span style="S3">than any other type of litter.</span>
+</p>
+<p begin="00:39:07.200" end="00:39:11.400" region="agr_0_20_39.5_4_after" style="S2" xml:id="C584_1">
+<span style="S5">If the scientists are right,</span>
+<br/>
+<span style="S5">by the time we get to 2048,</span>
+</p>
+<p begin="00:39:11.400" end="00:39:13.320" region="agr_0_20_38.5_4_after" style="S2" xml:id="C585_1">
+<span style="S5">they're predicting there'll</span>
+<br/>
+<span style="S5">be more plastics</span>
+</p>
+<p begin="00:39:13.320" end="00:39:15.400" region="R6" style="S2" xml:id="C586">
+<span style="S5">in the sea than fish.</span>
+</p>
+<p begin="00:39:15.400" end="00:39:19.400" region="agr_0_20_39_4_after" style="S2" xml:id="C587_1">
+<span style="S5">I would love to think that NARC</span>
+<br/>
+<span style="S5">could be something positive</span>
+</p>
+<p begin="00:39:19.400" end="00:39:22.520" region="R6" style="S2" xml:id="C588">
+<span style="S5">and that could postpone that,</span>
+</p>
+<p begin="00:39:22.520" end="00:39:24.840" region="R6" style="S2" xml:id="C589">
+<span style="S5">or make it that it's not the case.</span>
+</p>
+<p begin="00:39:26.400" end="00:39:31.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C590_1">
+<span style="S5">It's great to be amongst</span>
+<br/>
+<span style="S5">a great...great group of people</span>
+</p>
+<p begin="00:39:31.200" end="00:39:35.240" region="agr_3_20_37_4_after" style="S2" xml:id="C591_1">
+<span style="S5">who are equally as passionate about</span>
+<br/>
+<span style="S5">protecting our seas and looking</span>
+</p>
+<p begin="00:39:35.240" end="00:39:37.560" region="R6" style="S2" xml:id="C592">
+<span style="S5">after our wildlife and so on,</span>
+</p>
+<p begin="00:39:37.560" end="00:39:40.280" region="R6" style="S2" xml:id="C593">
+<span style="S5">so that's a great feeling.</span>
+</p>
+<p begin="00:39:41.440" end="00:39:43.120" region="R6" style="S2" xml:id="C594">
+<span style="S5">That's a great feeling.</span>
+</p>
+<p begin="00:39:45.800" end="00:39:49.040" region="agr_0_20_38.5_4_after" style="S2" xml:id="C595_1">
+<span style="S3">Plastics aren't just a threat</span>
+<br/>
+<span style="S3">to the marine environment,</span>
+</p>
+<p begin="00:39:49.040" end="00:39:51.600" region="R6" style="S2" xml:id="C596">
+<span style="S3">they're also damaging human health</span>
+</p>
+<p begin="00:39:51.600" end="00:39:56.080" region="R59" style="S2" xml:id="C597_1">
+<span style="S3">and play a major impact in the</span>
+<br/>
+<span style="S3">biggest threat facing mankind.</span>
+</p>
+<p begin="00:39:56.080" end="00:39:57.560" region="R6" style="S2" xml:id="C598">
+<span style="S3">Climate change.</span>
+</p>
+<p begin="00:39:58.920" end="00:40:03.120" region="agr_0_20_39_4_after" style="S2" xml:id="C599_1">
+<span style="S3">Sian Sykes from Anglesey is a</span>
+<br/>
+<span style="S3">stand-up paddle boarder</span>
+</p>
+<p begin="00:40:03.120" end="00:40:06.440" region="R59" style="S2" xml:id="C600_1">
+<span style="S3">and campaigner</span>
+<br/>
+<span style="S3">against single-use plastics.</span>
+</p>
+<p begin="00:40:07.560" end="00:40:11.440" region="agr_0_20_38.5_4_after" style="S2" xml:id="C601_1">
+<span style="S4">We're so fortunate to have such</span>
+<br/>
+<span style="S4">a beautiful coastline.</span>
+</p>
+<p begin="00:40:11.440" end="00:40:13" region="R6" style="S2" xml:id="C602">
+<span style="S4">It's resilient.</span>
+</p>
+<p begin="00:40:13" end="00:40:17.560" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C603_1">
+<span style="S4">The tide comes in twice a day</span>
+<br/>
+<span style="S4">and it feels like a new beginning,</span>
+</p>
+<p begin="00:40:17.560" end="00:40:19.840" region="R6" style="S2" xml:id="C604">
+<span style="S4">but we're taking advantage of it.</span>
+</p>
+<p begin="00:40:19.840" end="00:40:21.480" region="R6" style="S2" xml:id="C605">
+<span style="S4">We're polluting it.</span>
+</p>
+<p begin="00:40:21.480" end="00:40:23" region="R6" style="S2" xml:id="C606">
+<span style="S4">We're not being kind to it.</span>
+</p>
+<p begin="00:40:23" end="00:40:26.600" region="agr_3_20_37_4_after" style="S2" xml:id="C607_1">
+<span style="S4">When I see plastic bottles floating</span>
+<br/>
+<span style="S4">on the ocean,</span>
+</p>
+<p begin="00:40:26.600" end="00:40:31.160" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C608_1">
+<span style="S4">it just breaks my heart that it's</span>
+<br/>
+<span style="S4">us humans having an impact</span>
+</p>
+<p begin="00:40:31.160" end="00:40:34.120" region="R59" style="S2" xml:id="C609_1">
+<span style="S4">on this beautiful, beautiful</span>
+<br/>
+<span style="S4">environment.</span>
+</p>
+<p begin="00:40:36.400" end="00:40:40.760" region="R59" style="S2" xml:id="C610">
+<span style="S3">To highlight the plastics issue,</span>
+<br/>
+<span style="S3">Sian undertook a record-breaking</span>
+</p>
+<p begin="00:40:40.760" end="00:40:44.400" region="R59" style="S2" xml:id="C611_1">
+<span style="S3">circumnavigation of Wales on her</span>
+<br/>
+<span style="S3">paddleboard.</span>
+</p>
+<p begin="00:40:44.400" end="00:40:49.040" region="agr_0_20_39_4_after" style="S2" xml:id="C612_1">
+<span style="S3">A 1,000-kilometre journey</span>
+<br/>
+<span style="S3">over 60 days.</span>
+</p>
+<p begin="00:40:49.040" end="00:40:54" region="agr_3_20_37_4_after" style="S2" xml:id="C613_1">
+<span style="S3">Anglesey was awarded the UK's first</span>
+<br/>
+<span style="S3">plastic-free status</span>
+</p>
+<p begin="00:40:54" end="00:40:58.360" region="R59" style="S2" xml:id="C614_1">
+<span style="S3">thanks to her campaign, with a</span>
+<br/>
+<span style="S3">drop in single-use plastics.</span>
+</p>
+<p begin="00:41:00.840" end="00:41:05.080" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C615_1">
+<span style="S4">The general public think plastics</span>
+<br/>
+<span style="S4">is litter that somebody's just</span>
+</p>
+<p begin="00:41:05.080" end="00:41:08.520" region="agr_0_20_39.5_4_after" style="S2" xml:id="C616_1">
+<span style="S4">dropped this in the street,</span>
+<br/>
+<span style="S4">but it's a lot more than that.</span>
+</p>
+<p begin="00:41:08.520" end="00:41:11.120" region="agr_0_20_39.5_4_after" style="S2" xml:id="C617_1">
+<span style="S4">When the plastics end up</span>
+<br/>
+<span style="S4">in the ocean,</span>
+</p>
+<p begin="00:41:11.120" end="00:41:14.320" region="agr_0_20_38.5_4_after" style="S2" xml:id="C618_1">
+<span style="S4">they're breaking it down into</span>
+<br/>
+<span style="S4">lots of microplastics,</span>
+</p>
+<p begin="00:41:14.320" end="00:41:17.160" region="agr_0_20_39_4_after" style="S2" xml:id="C619_1">
+<span style="S4">and that's getting into our</span>
+<br/>
+<span style="S4">food chain.</span>
+</p>
+<p begin="00:41:17.160" end="00:41:21.760" region="R59" style="S2" xml:id="C620">
+<span style="S3">Sian uses her paddleboard to get</span>
+<br/>
+<span style="S3">to secluded coves for clean-ups,</span>
+</p>
+<p begin="00:41:21.760" end="00:41:25.520" region="R59" style="S2" xml:id="C621_1">
+<span style="S3">spotting plastics both large</span>
+<br/>
+<span style="S3">and small.</span>
+</p>
+<p begin="00:41:25.520" end="00:41:29.760" region="R6" style="S2" xml:id="C622">
+<span style="S4">It's estimated 51 trillion</span>
+</p>
+<p begin="00:41:29.760" end="00:41:33.720" region="agr_0_20_38.5_4_after" style="S2" xml:id="C623_1">
+<span style="S4">pieces of microplastics are</span>
+<br/>
+<span style="S4">floating around.</span>
+</p>
+<p begin="00:41:33.720" end="00:41:39.520" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C624_1">
+<span style="S4">A lot of fish are thinking it's food</span>
+<br/>
+<span style="S4">and then we're eating the fish.</span>
+</p>
+<p begin="00:41:39.520" end="00:41:42.680" region="R59" style="S2" xml:id="C625_1">
+<span style="S4">It's leading to us</span>
+<br/>
+<span style="S4">developing cancer.</span>
+</p>
+<p begin="00:41:42.680" end="00:41:47.280" region="agr_1_20_39_4_after" style="S2" xml:id="C626_1">
+<span style="S4">And I was heartbroken to find</span>
+<br/>
+<span style="S4">that there's been studies showing</span>
+</p>
+<p begin="00:41:47.280" end="00:41:50.600" region="R59" style="S2" xml:id="C627_1">
+<span style="S4">that microplastics have been now</span>
+<br/>
+<span style="S4">found in placenta.</span>
+</p>
+<p begin="00:41:52.400" end="00:41:56.520" region="R59" style="S2" xml:id="C628">
+<span style="S3">But the actual manufacturing of</span>
+<br/>
+<span style="S3">plastics is an even bigger issue</span>
+</p>
+<p begin="00:41:56.520" end="00:42:00" region="agr_0_20_39.5_4_after" style="S2" xml:id="C629_1">
+<span style="S3">that could impact on the</span>
+<br/>
+<span style="S3">whole planet.</span>
+</p>
+<p begin="00:42:00" end="00:42:01.600" region="R6" style="S2" xml:id="C630">
+<span style="S4">They're using virgin plastics,</span>
+</p>
+<p begin="00:42:01.600" end="00:42:03.960" region="agr_0_20_39.5_4_after" style="S2" xml:id="C631_1">
+<span style="S4">which is using fossil fuel</span>
+<br/>
+<span style="S4">to create it.</span>
+</p>
+<p begin="00:42:03.960" end="00:42:07.480" region="R59" style="S2" xml:id="C632_1">
+<span style="S4">And that, in turn,</span>
+<br/>
+<span style="S4">is having a massive impact</span>
+</p>
+<p begin="00:42:07.480" end="00:42:10.440" region="agr_0_20_38.5_4_after" style="S2" xml:id="C633_1">
+<span style="S4">on the environment, leading</span>
+<br/>
+<span style="S4">to climate change.</span>
+</p>
+<p begin="00:42:10.440" end="00:42:15" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C634_1">
+<span style="S4">And for something that is used once</span>
+<br/>
+<span style="S4">is causing a massive impact.</span>
+</p>
+<p begin="00:42:22.760" end="00:42:27.120" region="R23" style="S2" xml:id="C635_1">
+<span style="S3">This is Swansea's famous</span>
+<br/>
+<span style="S3">Mumbles Pier, and from here,</span>
+</p>
+<p begin="00:42:27.120" end="00:42:30.720" region="agr_0_1_39.5_4_after" style="S2" xml:id="C636_1">
+<span style="S3">the threat of climate change</span>
+<br/>
+<span style="S3">seems a million miles away.</span>
+</p>
+<p begin="00:42:30.720" end="00:42:33.320" region="R6" style="S2" xml:id="C637">
+<span style="S3">And there's the problem.</span>
+</p>
+<p begin="00:42:33.320" end="00:42:38.640" region="agr_2_20_38_4_after" style="S2" xml:id="C638_1">
+<span style="S3">The reality never seems to connect</span>
+<br/>
+<span style="S3">to us, to our communities.</span>
+</p>
+<p begin="00:42:38.640" end="00:42:44.120" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C639_1">
+<span style="S3">But look at it this way - if global</span>
+<br/>
+<span style="S3">warming continues at the present</span>
+</p>
+<p begin="00:42:44.120" end="00:42:49.880" region="agr_3_20_37_4_after" style="S2" xml:id="C640_1">
+<span style="S3">rate, scientists predict that water</span>
+<br/>
+<span style="S3">levels may rise by as much as</span>
+</p>
+<p begin="00:42:49.880" end="00:42:53.240" region="agr_3_20_37_4_after" style="S2" xml:id="C641_1">
+<span style="S3">two metres across the UK by the end</span>
+<br/>
+<span style="S3">of the century.</span>
+</p>
+<p begin="00:42:53.240" end="00:42:57.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C642_1">
+<span style="S3">And if that happens, this pier</span>
+<br/>
+<span style="S3">that I'm walking on</span>
+</p>
+<p begin="00:42:57.080" end="00:42:59.800" region="R6" style="S2" xml:id="C643">
+<span style="S3">will be underwater every high tide.</span>
+</p>
+<p begin="00:43:04.320" end="00:43:08.640" region="R59" style="S2" xml:id="C644_1">
+<span style="S3">And one village in North Wales</span>
+<br/>
+<span style="S3">is set to become Britain's first</span>
+</p>
+<p begin="00:43:08.640" end="00:43:10.360" region="R6" style="S2" xml:id="C645">
+<span style="S3">climate change casualty.</span>
+</p>
+<p begin="00:43:12.240" end="00:43:16.960" region="agr_0_20_39_4_after" style="S2" xml:id="C646_1">
+<span style="S3">Angela Thomas is clerk of</span>
+<br/>
+<span style="S3">Fairbourne Community Council.</span>
+</p>
+<p begin="00:43:16.960" end="00:43:21.960" region="agr_0_20_39_4_after" style="S2" xml:id="C647_1">
+<span style="S3">She's lived here since 2013</span>
+<br/>
+<span style="S3">in a house facing the sea wall.</span>
+</p>
+<p begin="00:43:24.120" end="00:43:28.760" region="R59" style="S2" xml:id="C648_1">
+<span style="S4">It's very easy to see why people</span>
+<br/>
+<span style="S4">are attracted to this place.</span>
+</p>
+<p begin="00:43:28.760" end="00:43:30.560" region="R59" style="S2" xml:id="C649_1">
+<span style="S4">I mean, what could be more</span>
+<br/>
+<span style="S4">beautiful?</span>
+</p>
+<p begin="00:43:30.560" end="00:43:34.880" region="R6" style="S2" xml:id="C650">
+<span style="S4">We have the Cardigan Bay behind us.</span>
+</p>
+<p begin="00:43:34.880" end="00:43:38.480" region="agr_0_20_39_4_after" style="S2" xml:id="C651_1">
+<span style="S4">If you look further afield,</span>
+<br/>
+<span style="S4">you can see Cadair Idris.</span>
+</p>
+<p begin="00:43:38.480" end="00:43:39.800" region="R6" style="S2" xml:id="C652">
+<span style="S4">We have mountains,</span>
+</p>
+<p begin="00:43:39.800" end="00:43:41.400" region="R6" style="S2" xml:id="C653">
+<span style="S4">we have the estuary.</span>
+</p>
+<p begin="00:43:43.080" end="00:43:46.800" region="agr_0_20_38.5_4_after" style="S2" xml:id="C654_1">
+<span style="S3">Built on low-level marshland in</span>
+<br/>
+<span style="S3">the 1800s,</span>
+</p>
+<p begin="00:43:46.800" end="00:43:49.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C655_1">
+<span style="S3">Fairbourne is now</span>
+<br/>
+<span style="S3">living on borrowed time.</span>
+</p>
+<p begin="00:43:51.080" end="00:43:56.160" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C656_1">
+<span style="S3">The village of some 450 dwellings</span>
+<br/>
+<span style="S3">is set to be decommissioned.</span>
+</p>
+<p begin="00:43:56.160" end="00:43:58.800" region="agr_0_20_39_4_after" style="S2" xml:id="C657_1">
+<span style="S3">The government plan to stop</span>
+<br/>
+<span style="S3">financing</span>
+</p>
+<p begin="00:43:58.800" end="00:44:00.920" region="R6" style="S2" xml:id="C658">
+<span style="S3">its coastal defences in 2054.</span>
+</p>
+<p begin="00:44:02.800" end="00:44:08.760" region="R59" style="S2" xml:id="C659">
+<span style="S4">It is very hard to imagine on a day</span>
+<br/>
+<span style="S4">like today that the sea could rise</span>
+</p>
+<p begin="00:44:08.760" end="00:44:13.480" region="agr_0_20_39.5_4_after" style="S2" xml:id="C660_1">
+<span style="S4">so dramatically in years</span>
+<br/>
+<span style="S4">to come that Fairbourne</span>
+</p>
+<p begin="00:44:13.480" end="00:44:15.640" region="R6" style="S2" xml:id="C661">
+<span style="S4">will have to be decommissioned.</span>
+</p>
+<p begin="00:44:15.640" end="00:44:19.440" region="agr_1_20_39_4_after" style="S2" xml:id="C662_1">
+<span style="S4">It's beyond most people's thought</span>
+<br/>
+<span style="S4">patterns, to be honest.</span>
+</p>
+<p begin="00:44:20.800" end="00:44:24.360" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C663_1">
+<span style="S4">They think if it's not talked about,</span>
+<br/>
+<span style="S4">it's not going to happen.</span>
+</p>
+<p begin="00:44:24.360" end="00:44:28.680" region="agr_3_20_37_4_after" style="S2" xml:id="C664_1">
+<span style="S4">But realistically, some time in the</span>
+<br/>
+<span style="S4">future, we could possibly see</span>
+</p>
+<p begin="00:44:28.680" end="00:44:33.840" region="agr_1_20_39_4_after" style="S2" xml:id="C665_1">
+<span style="S4">the demise of Fairbourne and many</span>
+<br/>
+<span style="S4">other communities on this</span>
+</p>
+<p begin="00:44:33.840" end="00:44:37.440" region="R59" style="S2" xml:id="C666_1">
+<span style="S4">North Wales coast and the rest</span>
+<br/>
+<span style="S4">of the UK coast.</span>
+</p>
+<p begin="00:44:40.200" end="00:44:44" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C667_1">
+<span style="S4">The climate has changed.</span>
+<br/>
+<span style="S4">We can see it every day ourselves</span>
+</p>
+<p begin="00:44:44" end="00:44:48.360" region="agr_0_20_39_4_after" style="S2" xml:id="C668_1">
+<span style="S4">by different species turning up</span>
+<br/>
+<span style="S4">in the sea, the birds</span>
+</p>
+<p begin="00:44:48.360" end="00:44:50.840" region="agr_0_20_38.5_4_after" style="S2" xml:id="C669_1">
+<span style="S4">starting to want</span>
+<br/>
+<span style="S4">to build nests before time,</span>
+</p>
+<p begin="00:44:50.840" end="00:44:54.280" region="R59" style="S2" xml:id="C670_1">
+<span style="S4">spring flowers coming up</span>
+<br/>
+<span style="S4">before they should do.</span>
+</p>
+<p begin="00:44:54.280" end="00:44:57.760" region="agr_0_20_39.5_4_after" style="S2" xml:id="C671_1">
+<span style="S3">Rising temperatures brings</span>
+<br/>
+<span style="S3">an increase in sea levels</span>
+</p>
+<p begin="00:44:57.760" end="00:44:59.720" region="R6" style="S2" xml:id="C672">
+<span style="S3">and ferocious storms.</span>
+</p>
+<p begin="00:45:00.800" end="00:45:03.520" region="agr_2_20_38_4_after" style="S2" xml:id="C673_1">
+<span style="S4">When we know that we've got a high</span>
+<br/>
+<span style="S4">tide coming and that there's</span>
+</p>
+<p begin="00:45:03.520" end="00:45:06.960" region="agr_0_20_39_4_after" style="S2" xml:id="C674_1">
+<span style="S4">going to be a wind behind it,</span>
+<br/>
+<span style="S4">there's no doubting</span>
+</p>
+<p begin="00:45:06.960" end="00:45:11.680" region="agr_2_20_38_4_after" style="S2" xml:id="C675_1">
+<span style="S4">that we are worried. We can lie in</span>
+<br/>
+<span style="S4">bed at night and we can hear</span>
+</p>
+<p begin="00:45:11.680" end="00:45:15.200" region="R59" style="S2" xml:id="C676_1">
+<span style="S4">the "shhwoo" of the sea on the</span>
+<br/>
+<span style="S4">shingle,</span>
+</p>
+<p begin="00:45:15.200" end="00:45:20.200" region="agr_2_20_38_4_after" style="S2" xml:id="C677_1">
+<span style="S4">and we think, "Mm, wonder how high</span>
+<br/>
+<span style="S4">this tide is going to be."</span>
+</p>
+<p begin="00:45:20.200" end="00:45:24.160" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C678_1">
+<span style="S4">I don't think that most people go</span>
+<br/>
+<span style="S4">to bed at night thinking</span>
+</p>
+<p begin="00:45:24.160" end="00:45:26.800" region="R6" style="S2" xml:id="C679">
+<span style="S4">that they are in danger,</span>
+</p>
+<p begin="00:45:26.800" end="00:45:29.200" region="R6" style="S2" xml:id="C680">
+<span style="S4">but it is in the back of your mind.</span>
+</p>
+<p begin="00:45:29.200" end="00:45:32.960" region="agr_0_20_39_4_after" style="S2" xml:id="C681_1">
+<span style="S4">And of course, as time goes on,</span>
+<br/>
+<span style="S4">and if we continue to get</span>
+</p>
+<p begin="00:45:32.960" end="00:45:35.920" region="R59" style="S2" xml:id="C682">
+<span style="S4">these freak weather conditions,</span>
+<br/>
+<span style="S4">that is something that we will</span>
+</p>
+<p begin="00:45:35.920" end="00:45:38" region="R6" style="S2" xml:id="C683">
+<span style="S4">probably think about more and more.</span>
+</p>
+<p begin="00:45:51.200" end="00:45:54.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C684_1">
+<span style="S3">There are two main ways</span>
+<br/>
+<span style="S3">to slow down climate change.</span>
+</p>
+<p begin="00:45:56.160" end="00:45:58.920" region="R6" style="S2" xml:id="C685">
+<span style="S3">One is reducing carbon emissions.</span>
+</p>
+<p begin="00:46:00.280" end="00:46:04.600" region="agr_4_20_36_4_after" style="S2" xml:id="C686_1">
+<span style="S3">The other is allowing the growth</span>
+<br/>
+<span style="S3">of habitats that capture the carbon.</span>
+</p>
+<p begin="00:46:06" end="00:46:10.400" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C687_1">
+<span style="S3">Here, the ocean has its own version</span>
+<br/>
+<span style="S3">of a rainforest.</span>
+</p>
+<p begin="00:46:11.600" end="00:46:15.720" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C688_1">
+<span style="S3">Seagrass beds are called the lungs</span>
+<br/>
+<span style="S3">of the sea.</span>
+</p>
+<p begin="00:46:15.720" end="00:46:18.760" region="R6" style="S2" xml:id="C689">
+<span style="S3">The only flowering marine plants,</span>
+</p>
+<p begin="00:46:18.760" end="00:46:23.040" region="agr_0_20_39.5_4_after" style="S2" xml:id="C690_1">
+<span style="S3">they absorb carbon dioxide</span>
+<br/>
+<span style="S3">and produce oxygen.</span>
+</p>
+<p begin="00:46:26.560" end="00:46:29.600" region="R6" style="S2" xml:id="C691">
+<span style="S3">Home to thousands of species,</span>
+</p>
+<p begin="00:46:29.600" end="00:46:32.520" region="agr_1_20_39_4_after" style="S2" xml:id="C692_1">
+<span style="S3">seagrass beds are one of the most</span>
+<br/>
+<span style="S3">important</span>
+</p>
+<p begin="00:46:32.520" end="00:46:36.320" region="agr_0_20_38.5_4_after" style="S2" xml:id="C693_1">
+<span style="S3">yet threatened underwater</span>
+<br/>
+<span style="S3">habitats on Earth.</span>
+</p>
+<p begin="00:46:37.600" end="00:46:40.880" region="R59" style="S2" xml:id="C694_1">
+<span style="S3">In the UK,</span>
+<br/>
+<span style="S3">increased human activity has led</span>
+</p>
+<p begin="00:46:40.880" end="00:46:45" region="agr_0_20_39_4_after" style="S2" xml:id="C695_1">
+<span style="S3">to a 92% reduction in</span>
+<br/>
+<span style="S3">seagrass meadows.</span>
+</p>
+<p begin="00:46:46.600" end="00:46:50.240" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C696_1">
+<span style="S5">I was starting off as an academic</span>
+<br/>
+<span style="S5">in a university, thinking,</span>
+</p>
+<p begin="00:46:50.240" end="00:46:52.280" region="agr_0_20_38.5_4_after" style="S2" xml:id="C697_1">
+<span style="S5">"I'm describing the death</span>
+<br/>
+<span style="S5">of seagrasses.</span>
+</p>
+<p begin="00:46:52.280" end="00:46:56.800" region="R59" style="S2" xml:id="C698">
+<span style="S5">"I'm describing why they're amazing</span>
+<br/>
+<span style="S5">but why they're dying," and that's</span>
+</p>
+<p begin="00:46:56.800" end="00:46:59.640" region="R6" style="S2" xml:id="C699">
+<span style="S5">not actually changing anything.</span>
+</p>
+<p begin="00:46:59.640" end="00:47:05.720" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C700_1">
+<span style="S3">Richard Unsworth is an action</span>
+<br/>
+<span style="S3">academic leading Project Seagrass,</span>
+</p>
+<p begin="00:47:05.720" end="00:47:09.280" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C701_1">
+<span style="S3">a world-leading marine conservation</span>
+<br/>
+<span style="S3">charity,</span>
+</p>
+<p begin="00:47:09.280" end="00:47:13.360" region="agr_0_20_39_4_after" style="S2" xml:id="C702_1">
+<span style="S3">replanting seagrass</span>
+<br/>
+<span style="S3">meadows in Pembrokeshire.</span>
+</p>
+<p begin="00:47:13.360" end="00:47:16.880" region="agr_0_20_39_4_after" style="S2" xml:id="C703_1">
+<span style="S5">As we stare a climate emergency</span>
+<br/>
+<span style="S5">in the face</span>
+</p>
+<p begin="00:47:16.880" end="00:47:20.440" region="agr_0_20_39.5_4_after" style="S2" xml:id="C704_1">
+<span style="S5">and our whole climate</span>
+<br/>
+<span style="S5">system is breaking down,</span>
+</p>
+<p begin="00:47:20.440" end="00:47:25.480" region="R59" style="S2" xml:id="C705">
+<span style="S5">there's now a sort of increasing</span>
+<br/>
+<span style="S5">imperative of humanity to protect</span>
+</p>
+<p begin="00:47:25.480" end="00:47:28.640" region="agr_0_20_39.5_4_after" style="S2" xml:id="C706_1">
+<span style="S5">and restore these systems</span>
+<br/>
+<span style="S5">because they are fundamentally</span>
+</p>
+<p begin="00:47:28.640" end="00:47:33.080" region="agr_4_20_36_4_after" style="S2" xml:id="C707_1">
+<span style="S5">important to our coastal environment</span>
+<br/>
+<span style="S5">and our terrestrial environment,</span>
+</p>
+<p begin="00:47:33.080" end="00:47:36.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C708_1">
+<span style="S5">you know? If we want to fight</span>
+<br/>
+<span style="S5">climate change, we need to start</span>
+</p>
+<p begin="00:47:36.600" end="00:47:39" region="R6" style="S2" xml:id="C709">
+<span style="S5">restoring our oceans.</span>
+</p>
+<p begin="00:47:39" end="00:47:44.040" region="agr_0_20_38.5_4_after" style="S2" xml:id="C710_1">
+<span style="S3">For the same area, a simple</span>
+<br/>
+<span style="S3">seagrass bed absorbs</span>
+</p>
+<p begin="00:47:44.040" end="00:47:49" region="agr_1_20_39_4_after" style="S2" xml:id="C711_1">
+<span style="S3">and stores carbon 35 times faster</span>
+<br/>
+<span style="S3">than a tropical rainforest.</span>
+</p>
+<p begin="00:47:50.160" end="00:47:53.880" region="agr_2_20_38_4_after" style="S2" xml:id="C712_1">
+<span style="S5">We've actually set up on a project</span>
+<br/>
+<span style="S5">that's trying to collect</span>
+</p>
+<p begin="00:47:53.880" end="00:47:56.400" region="R6" style="S2" xml:id="C713">
+<span style="S5">over a million seagrass seeds</span>
+</p>
+<p begin="00:47:56.400" end="00:48:00.880" region="agr_0_20_39_4_after" style="S2" xml:id="C714_1">
+<span style="S5">and plant them in a two-hectare</span>
+<br/>
+<span style="S5">area in Dale.</span>
+</p>
+<p begin="00:48:02.680" end="00:48:06.600" region="agr_4_20_36_4_after" style="S2" xml:id="C715_1">
+<span style="S3">And that's what Richard and his team</span>
+<br/>
+<span style="S3">of volunteers are doing.</span>
+</p>
+<p begin="00:48:07.960" end="00:48:11.480" region="agr_0_20_39.5_4_after" style="S2" xml:id="C716_1">
+<span style="S3">Step one - they collect seagrass</span>
+<br/>
+<span style="S3">from an established</span>
+</p>
+<p begin="00:48:11.480" end="00:48:13.840" region="R6" style="S2" xml:id="C717">
+<span style="S3">and healthy meadow.</span>
+</p>
+<p begin="00:48:13.840" end="00:48:15.560" region="R6" style="S2" xml:id="C718">
+<span style="S5">It's a challenging thing to do.</span>
+</p>
+<p begin="00:48:15.560" end="00:48:18.400" region="agr_0_20_39.5_4_after" style="S2" xml:id="C719_1">
+<span style="S5">We'd never collected a million</span>
+<br/>
+<span style="S5">seeds before.</span>
+</p>
+<p begin="00:48:18.400" end="00:48:22.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C720_1">
+<span style="S5">We'd never done anything</span>
+<br/>
+<span style="S5">at this scale before.</span>
+</p>
+<p begin="00:48:22.600" end="00:48:25.480" region="R6" style="S2" xml:id="C721">
+<span style="S5">If you can imagine a piece of wheat</span>
+</p>
+<p begin="00:48:25.480" end="00:48:27.760" region="R59" style="S2" xml:id="C722_1">
+<span style="S5">where you get the little</span>
+<br/>
+<span style="S5">grains of wheat,</span>
+</p>
+<p begin="00:48:27.760" end="00:48:29.640" region="R6" style="S2" xml:id="C723">
+<span style="S5">it's very, very similar to that.</span>
+</p>
+<p begin="00:48:29.640" end="00:48:33.800" region="R59" style="S2" xml:id="C724">
+<span style="S5">What we're doing, basically finding</span>
+<br/>
+<span style="S5">these shoots and delicately tearing</span>
+</p>
+<p begin="00:48:33.800" end="00:48:37.440" region="agr_0_20_39.5_4_after" style="S2" xml:id="C725_1">
+<span style="S5">them up and taking them back</span>
+<br/>
+<span style="S5">to the lab.</span>
+</p>
+<p begin="00:48:37.440" end="00:48:42.760" region="agr_4_20_36_4_after" style="S2" xml:id="C726_1">
+<span style="S3">In the lab, the shoots will rot away</span>
+<br/>
+<span style="S3">and the seeds left to harden up,</span>
+</p>
+<p begin="00:48:42.760" end="00:48:44.440" region="R6" style="S2" xml:id="C727">
+<span style="S3">ready for planting.</span>
+</p>
+<p begin="00:48:44.440" end="00:48:48.920" region="agr_0_20_38.5_4_after" style="S2" xml:id="C728_1">
+<span style="S5">The thing that is required</span>
+<br/>
+<span style="S5">is not technical expertise,</span>
+</p>
+<p begin="00:48:48.920" end="00:48:50.480" region="R6" style="S2" xml:id="C729">
+<span style="S5">it's manpower.</span>
+</p>
+<p begin="00:48:52.040" end="00:48:54.320" region="agr_0_20_38.5_4_after" style="S2" xml:id="C730_1">
+<span style="S5">I'm pretty lucky to have</span>
+<br/>
+<span style="S5">an incredible group of people</span>
+</p>
+<p begin="00:48:54.320" end="00:48:57.520" region="R59" style="S2" xml:id="C731">
+<span style="S5">around me who support that work</span>
+<br/>
+<span style="S5">and enable it to happen, really,</span>
+</p>
+<p begin="00:48:57.520" end="00:49:02" region="agr_0_20_39.5_4_after" style="S2" xml:id="C732_1">
+<span style="S5">because it's, um, collecting</span>
+<br/>
+<span style="S5">a million seeds is not some</span>
+</p>
+<p begin="00:49:02" end="00:49:07.240" region="agr_0_20_39_4_after" style="S2" xml:id="C733_1">
+<span style="S5">small operation and it requires</span>
+<br/>
+<span style="S5">those many hands.</span>
+</p>
+<p begin="00:49:11.120" end="00:49:14.560" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C734_1">
+<span style="S5">So once one of our volunteers</span>
+<br/>
+<span style="S5">has brought back a bag of seagrass</span>
+</p>
+<p begin="00:49:14.560" end="00:49:19.800" region="R59" style="S2" xml:id="C735_1">
+<span style="S5">seeds, we put it into an aquaria</span>
+<br/>
+<span style="S5">facility with fresh sea water.</span>
+</p>
+<p begin="00:49:19.800" end="00:49:22.880" region="R6" style="S2" xml:id="C736">
+<span style="S5">And over a period of a month or two,</span>
+</p>
+<p begin="00:49:22.880" end="00:49:27.120" region="agr_0_20_39_4_after" style="S2" xml:id="C737_1">
+<span style="S5">what actually happens is that</span>
+<br/>
+<span style="S5">whole shoot just rots away,</span>
+</p>
+<p begin="00:49:27.120" end="00:49:30" region="R59" style="S2" xml:id="C738_1">
+<span style="S5">and you're left with all</span>
+<br/>
+<span style="S5">these seagrass seeds sinking</span>
+</p>
+<p begin="00:49:30" end="00:49:31.280" region="R6" style="S2" xml:id="C739">
+<span style="S5">to the bottom of the tank.</span>
+</p>
+<p begin="00:49:31.280" end="00:49:34.640" region="R59" style="S2" xml:id="C740_1">
+<span style="S5">Eventually, we're able to then</span>
+<br/>
+<span style="S5">separate all the seeds and think</span>
+</p>
+<p begin="00:49:34.640" end="00:49:38.640" region="agr_1_20_39_4_after" style="S2" xml:id="C741_1">
+<span style="S5">about taking them to a site</span>
+<br/>
+<span style="S5">for planting in the hessian bags.</span>
+</p>
+<p begin="00:49:45.440" end="00:49:47.960" region="R6" style="S2" xml:id="C742">
+<span style="S3">It's a cold November day.</span>
+</p>
+<p begin="00:49:47.960" end="00:49:52.360" region="R59" style="S2" xml:id="C743">
+<span style="S3">The hardy team of volunteers take</span>
+<br/>
+<span style="S3">the seed-filled bags and drop them</span>
+</p>
+<p begin="00:49:52.360" end="00:49:53.880" region="R6" style="S2" xml:id="C744">
+<span style="S3">onto the ocean floor.</span>
+</p>
+<p begin="00:49:57.640" end="00:50:00.760" region="agr_0_20_38.5_4_after" style="S2" xml:id="C745_1">
+<span style="S3">The bags stop the seeds</span>
+<br/>
+<span style="S3">from being washed away</span>
+</p>
+<p begin="00:50:00.760" end="00:50:02.680" region="R6" style="S2" xml:id="C746">
+<span style="S3">by Dale's big tides.</span>
+</p>
+<p begin="00:50:05.120" end="00:50:09.080" region="R59" style="S2" xml:id="C747_1">
+<span style="S3">Within six months, these seeds</span>
+<br/>
+<span style="S3">will have germinated</span>
+</p>
+<p begin="00:50:09.080" end="00:50:11.320" region="R6" style="S2" xml:id="C748">
+<span style="S3">and the bags rotted away.</span>
+</p>
+<p begin="00:50:11.320" end="00:50:14" region="R6" style="S2" xml:id="C749">
+<span style="S5">By planting seagrass in Dale,</span>
+</p>
+<p begin="00:50:14" end="00:50:19.080" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C750_1">
+<span style="S5">we're trying to inspire others to</span>
+<br/>
+<span style="S5">build on this mantle</span>
+</p>
+<p begin="00:50:19.080" end="00:50:24.040" region="R59" style="S2" xml:id="C751_1">
+<span style="S5">and to learn to plant seagrasses</span>
+<br/>
+<span style="S5">all around the UK.</span>
+</p>
+<p begin="00:50:25.680" end="00:50:30.120" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C752_1">
+<span style="S3">And these seagrass meadows aren't</span>
+<br/>
+<span style="S3">just combating global warming.</span>
+</p>
+<p begin="00:50:30.120" end="00:50:34.360" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C753_1">
+<span style="S3">They are vital to the success</span>
+<br/>
+<span style="S3">and return of many marine species.</span>
+</p>
+<p begin="00:50:36.400" end="00:50:41.560" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C754_1">
+<span style="S5">If you're a juvenile animal,</span>
+<br/>
+<span style="S5">then it's an amazing place to hide,</span>
+</p>
+<p begin="00:50:41.560" end="00:50:46.240" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C755_1">
+<span style="S5">so it's this great kind of nursery</span>
+<br/>
+<span style="S5">environment for young fish.</span>
+</p>
+<p begin="00:50:46.240" end="00:50:49.680" region="R59" style="S2" xml:id="C756">
+<span style="S5">And if you're a slightly bigger</span>
+<br/>
+<span style="S5">animal, then it's a great place</span>
+</p>
+<p begin="00:50:49.680" end="00:50:53.560" region="agr_0_20_39.5_4_after" style="S2" xml:id="C757_1">
+<span style="S5">to hunt food, and that means</span>
+<br/>
+<span style="S5">you just get this</span>
+</p>
+<p begin="00:50:53.560" end="00:50:55.320" region="R6" style="S2" xml:id="C758">
+<span style="S5">kind of congregation of life.</span>
+</p>
+<p begin="00:50:57.880" end="00:51:02.680" region="agr_0_20_39.5_4_after" style="S2" xml:id="C759_1">
+<span style="S3">These underwater grasslands have</span>
+<br/>
+<span style="S3">30 to 40 times more animals</span>
+</p>
+<p begin="00:51:02.680" end="00:51:04.800" region="R6" style="S2" xml:id="C760">
+<span style="S3">than an area which is barren.</span>
+</p>
+<p begin="00:51:06.960" end="00:51:11.520" region="R59" style="S2" xml:id="C761">
+<span style="S5">It feels incredibly good to be part</span>
+<br/>
+<span style="S5">of a positive project that's trying</span>
+</p>
+<p begin="00:51:11.520" end="00:51:15.120" region="agr_0_20_39.5_4_after" style="S2" xml:id="C762_1">
+<span style="S5">to change the trajectory</span>
+<br/>
+<span style="S5">for our oceans,</span>
+</p>
+<p begin="00:51:15.120" end="00:51:18.600" region="R59" style="S2" xml:id="C763_1">
+<span style="S5">and what we're doing is only</span>
+<br/>
+<span style="S5">the start.</span>
+</p>
+<p begin="00:51:20.160" end="00:51:21.720" region="R6" style="S2" xml:id="C764">
+<span style="S5">A very exciting moment,</span>
+</p>
+<p begin="00:51:21.720" end="00:51:24.880" region="R6" style="S2" xml:id="C765">
+<span style="S5">very optimistic moment to see that</span>
+</p>
+<p begin="00:51:24.880" end="00:51:27.400" region="R6" style="S2" xml:id="C766">
+<span style="S5">we are able to make these changes</span>
+</p>
+<p begin="00:51:27.400" end="00:51:30.680" region="agr_0_20_39.5_4_after" style="S2" xml:id="C767_1">
+<span style="S5">and we can bring life back</span>
+<br/>
+<span style="S5">to our degraded seas.</span>
+</p>
+<p begin="00:51:40.880" end="00:51:44.400" region="agr_0_20_38.5_4_after" style="S2" xml:id="C768_1">
+<span style="S3">The impact of climate change</span>
+<br/>
+<span style="S3">on the ocean is often hidden.</span>
+</p>
+<p begin="00:51:47.240" end="00:51:51.960" region="R59" style="S2" xml:id="C769">
+<span style="S3">Small changes in sea temperatures</span>
+<br/>
+<span style="S3">can stop plankton from blooming,</span>
+</p>
+<p begin="00:51:54" end="00:51:57.600" region="agr_0_20_39_4_after" style="S2" xml:id="C770_1">
+<span style="S3">which in turn has an impact</span>
+<br/>
+<span style="S3">on the whole food chain</span>
+</p>
+<p begin="00:51:57.600" end="00:51:59.520" region="R6" style="S2" xml:id="C771">
+<span style="S3">across the world's oceans.</span>
+</p>
+<p begin="00:52:02.800" end="00:52:07.040" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C772_1">
+<span style="S3">In Tenby, the arrival</span>
+<br/>
+<span style="S3">from the Arctic of a rogue walrus,</span>
+</p>
+<p begin="00:52:07.040" end="00:52:11.240" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C773_1">
+<span style="S3">far from its natural home and</span>
+<br/>
+<span style="S3">quickly named Wally by the locals,</span>
+</p>
+<p begin="00:52:11.240" end="00:52:14.120" region="agr_0_20_39.5_4_after" style="S2" xml:id="C774_1">
+<span style="S3">is perhaps a clue that our</span>
+<br/>
+<span style="S3">changing oceans</span>
+</p>
+<p begin="00:52:14.120" end="00:52:17.360" region="R59" style="S2" xml:id="C775_1">
+<span style="S3">are affecting the behaviours</span>
+<br/>
+<span style="S3">of its wildlife.</span>
+</p>
+<p begin="00:52:19.320" end="00:52:22.640" region="agr_0_20_39.5_4_after" style="S2" xml:id="C776_1">
+<span style="S3">So it's likely other creatures</span>
+<br/>
+<span style="S3">are being impacted.</span>
+</p>
+<p begin="00:52:24.360" end="00:52:27.240" region="agr_0_20_39.5_4_after" style="S2" xml:id="C777_1">
+<span style="S3">The Celtic Deep is blessed</span>
+<br/>
+<span style="S3">by the presence of some</span>
+</p>
+<p begin="00:52:27.240" end="00:52:29.760" region="R6" style="S2" xml:id="C778">
+<span style="S3">of the world's most iconic animals.</span>
+</p>
+<p begin="00:52:31.080" end="00:52:34.600" region="agr_2_20_38_4_after" style="S2" xml:id="C779_1">
+<span style="S3">Basking sharks, the second-largest</span>
+<br/>
+<span style="S3">fish on Earth.</span>
+</p>
+<p begin="00:52:36.120" end="00:52:37.880" region="R6" style="S2" xml:id="C780">
+<span style="S3">Several species of dolphins,</span>
+</p>
+<p begin="00:52:37.880" end="00:52:41.200" region="agr_0_20_39_4_after" style="S2" xml:id="C781_1">
+<span style="S3">one of the world's most</span>
+<br/>
+<span style="S3">intelligent marine mammals.</span>
+</p>
+<p begin="00:52:43.760" end="00:52:49.760" region="agr_4_20_36_4_after" style="S2" xml:id="C782_1">
+<span style="S3">And finally, the spectacular fin</span>
+<br/>
+<span style="S3">whale, second only to the blue whale</span>
+</p>
+<p begin="00:52:49.760" end="00:52:52.840" region="agr_0_20_39.5_4_after" style="S2" xml:id="C783_1">
+<span style="S3">as the largest animal ever</span>
+<br/>
+<span style="S3">to have graced the Earth.</span>
+</p>
+<p begin="00:52:54.840" end="00:52:59.280" region="agr_0_20_39.5_4_after" style="S2" xml:id="C784_1">
+<span style="S3">In the Dee Estuary, on the Welsh</span>
+<br/>
+<span style="S3">English border, one fin whale</span>
+</p>
+<p begin="00:52:59.280" end="00:53:02.440" region="agr_0_20_39_4_after" style="S2" xml:id="C785_1">
+<span style="S3">has been spotted on a sandbank,</span>
+<br/>
+<span style="S3">stranded.</span>
+</p>
+<p begin="00:53:02.440" end="00:53:05.760" region="R24" style="S2" xml:id="C786">
+<span style="S3">Without help, it will die.</span>
+</p>
+<p begin="00:53:05.760" end="00:53:09.880" region="agr_2.5_1_37.5_4_after" style="S2" xml:id="C787_1">
+<span style="S3">But there's a group of Welsh heroes</span>
+<br/>
+<span style="S3">who are straight on the scene.</span>
+</p>
+<p begin="00:53:09.880" end="00:53:13.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C788_1">
+<span style="S3">Gem Simmons is a senior</span>
+<br/>
+<span style="S3">volunteer from the charity</span>
+</p>
+<p begin="00:53:13.600" end="00:53:16.920" region="R6" style="S2" xml:id="C789">
+<span style="S3">British Divers Marine Life Rescue.</span>
+</p>
+<p begin="00:53:16.920" end="00:53:19.280" region="agr_0_20_39_4_after" style="S2" xml:id="C790_1">
+<span style="S6">We don't think twice when we're</span>
+<br/>
+<span style="S6">called to a rescue,</span>
+</p>
+<p begin="00:53:19.280" end="00:53:22.800" region="agr_3_20_37_4_after" style="S2" xml:id="C791_1">
+<span style="S6">we're up and out. We want to help</span>
+<br/>
+<span style="S6">that animal in any way that we can.</span>
+</p>
+<p begin="00:53:24.280" end="00:53:27.680" region="R6" style="S2" xml:id="C792">
+<span style="S3">Gem is leading the rescue operation.</span>
+</p>
+<p begin="00:53:27.680" end="00:53:31.720" region="agr_3_20_37_4_after" style="S2" xml:id="C793_1">
+<span style="S6">We hope to refloat and administer</span>
+<br/>
+<span style="S6">any first aid that the whale needs.</span>
+</p>
+<p begin="00:53:33.480" end="00:53:36.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C794_1">
+<span style="S6">And I think there's something</span>
+<br/>
+<span style="S6">very spiritual</span>
+</p>
+<p begin="00:53:36.200" end="00:53:38.520" region="R59" style="S2" xml:id="C795_1">
+<span style="S6">when you look in an animal's</span>
+<br/>
+<span style="S6">eye and it's in distress</span>
+</p>
+<p begin="00:53:38.520" end="00:53:42.400" region="agr_4_20_36_4_after" style="S2" xml:id="C796_1">
+<span style="S6">and it's having problems, and that's</span>
+<br/>
+<span style="S6">what keeps us going.</span>
+</p>
+<p begin="00:53:42.400" end="00:53:44.840" region="agr_0_20_39.5_4_after" style="S2" xml:id="C797_1">
+<span style="S6">It's definitely</span>
+<br/>
+<span style="S6">cleansing for the soul</span>
+</p>
+<p begin="00:53:44.840" end="00:53:47.560" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C798_1">
+<span style="S6">and it's what we want to do,</span>
+<br/>
+<span style="S6">it's what we're passionate about.</span>
+</p>
+<p begin="00:53:47.560" end="00:53:48.880" region="R6" style="S2" xml:id="C799">
+<span style="S6">It's what we live for.</span>
+</p>
+<p begin="00:53:50.600" end="00:53:54" region="R59" style="S2" xml:id="C800_1">
+<span style="S6">When initially called out,</span>
+<br/>
+<span style="S6">we assess the situation,</span>
+</p>
+<p begin="00:53:54" end="00:53:57.640" region="agr_1_20_39_4_after" style="S2" xml:id="C801_1">
+<span style="S6">we take a step back and we look</span>
+<br/>
+<span style="S6">at things like breathing pattern,</span>
+</p>
+<p begin="00:53:57.640" end="00:54:02.720" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C802_1">
+<span style="S6">body condition, we note any injuries</span>
+<br/>
+<span style="S6">and we take measurements.</span>
+</p>
+<p begin="00:54:02.720" end="00:54:06.880" region="agr_0_20_39.5_4_after" style="S2" xml:id="C803_1">
+<span style="S3">It's often difficult to know why</span>
+<br/>
+<span style="S3">a whale becomes stranded.</span>
+</p>
+<p begin="00:54:08.120" end="00:54:12" region="agr_0_20_39.5_4_after" style="S2" xml:id="C804_1">
+<span style="S6">We can rule out things like ship</span>
+<br/>
+<span style="S6">strikes or major trauma</span>
+</p>
+<p begin="00:54:12" end="00:54:15.200" region="R6" style="S2" xml:id="C805">
+<span style="S6">because it has no obvious injuries.</span>
+</p>
+<p begin="00:54:15.200" end="00:54:20.080" region="agr_1_20_39_4_after" style="S2" xml:id="C806_1">
+<span style="S3">However, new science suggests</span>
+<br/>
+<span style="S3">that severe weather events caused</span>
+</p>
+<p begin="00:54:20.080" end="00:54:24.480" region="agr_0_20_39.5_4_after" style="S2" xml:id="C807_1">
+<span style="S3">by climate change can cause</span>
+<br/>
+<span style="S3">a malfunction in echolocation,</span>
+</p>
+<p begin="00:54:24.480" end="00:54:28.400" region="agr_0_20_39_4_after" style="S2" xml:id="C808_1">
+<span style="S3">so a whale could head</span>
+<br/>
+<span style="S3">to the shoreline thinking</span>
+</p>
+<p begin="00:54:28.400" end="00:54:32.360" region="agr_0_20_38.5_4_after" style="S2" xml:id="C809_1">
+<span style="S3">it's the deep ocean.</span>
+<br/>
+<span style="S3">Until the tide returns,</span>
+</p>
+<p begin="00:54:32.360" end="00:54:36.120" region="agr_3_20_37_4_after" style="S2" xml:id="C810_1">
+<span style="S3">all Gem and the team can do is make</span>
+<br/>
+<span style="S3">the ten-metre youngster</span>
+</p>
+<p begin="00:54:36.120" end="00:54:38.400" region="R6" style="S2" xml:id="C811">
+<span style="S3">as comfortable as possible.</span>
+</p>
+<p begin="00:54:38.400" end="00:54:40.480" region="agr_0_20_38.5_4_after" style="S2" xml:id="C812_1">
+<span style="S6">Their skin is very delicate</span>
+<br/>
+<span style="S6">for a whale,</span>
+</p>
+<p begin="00:54:40.480" end="00:54:42.720" region="agr_0_20_39_4_after" style="S2" xml:id="C813_1">
+<span style="S6">so we want to keep them</span>
+<br/>
+<span style="S6">nice and moist.</span>
+</p>
+<p begin="00:54:42.720" end="00:54:45.720" region="agr_0_20_39_4_after" style="S2" xml:id="C814_1">
+<span style="S6">So we do that with wet towels</span>
+<br/>
+<span style="S6">and sheets.</span>
+</p>
+<p begin="00:54:45.720" end="00:54:48.480" region="agr_2_20_38_4_after" style="S2" xml:id="C815_1">
+<span style="S6">We form normally a production line</span>
+<br/>
+<span style="S6">where we'll pass buckets</span>
+</p>
+<p begin="00:54:48.480" end="00:54:50.560" region="agr_0_20_38.5_4_after" style="S2" xml:id="C816_1">
+<span style="S6">up and down the beach, best</span>
+<br/>
+<span style="S6">that we can,</span>
+</p>
+<p begin="00:54:50.560" end="00:54:53.280" region="R6" style="S2" xml:id="C817">
+<span style="S6">to keep the animal nice and moist.</span>
+</p>
+<p begin="00:54:53.280" end="00:54:57" region="agr_3_20_37_4_after" style="S2" xml:id="C818_1">
+<span style="S6">They weigh a lot so they can squash</span>
+<br/>
+<span style="S6">lungs on one side and not</span>
+</p>
+<p begin="00:54:57" end="00:55:02.400" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C819_1">
+<span style="S6">on the other, so as the tide comes</span>
+<br/>
+<span style="S6">in, we want to get it upright</span>
+</p>
+<p begin="00:55:02.400" end="00:55:05.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C820_1">
+<span style="S6">and then see if it's happy</span>
+<br/>
+<span style="S6">to swim off on its own.</span>
+</p>
+<p begin="00:55:06.880" end="00:55:10.680" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C821_1">
+<span style="S3">Found throughout the world's oceans,</span>
+<br/>
+<span style="S3">the fin whale</span>
+</p>
+<p begin="00:55:10.680" end="00:55:13.160" region="R6" style="S2" xml:id="C822">
+<span style="S3">can grow up to 25 metres in length.</span>
+</p>
+<p begin="00:55:16.080" end="00:55:20.120" region="agr_1_20_39_4_after" style="S2" xml:id="C823_1">
+<span style="S3">These giants come into the Celtic</span>
+<br/>
+<span style="S3">Deep to feed during the summer.</span>
+</p>
+<p begin="00:55:22.760" end="00:55:26.120" region="agr_0_20_39.5_4_after" style="S2" xml:id="C824_1">
+<span style="S3">The sea has finally returned</span>
+<br/>
+<span style="S3">to the Dee Estuary,</span>
+</p>
+<p begin="00:55:26.120" end="00:55:30.440" region="R59" style="S2" xml:id="C825_1">
+<span style="S3">and after a few hours, the whale</span>
+<br/>
+<span style="S3">is able to swim out.</span>
+</p>
+<p begin="00:55:30.440" end="00:55:32.960" region="R59" style="S2" xml:id="C826_1">
+<span style="S6">I look at the team that turned</span>
+<br/>
+<span style="S6">up today</span>
+</p>
+<p begin="00:55:32.960" end="00:55:36.240" region="agr_0_20_39_4_after" style="S2" xml:id="C827_1">
+<span style="S6">and I consider every single</span>
+<br/>
+<span style="S6">one of them heroes.</span>
+</p>
+<p begin="00:55:37.480" end="00:55:41.120" region="agr_0_20_38.5_4_after" style="S2" xml:id="C828_1">
+<span style="S6">The RNLI, the coastguards,</span>
+<br/>
+<span style="S6">all of the local fishermen.</span>
+</p>
+<p begin="00:55:41.120" end="00:55:43.840" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C829_1">
+<span style="S6">They are all heroes in their own way</span>
+<br/>
+<span style="S6">because they all want to help</span>
+</p>
+<p begin="00:55:43.840" end="00:55:46" region="agr_0_20_39.5_4_after" style="S2" xml:id="C830_1">
+<span style="S6">and they all have animals'</span>
+<br/>
+<span style="S6">best interest at heart.</span>
+</p>
+<p begin="00:55:46" end="00:55:49.440" region="R59" style="S2" xml:id="C831_1">
+<span style="S6">And it's so lovely to see,</span>
+<br/>
+<span style="S6">when you see some of the stuff</span>
+</p>
+<p begin="00:55:49.440" end="00:55:53.080" region="agr_0_20_39_4_after" style="S2" xml:id="C832_1">
+<span style="S6">that we do, it's nice to know</span>
+<br/>
+<span style="S6">that there is good people</span>
+</p>
+<p begin="00:55:53.080" end="00:55:56.880" region="R59" style="S2" xml:id="C833">
+<span style="S6">and a good side and potentially</span>
+<br/>
+<span style="S6">a good outcome for our oceans.</span>
+</p>
+<p begin="00:55:58.680" end="00:56:02.280" region="agr_0_20_38.5_4_after" style="S2" xml:id="C834_1">
+<span style="S3">Two days later, the young</span>
+<br/>
+<span style="S3">fin whale beached again.</span>
+</p>
+<p begin="00:56:04.120" end="00:56:06.920" region="R6" style="S2" xml:id="C835">
+<span style="S3">This time it couldn't be saved.</span>
+</p>
+<p begin="00:56:06.920" end="00:56:09.560" region="agr_0_20_39_4_after" style="S2" xml:id="C836_1">
+<span style="S3">Gem and the team were there</span>
+<br/>
+<span style="S3">to the end.</span>
+</p>
+<p begin="00:56:12.560" end="00:56:16.840" region="agr_0_20_38.5_4_after" style="S2" xml:id="C837_1">
+<span style="S3">Wales is a coastal nation.</span>
+<br/>
+<span style="S3">In our national anthem, the sea</span>
+</p>
+<p begin="00:56:16.840" end="00:56:20.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C838_1">
+<span style="S3">is described as a wall</span>
+<br/>
+<span style="S3">around our dear, dear land.</span>
+</p>
+<p begin="00:56:21.880" end="00:56:25.600" region="R6" style="S2" xml:id="C839">
+<span style="S3">This ocean has defended us, fed us</span>
+</p>
+<p begin="00:56:25.600" end="00:56:28" region="R6" style="S2" xml:id="C840">
+<span style="S3">and sustained us for generations.</span>
+</p>
+<p begin="00:56:29.200" end="00:56:34.960" region="R59" style="S2" xml:id="C841_1">
+<span style="S3">In return, we have neglected it,</span>
+<br/>
+<span style="S3">exploited it</span>
+</p>
+<p begin="00:56:34.960" end="00:56:37.640" region="R6" style="S2" xml:id="C842">
+<span style="S3">and squandered its riches.</span>
+</p>
+<p begin="00:56:37.640" end="00:56:40.680" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C843_1">
+<span style="S3">The real wonder of the Celtic Deep</span>
+<br/>
+<span style="S3">is that it's survived</span>
+</p>
+<p begin="00:56:40.680" end="00:56:42.600" region="R6" style="S2" xml:id="C844">
+<span style="S3">all that we have done to it.</span>
+</p>
+<p begin="00:56:42.600" end="00:56:44.520" region="R6" style="S2" xml:id="C845">
+<span style="S3">And that given the chance,</span>
+</p>
+<p begin="00:56:44.520" end="00:56:48.320" region="agr_0_20_39_4_after" style="S2" xml:id="C846_1">
+<span style="S3">it is capable of regeneration</span>
+<br/>
+<span style="S3">and recovery.</span>
+</p>
+<p begin="00:56:50.040" end="00:56:53.760" region="agr_0_20_39.5_4_after" style="S2" xml:id="C847_1">
+<span style="S3">Right now, our relationship</span>
+<br/>
+<span style="S3">with the ocean and the animals</span>
+</p>
+<p begin="00:56:53.760" end="00:56:58.800" region="agr_0_20_39.5_4_after" style="S2" xml:id="C848_1">
+<span style="S3">that live in it is both</span>
+<br/>
+<span style="S3">precious and precarious.</span>
+</p>
+<p begin="00:56:58.800" end="00:57:01.520" region="R6" style="S2" xml:id="C849">
+<span style="S3">So now is a time for heroes.</span>
+</p>
+<p begin="00:57:03.440" end="00:57:05.520" region="R6" style="S2" xml:id="C850">
+<span style="S3">For all of us to do what we can,</span>
+</p>
+<p begin="00:57:05.520" end="00:57:08.840" region="R6" style="S2" xml:id="C851">
+<span style="S3">however large or small...</span>
+</p>
+<p begin="00:57:10.560" end="00:57:14.400" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C852_1">
+<span style="S3">..to ensure that future generations</span>
+<br/>
+<span style="S3">will have this gift.</span>
+</p>
+<p begin="00:57:16.720" end="00:57:21.240" region="agr_1_20_39_4_after" style="S2" xml:id="C853_1">
+<span style="S3">So they too will know the wonders</span>
+<br/>
+<span style="S3">of the Celtic Deep.</span>
+</p>
+</div>
+</body>
+</tt>
