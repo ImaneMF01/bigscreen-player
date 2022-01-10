@@ -122,11 +122,14 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
 
   ////////set HDR on/off
 
+  let hdrState = false;
+
   function setHdr(isHdr) {
     setplaybuttonhdr(isHdr)
     setpausebuttonhdr(isHdr)
     setimghdr(isHdr)
     settxthdr(isHdr)
+    hdrState = isHdr;
 
     const currentTime = bigscreenPlayer.getCurrentTime();
 
@@ -134,8 +137,41 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
     loadPlayer(isHdr, currentTime);
   }
 
+  const toggleHdr = () => setHdr(!hdrState);
+
   window.setHdr = setHdr   /// make visible in global (document) scope
 
+  var hdrButton = document.createElement('button')
+  hdrButton.style.position='absolute'
+  hdrButton.style.background='transparent'
+  hdrButton.style.border='none'
+  hdrButton.style.fontSize='20px'
+  hdrButton.style.backgroundColor = 'black';
+  hdrButton.style.color = 'white';
+  hdrButton.style.marginTop= "740px"
+  hdrButton.style.padding= "10px"
+  hdrButton.innerText = 'Toggle HDR'
+
+  function sendMonitorHdrCommand() {
+    // Attempt to send INFObutton 5 command to monitor
+    fetch('http://localhost:3000/hdr', {
+        method: 'POST',
+    })
+        .then((response) => {
+          if (response)
+            console.log('Set monitor HDR mode successfully')
+          else 
+            console.error('Failed to set monitor HDR mode')
+        })
+        .catch(console.error);
+  }
+
+  hdrButton.onclick = function () {
+    toggleHdr();
+    sendMonitorHdrCommand();
+  }
+
+  document.body.appendChild(hdrButton)
 
   
   //add some text: Video Title
@@ -143,13 +179,13 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
 
 
   //t.setAttribute("type", "text")
-  t.setAttribute("value", "    Playing now: Black Narcissus ")
+  t.setAttribute("value", "    Playing Now: Wonders of The Celtic Deep ")
   t.style.position='absolute'
   //t.style.color= 'White'
-  t.style.width="300px"
+  t.style.width="420px"
   t.style.height="40px"
   //t.style.background= '#F54997'
-  t.style.left= '960px'
+  t.style.left= '850px'
   t.style.fontWeight='bold'
   t.style.fontSize='20px'
   t.style.top= "25px"
@@ -252,7 +288,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
     console.log('Transforming subtitles failed...')
   }})
 
-  const loadPlayer = function(hdr = false, initialPlaybackTime = 0) {
+  const loadPlayer = function(hdr = false, initialPlaybackTime = 470) {
     getStreamURL(hdr)
       .then(function (streamURL) {
         let minimalData = {
