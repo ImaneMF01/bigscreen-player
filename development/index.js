@@ -154,7 +154,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
 
   function sendMonitorHdrCommand() {
     // Attempt to send INFObutton 5 command to monitor
-    fetch('http://localhost:3000/hdr', {
+    fetch('http://localhost:8000/hdr', {
         method: 'POST',
     })
         .then((response) => {
