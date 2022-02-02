@@ -117,7 +117,8 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
       else{
         filename=imgsdr
         }
-    img.src=filename
+    //img.src=filename
+    img.style.backgroundImage=filename
   }
 
   ////////set HDR on/off
@@ -150,7 +151,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   hdrButton.style.color = 'white';
   hdrButton.style.marginTop= "740px"
   hdrButton.style.padding= "10px"
-  hdrButton.innerText = 'Toggle HDR'
+  hdrButton.innerText = 'Switch Mode'
 
   function sendMonitorHdrCommand() {
     // Attempt to send INFObutton 5 command to monitor
