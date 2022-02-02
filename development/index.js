@@ -46,9 +46,9 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   document.body.appendChild(button)
 
   function setplaybuttonhdr(ishdr){
-    
-    var playfilenamesdr="url('./playsdr.png')"
-    var playfilenamehdr="url('./playhlg.png')"
+  console.log('setplaybuttonhdr',ishdr)  
+    var playfilenamesdr='url("./playsdr.png")'
+    var playfilenamehdr='url("./playhlg.png")'
 
       if(ishdr){
         filename=playfilenamehdr
@@ -72,7 +72,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   pausebutton.style.backgroundSize="cover"
   pausebutton.style.backgroundPosition="center"
   pausebutton.style.marginTop= "600px"
-
+  pausebutton.id='PAUSE'
 
   pausebutton.addEventListener('click', function(){
     bigscreenPlayer.pause();
@@ -110,6 +110,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
       
     var imgsdr='./bbc_logo.png'
     var imghdr='./bbchlg.png'
+    //var imghdr='./bbchlg.png'
 
       if(ishdr){
         filename=imghdr
@@ -117,8 +118,8 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
       else{
         filename=imgsdr
         }
-    //img.src=filename
-    img.style.backgroundImage=filename
+    img.src=filename
+    //img.style.backgroundImage=filename
   }
 
   ////////set HDR on/off
@@ -130,18 +131,20 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
     setpausebuttonhdr(isHdr)
     setimghdr(isHdr)
     settxthdr(isHdr)
+    
     hdrState = isHdr;
 
     const currentTime = bigscreenPlayer.getCurrentTime();
 
     bigscreenPlayer.tearDown();
     loadPlayer(isHdr, currentTime);
+    bigscreenPlayer.customiseSubtitles({ hdr });
   }
 
   const toggleHdr = () => setHdr(!hdrState);
 
   window.setHdr = setHdr   /// make visible in global (document) scope
-
+  
   var hdrButton = document.createElement('button')
   hdrButton.style.position='absolute'
   hdrButton.style.background='transparent'
@@ -168,7 +171,9 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   }
 
   hdrButton.onclick = function () {
+    console.log('hdrButton.onclick')
     toggleHdr();
+   // console.log('hdrButton.onclick')
     sendMonitorHdrCommand();
   }
 
@@ -321,7 +326,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
               // The syntax below is equal to:
               // bigscreenPlayer.customiseSubtitles({ hdr: hdr });
               bigscreenPlayer.customiseSubtitles({ hdr });
-
+              console.log('bigscreenPlayer.customiseSubtitles',hdr)
               setplaybuttonhdr(hdr);
               setpausebuttonhdr(hdr);
               setimghdr(hdr);
