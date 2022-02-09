@@ -138,7 +138,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
 
     bigscreenPlayer.tearDown();
     loadPlayer(isHdr, currentTime);
-    bigscreenPlayer.customiseSubtitles({ hdr });
+    bigscreenPlayer.customiseSubtitles({ hdr: isHdr });
   }
 
   const toggleHdr = () => setHdr(!hdrState);
@@ -173,7 +173,6 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   hdrButton.onclick = function () {
     console.log('hdrButton.onclick')
     toggleHdr();
-   // console.log('hdrButton.onclick')
     sendMonitorHdrCommand();
   }
 
@@ -324,8 +323,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
               // bigscreenPlayer.toggleDebug();
 
               // The syntax below is equal to:
-              // bigscreenPlayer.customiseSubtitles({ hdr: hdr });
-              bigscreenPlayer.customiseSubtitles({ hdr });
+              bigscreenPlayer.customiseSubtitles({ hdr: hdr });
               console.log('bigscreenPlayer.customiseSubtitles',hdr)
               setplaybuttonhdr(hdr);
               setpausebuttonhdr(hdr);
