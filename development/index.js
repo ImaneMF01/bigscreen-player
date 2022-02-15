@@ -268,11 +268,16 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
         // script.src = 'https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/p05qtr4g/format/json/mediaset/iptv-all/jsfunc/_antie_callback_ms_p05qtr4g/proto/https';
        // script.src = 'https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/m000qw33/format/json/mediaset/iptv-uhd/jsfunc/_antie_callback_ms_m000qw33/proto/https';
 
-        const mediaset = hdr ? 'iptv-uhd' : 'iptv-all';
+        // const mediaset = hdr ? 'iptv-uhd' : 'iptv-all';
 
         //script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/m000qzd1/format/json/mediaset/${mediaset}/jsfunc/_antie_callback_ms_m000qzd1/proto/https`;
-        script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/p09xsx8m/format/json/mediaset/${mediaset}/jsfunc/_antie_callback_ms_p09xsx8m/proto/https`;
+      //  script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/p09xsx8m/format/json/mediaset/${mediaset}/jsfunc/_antie_callback_ms_p09xsx8m/proto/https`;
 
+        if (hdr) {
+          script.src = 'http://demo.ngvs.bbctest01.uk:8080/iptv-uhd.js';
+        } else {
+          script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/p09xsx8m/format/json/mediaset/iptv-all/jsfunc/_antie_callback_ms_p09xsx8m/proto/https`;
+        }
         document.head.appendChild(script);
         document.head.removeChild(script);
     });
@@ -312,6 +317,8 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
               // https://reference.dashif.org/dash.js/v2.9.2/samples/dash-if-reference-player/index.htm
               url: streamURL,
               //url:'http://vod-dash-uk-live.akamaized.net/usp/auth/vod/piff_abr_full_hd/1844d7-b04l8yty/vf_b04l8yty_f893eb14-a343-4d51-bc51-d04fa75d3b98.ism/iptv_hd_abr_v1_dash_master.mpd?__gda__=1625151430_5f7e7fb83d230b2704133531c3bebda0',
+              //url:'http://vod-dash-uk-rd-stage.akamaized.net/test/2022/e1b098b5-6484-4c20-b680-0de120896aa9/p09xsx8m/client_manifest.mpd',
+              //url: 'https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd',
               cdn: 'dash.akamaized.net'
             }],
           }
