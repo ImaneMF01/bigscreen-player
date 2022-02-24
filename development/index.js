@@ -137,7 +137,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
     const currentTime = bigscreenPlayer.getCurrentTime();
 
     bigscreenPlayer.tearDown();
-    loadPlayer(isHdr, currentTime);
+    loadPlayer(isHdr, isHdr, currentTime);
     bigscreenPlayer.customiseSubtitles({ hdr: isHdr });
   }
 
@@ -149,12 +149,13 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   hdrButton.style.position='absolute'
   hdrButton.style.background='transparent'
   hdrButton.style.border='none'
-  hdrButton.style.fontSize='20px'
+  hdrButton.style.fontSize='25px'
   hdrButton.style.backgroundColor = 'black';
-  hdrButton.style.color = 'white';
-  hdrButton.style.marginTop= "740px"
-  hdrButton.style.padding= "10px"
-  hdrButton.innerText = 'Switch Mode'
+  hdrButton.style.color = 'grey';
+  hdrButton.style.marginTop= "500px"
+  hdrButton.style.padding= "15px"
+  hdrButton.style.left= '1100px'
+  hdrButton.innerText = 'UI + Vid + M'
 
   function sendMonitorHdrCommand() {
     // Attempt to send INFObutton 5 command to monitor
@@ -178,7 +179,35 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
 
   document.body.appendChild(hdrButton)
 
-  
+  //Second Switch mode
+
+  var hdrButton2 = document.createElement('button')
+  hdrButton2.style.position='absolute'
+  hdrButton2.style.background='transparent'
+  hdrButton2.style.border='none'
+  hdrButton2.style.fontSize='25px'
+  hdrButton2.style.backgroundColor = 'black';
+  hdrButton2.style.color = 'grey';
+  hdrButton2.style.marginTop= "400px"
+  hdrButton2.style.padding= "15px"
+  hdrButton2.style.left= '1100px'
+  hdrButton2.innerText = ' Monitor + Vid'
+
+
+  hdrButton2.onclick = function () {
+    console.log('hdrButton2.onclick')
+    videoHdr();
+  //  sendMonitorHdrCommand();
+  }
+  function videoHdr() {
+    const currentTime = bigscreenPlayer.getCurrentTime();
+    loadPlayer(true, false, currentTime);
+
+    bigscreenPlayer.tearDown();
+  }
+
+  document.body.appendChild(hdrButton2)
+
   //add some text: Video Title
   var t = document.createElement("INPUT")
 
@@ -217,19 +246,15 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
   }
   document.body.appendChild(t)
 
-
   const getStreamURL = function (hdr = false) {
     return new Promise(function (resolve) {
         //window._antie_callback_ms_p05qtr4g = function (data) {
 
-        const supplier = hdr ? 'mf_akamai_uhd' : 'mf_akamai';
-
-        // The above is the same as:
-        // let supplier; 
-        // if (hdr)
-        //   supplier = 'mf_akamai_uhd';
-        // else 
-        //   supplier = 'mf_akamai';
+        let supplier; 
+        if (hdr)
+          supplier = 'mf_akamai_uhd';
+        else 
+          supplier = 'mf_akamai';
         
         window._antie_callback_ms_p09xsx8m = function (data) {  
             console.log(data);
@@ -283,6 +308,7 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
     });
   }
 
+
   let bigscreenPlayer = BigscreenPlayer();
   window._bigscreenPlayer = bigscreenPlayer;
 
@@ -298,8 +324,8 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
     console.log('Transforming subtitles failed...')
   }})
 
-  const loadPlayer = function(hdr = false, initialPlaybackTime = 470) {
-    getStreamURL(hdr)
+  const loadPlayer = function(videoHDR = false, uiHDR = false, initialPlaybackTime = 470) {
+    getStreamURL(videoHDR)
       .then(function (streamURL) {
         let minimalData = {
           initialPlaybackTime: initialPlaybackTime,
@@ -330,12 +356,13 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
               // bigscreenPlayer.toggleDebug();
 
               // The syntax below is equal to:
-              bigscreenPlayer.customiseSubtitles({ hdr: hdr });
-              console.log('bigscreenPlayer.customiseSubtitles',hdr)
-              setplaybuttonhdr(hdr);
-              setpausebuttonhdr(hdr);
-              setimghdr(hdr);
-              settxthdr(hdr);
+              bigscreenPlayer.customiseSubtitles({ hdr: uiHDR });
+              
+              console.log('bigscreenPlayer.customiseSubtitles',uiHDR)
+              setplaybuttonhdr(uiHDR);
+              setpausebuttonhdr(uiHDR);
+              setimghdr(uiHDR);
+              settxthdr(uiHDR);
 
               setUpCaptionsContainerCSS();
             },
@@ -347,5 +374,5 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
       });
   }
 
-  loadPlayer(false);
-})
+  loadPlayer();
+});
