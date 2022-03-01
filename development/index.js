@@ -301,7 +301,9 @@ require (['bigscreenplayer/bigscreenplayer'], function(BigscreenPlayer){
         if (hdr) {
           script.src = 'http://demo.ngvs.bbctest01.uk:8080/iptv-uhd.js';
         } else {
-          script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/p09xsx8m/format/json/mediaset/iptv-all/jsfunc/_antie_callback_ms_p09xsx8m/proto/https`;
+          script.src = 'http://demo.ngvs.bbctest01.uk:8080/iptv-all.js';
+          //script.src = `https://securegate.iplayer.bbc.co.uk/mediaselector/6/select/version/2.0/vpid/p09xsx8m/format/json/mediaset/iptv-all/jsfunc/_antie_callback_ms_p09xsx8m/proto/https`;
+
         }
         document.head.appendChild(script);
         document.head.removeChild(script);
